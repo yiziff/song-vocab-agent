@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+# generated / local runtime
+out/player/
+out/enrich/
+out/known_words.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

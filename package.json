@@ -1,0 +1,16 @@
+{
+  "name": "song-vocab-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal CET-6 vocab-from-songs prototype (Ch.22 canvas)",
+  "type": "module",
+  "bin": {
+    "song-vocab": "./cli.js"
+  },
+  "scripts": {
+    "build:demo": "node cli.js build --demo --artist \"Kanye West\"",
+    "learn:demo": "node cli.js learn --demo",
+    "build": "node cli.js build",
+    "learn": "node cli.js learn"
+  }
+}

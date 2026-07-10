@@ -1,0 +1,2417 @@
+{
+  "artist": "Kanye West",
+  "built_at": "2026-07-10T08:53:07.083Z",
+  "song_count": 36,
+  "word_count": 131,
+  "words": {
+    "fake": [
+      {
+        "song_id": "18969069",
+        "song_name": "Stronger",
+        "artist": "Kanye West, Daft Punk",
+        "t_ms": 57930,
+        "line": "That I would even show up to this fake sh!t",
+        "line_zh": "那就继续燥，嗨起来",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 38850,
+        "line": "Fake-ass facade that they couldn't keep up",
+        "line_zh": "即使力不从心，人们也总是摆着一张张虚伪的嘴脸",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 184180,
+        "line": "Tell your job you gotta fake em out",
+        "line_zh": "将你的工作统统都推掉",
+        "precision": "word"
+      }
+    ],
+    "mansion": [
+      {
+        "song_id": "2614013006",
+        "song_name": "SKY CITY",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 32797,
+        "line": "Do Pac got a thug mansion, is it pimped out?",
+        "line_zh": "2Pac是否有了自己的宅邸 它是否被后人改造过？（参考 2Pac 的歌曲《Thugz Mansion》，其中 2Pac 梦想着一个暴徒的天堂）",
+        "precision": "line"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 81040,
+        "line": "And I'mma get you that mansion that we couldn't afford",
+        "line_zh": "我要买间从不敢奢望的豪宅让你好好享受生活",
+        "precision": "word"
+      }
+    ],
+    "trial": [
+      {
+        "song_id": "2614013006",
+        "song_name": "SKY CITY",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 69179,
+        "line": "And he ask me if you could send a letter to the judge when he begin trial",
+        "line_zh": "他问我你能不能在法官开庭时给他写封信",
+        "precision": "line"
+      }
+    ],
+    "hop": [
+      {
+        "song_id": "2614013006",
+        "song_name": "SKY CITY",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 151616,
+        "line": "If they don't let us in, then we gon' hop the gate",
+        "line_zh": "如果他们不让我们进去 那我们就跳过大门",
+        "precision": "line"
+      },
+      {
+        "song_id": "18969070",
+        "song_name": "I Wonder",
+        "artist": "Kanye West",
+        "t_ms": 126600,
+        "line": "When you hop back in the car",
+        "line_zh": "当你回到车上",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969067",
+        "song_name": "Good Morning",
+        "artist": "Kanye West",
+        "t_ms": 129010,
+        "line": "While I hop in the Delorean",
+        "line_zh": "与其不同的我就像Delorean（出现在《回到未来》的一种时光机）",
+        "precision": "word"
+      }
+    ],
+    "attitude": [
+      {
+        "song_id": "2614013006",
+        "song_name": "SKY CITY",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 177686,
+        "line": "And free attitude with nothin' to prove",
+        "line_zh": "也没有什么可以证明的自由态度",
+        "precision": "line"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 38506,
+        "line": "But by his attitude, you'd think he's getting out in a week",
+        "line_zh": "但从他的态度来看 你会认为他一周后就会出狱",
+        "precision": "line"
+      }
+    ],
+    "sample": [
+      {
+        "song_id": "1399140739",
+        "song_name": "Follow God",
+        "artist": "Kanye West",
+        "t_ms": 3210,
+        "line": "Sample：Can You Lose By Following God—Whole Truth",
+        "line_zh": "将求助之手伸向您",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 3584,
+        "line": "Sample：Fonky Thang,Diamond‘Rang(1972)—The Dells",
+        "line_zh": "“你的儿子最近怎样？”",
+        "precision": "line"
+      },
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 2400,
+        "line": "Sample：The Mystery of Iniquity—Lauryn Hill",
+        "line_zh": "当物质与金钱坍塌",
+        "precision": "word"
+      },
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 0,
+        "line": "Sample：Victory（1998）—Diddy",
+        "line_zh": "［Intro采样自电影 冰刀双人组］",
+        "precision": "word"
+      },
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 2490,
+        "line": "［Intro: Blades of Glory sample］",
+        "line_zh": "“一路赚翻 总有人想设套罚我”",
+        "precision": "word"
+      },
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 142596,
+        "line": "［Interlude: Blades of Glory sample］",
+        "line_zh": "“我不懂那到底啥意思？”",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 24240,
+        "line": "Sample：Costume Party—Two Door Cinema Club",
+        "line_zh": "",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 3900,
+        "line": "Sample：Dreams V2—Kanye West",
+        "line_zh": "你酣睡时模糊的梦呓",
+        "precision": "word"
+      }
+    ],
+    "referee": [
+      {
+        "song_id": "1399140739",
+        "song_name": "Follow God",
+        "artist": "Kanye West",
+        "t_ms": 24990,
+        "line": "I was screamin' at the referee just like Mike",
+        "line_zh": "我曾抗衡规则条框 一如乔丹怒斥裁判",
+        "precision": "word"
+      }
+    ],
+    "decimal": [
+      {
+        "song_id": "1399140739",
+        "song_name": "Follow God",
+        "artist": "Kanye West",
+        "t_ms": 68610,
+        "line": "Not another word, letter, picture, or a decimal （Father, I stretch）",
+        "line_zh": "神垂怜 神慈爱 我怎想与神斗争",
+        "precision": "word"
+      }
+    ],
+    "author": [
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 63030,
+        "line": "Straight from a page of your favorite author",
+        "line_zh": "看一页你最爱的作者的作品",
+        "precision": "word"
+      }
+    ],
+    "recall": [
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 84450,
+        "line": "As I recall I know you love to show off",
+        "line_zh": "回想起来，我知道你爱炫耀",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 148020,
+        "line": "As I recall I know you love to show off",
+        "line_zh": "回想起来，我知道你爱炫耀",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 169110,
+        "line": "As you recall you know I love to show off",
+        "line_zh": "回想起来，你知道我爱炫耀",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969080",
+        "song_name": "Good Night",
+        "artist": "Kanye West, Mos Def, Al Be Back",
+        "t_ms": 61860,
+        "line": "And you don't really know 'cause you can't recall them?",
+        "line_zh": "好在梦能让你再次触及那些",
+        "precision": "word"
+      }
+    ],
+    "foul": [
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 113340,
+        "line": "I know it was foul baby every day lately",
+        "line_zh": "我知道，宝贝，这样是不好的",
+        "precision": "word"
+      }
+    ],
+    "visa": [
+      {
+        "song_id": "18969075",
+        "song_name": "Flashing Lights",
+        "artist": "Kanye West, Dwele",
+        "t_ms": 134550,
+        "line": "Like a flight with no VISA",
+        "line_zh": "就像没有了 Visa的航班",
+        "precision": "word"
+      }
+    ],
+    "bound": [
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 0,
+        "line": "Bound to fall in love",
+        "line_zh": "一定会坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 7140,
+        "line": "Bound to fall in love （Uh-huh, honey）",
+        "line_zh": "一定会坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 20790,
+        "line": "Bound to fall in love",
+        "line_zh": "一定会坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 27240,
+        "line": "Bound to fall in love （Uh-huh, honey）",
+        "line_zh": "一定会坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 103470,
+        "line": "Bound to fall in love",
+        "line_zh": "注定要坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 109860,
+        "line": "Bound to fall in love （Uh-huh, honey）",
+        "line_zh": "注定要坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 216870,
+        "line": "Bound to fall in love",
+        "line_zh": "注定要坠入爱河",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 223260,
+        "line": "Bound to fall in love （Uh-huh, honey）",
+        "line_zh": "注定要坠入爱河",
+        "precision": "word"
+      }
+    ],
+    "lame": [
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 15270,
+        "line": "All them other ****** lame, and you know it now",
+        "line_zh": "其他男人都如此差劲，现在你知道了吧",
+        "precision": "word"
+      }
+    ],
+    "champagne": [
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 40050,
+        "line": "They ordered champagne but still look thirsty",
+        "line_zh": "她们点了很多香槟，可还是很渴",
+        "precision": "word"
+      }
+    ],
+    "reputation": [
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 47670,
+        "line": "I know I got a bad reputation",
+        "line_zh": "我知道我的名声不好",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 50940,
+        "line": "Walking 'round, always mad reputation",
+        "line_zh": "整天板着一张愤怒的面孔",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 54150,
+        "line": "Leave a pretty girl sad reputation",
+        "line_zh": "还总让美女们悲伤难过",
+        "precision": "word"
+      },
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 57330,
+        "line": "Start a Fight Club, Brad reputation",
+        "line_zh": "老子就像搏击俱乐部里的布拉德皮特",
+        "precision": "word"
+      }
+    ],
+    "thanksgiving": [
+      {
+        "song_id": "26524156",
+        "song_name": "Bound 2",
+        "artist": "Kanye West, Charlie Wilson",
+        "t_ms": 149490,
+        "line": "And hey, ayo, we made it, Thanksgiving",
+        "line_zh": "我们走到了一起，共度感恩节",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 31386,
+        "line": "It hit us super hard on Thanksgiving and Christmas",
+        "line_zh": "尤其是圣诞和感恩节 我们都好想你",
+        "precision": "line"
+      }
+    ],
+    "odor": [
+      {
+        "song_id": "5084642",
+        "song_name": "One & Only",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 96880,
+        "line": "Light the ***** and let the odor blow",
+        "line_zh": "点燃*****，让气味袭来",
+        "precision": "word"
+      }
+    ],
+    "figure": [
+      {
+        "song_id": "5084642",
+        "song_name": "One & Only",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 107020,
+        "line": "Why them girls figure no means no?",
+        "line_zh": "为什么她们认为不就是不?",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969083",
+        "song_name": "Heard 'Em Say",
+        "artist": "Kanye West, Adam Levine",
+        "t_ms": 98300,
+        "line": "I  can't  figure  it  out,I'm  sick  of  it  now",
+        "line_zh": "我就纳了闷了，真不明白",
+        "precision": "word"
+      }
+    ],
+    "fling": [
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 28320,
+        "line": "Turned out to be more than just a fling, huh?",
+        "line_zh": "结果不仅仅是一时冲动所造成的背叛吧 对吧？",
+        "precision": "word"
+      }
+    ],
+    "barely": [
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 56340,
+        "line": "You had a Benz at sixteen, I could barely afford an Audi",
+        "line_zh": "你十六岁就有奔驰开 而我连奥迪都买不起",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969067",
+        "song_name": "Good Morning",
+        "artist": "Kanye West",
+        "t_ms": 46450,
+        "line": "And yes, barely pass any and every class",
+        "line_zh": "当然还算是你最好的成绩",
+        "precision": "word"
+      }
+    ],
+    "court": [
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 65910,
+        "line": "Billionaire sport, step up to the court",
+        "line_zh": "那些情侣租下套房 我们直接买下度假村",
+        "precision": "word"
+      }
+    ],
+    "resort": [
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 68640,
+        "line": "They rented a room, we bought the resort",
+        "line_zh": "神有我的信仰 祂有了虔诚的子嗣",
+        "precision": "word"
+      }
+    ],
+    "luxury": [
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 76740,
+        "line": "Time went silence, a luxury",
+        "line_zh": "时间无声溜走 是那么奢侈",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876297",
+        "song_name": "Lord I Need You",
+        "artist": "Kanye West",
+        "t_ms": 88320,
+        "line": "Time and space is a luxury",
+        "line_zh": "闲暇与平静皆是奢侈品",
+        "precision": "word"
+      }
+    ],
+    "dean": [
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 42650,
+        "line": "Co-producers: Emile, Jeff Bhasker & Mike Dean",
+        "line_zh": "",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 44664,
+        "line": "Writers：Jeff Bhasker/Pusha T/John Branch/Malik Yusef/Kanye West/Mike Dean/Emile Haynie",
+        "line_zh": "",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 3541,
+        "line": "Writers：Nicki Minaj/Pardison Fontaine/Kevin Parker/Ty Dolla $ign/Malik Yusef/7 Aurelius /Irv Gotti/070 Shake/Mike Dean/Kanye West",
+        "line_zh": "你酣睡时模糊的梦呓",
+        "precision": "word"
+      }
+    ],
+    "jerk": [
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 95190,
+        "line": "Let's have a toast for the jerk-offs",
+        "line_zh": "再为那些愚昧白痴举杯",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 161400,
+        "line": "Let's have a toast for the jerk-offs",
+        "line_zh": "再为那些愚昧白痴举杯",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 315870,
+        "line": "Let's have a toast for the jerk-offs",
+        "line_zh": "再为那些愚昧白痴举杯",
+        "precision": "word"
+      }
+    ],
+    "admit": [
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 222030,
+        "line": "I-I-I-I did it, alright, alright, I admit it",
+        "line_zh": "结局任由你来选择 黯然退场或接受现状",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 170730,
+        "line": "We all self-conscious, I'm just the first to admit it",
+        "line_zh": "当物质与金钱坍塌",
+        "precision": "word"
+      }
+    ],
+    "advantage": [
+      {
+        "song_id": "18969210",
+        "song_name": "Runaway",
+        "artist": "Kanye West, Pusha T",
+        "t_ms": 271710,
+        "line": "I guess you knew of that advantage",
+        "line_zh": "这诞下的恶果 不妨统统加罪于我",
+        "precision": "word"
+      }
+    ],
+    "stack": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 11300,
+        "line": "And all my people thats drug dealin jus to get by stack ya money till it gets sky high",
+        "line_zh": "我的哥们儿贩毒只是迫于生计，但是毫无顾忌地把钱堆到天上去吧！",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 80630,
+        "line": "drug dealin jus to get by stack ya money till it gets sky high",
+        "line_zh": "贩毒只是迫于生计，但是毫无顾忌地把钱堆到天上去吧！",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 149960,
+        "line": "drug dealin jus to get by stack ya money till it gets sky high",
+        "line_zh": "贩毒只是迫于生计，但是毫无顾忌地把钱堆到天上去吧！",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 219230,
+        "line": "drug dealin jus to get by stack ya money till it gets sky high",
+        "line_zh": "贩毒只是迫于生计，但是毫无顾忌地把钱堆到天上去吧！",
+        "precision": "word"
+      }
+    ],
+    "community": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 61850,
+        "line": "Sittin in the hood like community colleges",
+        "line_zh": "而贩毒的利润就像是LilTrey的奖学金",
+        "precision": "word"
+      }
+    ],
+    "tuition": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 67010,
+        "line": "Cause aint no to tuition for havin no ambition",
+        "line_zh": "因为没有野心的人可拿不到这笔钱",
+        "precision": "word"
+      }
+    ],
+    "ambition": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 68210,
+        "line": "Cause aint no to tuition for havin no ambition",
+        "line_zh": "傻坐在家里可是拿不到贷款的",
+        "precision": "word"
+      }
+    ],
+    "rap": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 73340,
+        "line": "So we forced to sell crack rap and get a job",
+        "line_zh": "哥们你总得做些什么，你可不小了",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969078",
+        "song_name": "Homecoming",
+        "artist": "Kanye West, Chris Martin",
+        "t_ms": 105390,
+        "line": "They wanna rap and make soul beats just like you",
+        "line_zh": "”他们想和你一样用灵魂乐来说唱“",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 145740,
+        "line": "I know people wouldn't usually rap this",
+        "line_zh": "但是我就事实来说话",
+        "precision": "word"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 74500,
+        "line": "Them boys really from the concrete, they'll make your wig split like a rap group",
+        "line_zh": "他们个个都是狠角色 他们会分分钟把你一劈两半",
+        "precision": "line"
+      }
+    ],
+    "verse": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 100250,
+        "line": "The second verse is for my dogs working 9 to 5",
+        "line_zh": "第二段献给每天朝九晚五的兄弟们",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 23955,
+        "line": "【Verse 1】",
+        "line_zh": "人无完人，我永远不能如镜头中的碧女神般完美无瑕",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 83775,
+        "line": "【Verse 2】",
+        "line_zh": "我现在要粉碎那些谣言",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 143415,
+        "line": "【Verse 3】",
+        "line_zh": "我晓得歌手们不经常在自己的歌里谈论谋杀问题",
+        "precision": "word"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 16163,
+        "line": "[Verse 1: Cordae]",
+        "line_zh": "我接到了我兄弟的电话 他在处理一些棘手的事情",
+        "precision": "line"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 52881,
+        "line": "[Verse 2: Cordae]",
+        "line_zh": "今天没什么好证明的 我常常祈祷",
+        "precision": "line"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 31960,
+        "line": "（Verse 1）",
+        "line_zh": "我想向全世界引荐我的一位良师益友",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 112150,
+        "line": "（Verse 2）",
+        "line_zh": "阿甘的妈妈曾经说过：“人生就像一盒巧克力”",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 130900,
+        "line": "Give me a verse of \"You Are So Beautiful To Me\"",
+        "line_zh": "给我唱一句：“你于我而言是如此美丽”",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 183130,
+        "line": "（Verse 3）",
+        "line_zh": "将你的工作统统都推掉",
+        "precision": "word"
+      }
+    ],
+    "claim": [
+      {
+        "song_id": "18969131",
+        "song_name": "We Don't Care",
+        "artist": "Kanye West",
+        "t_ms": 114320,
+        "line": "We claim other people kids on our income tax",
+        "line_zh": "我们把其他人的小孩划在自己名下来减少个人所得税",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969083",
+        "song_name": "Heard 'Em Say",
+        "artist": "Kanye West, Adam Levine",
+        "t_ms": 93740,
+        "line": "His  job  try  to  claim  that  he  too  niggerish  now",
+        "line_zh": "他对他的工作也越来越挑剔",
+        "precision": "word"
+      }
+    ],
+    "sip": [
+      {
+        "song_id": "1873876997",
+        "song_name": "Moon",
+        "artist": "Kanye West",
+        "t_ms": 47040,
+        "line": "Sittin', I sip out my cup",
+        "line_zh": "将斟满的杯子一饮而尽",
+        "precision": "word"
+      }
+    ],
+    "deny": [
+      {
+        "song_id": "1873876300",
+        "song_name": "Come to Life",
+        "artist": "Kanye West",
+        "t_ms": 71010,
+        "line": "And my God won't deny me, tell the Devil, \"Get behind me\"",
+        "line_zh": "上帝不会拒绝我 哪怕是恶魔 都被我抛之身后",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 97032,
+        "line": "I can't deny it, I'm a straight rider",
+        "line_zh": "无法否认自己的杰出 我就是心直口快",
+        "precision": "line"
+      }
+    ],
+    "define": [
+      {
+        "song_id": "1873876300",
+        "song_name": "Come to Life",
+        "artist": "Kanye West",
+        "t_ms": 205710,
+        "line": "You know where to find me, they cannot define me",
+        "line_zh": "他们对我百般迫害折磨 当我脱身时怎会仓皇失措？",
+        "precision": "word"
+      }
+    ],
+    "purify": [
+      {
+        "song_id": "1873876300",
+        "song_name": "Come to Life",
+        "artist": "Kanye West",
+        "t_ms": 211110,
+        "line": "Come and purify me, come and sanctify me",
+        "line_zh": "请使我洁净 使我升华成圣",
+        "precision": "word"
+      }
+    ],
+    "beam": [
+      {
+        "song_id": "1873876300",
+        "song_name": "Come to Life",
+        "artist": "Kanye West",
+        "t_ms": 217710,
+        "line": "You the air that I breathe, the ultra-ultralight beam",
+        "line_zh": "给小西北买了礼物 她只想穿耐克",
+        "precision": "word"
+      }
+    ],
+    "positive": [
+      {
+        "song_id": "30284481",
+        "song_name": "FourFiveSeconds",
+        "artist": "Rihanna, Kanye West, Paul McCartney",
+        "t_ms": 53730,
+        "line": "Woke up an optimist, sun was shining I'm positive",
+        "line_zh": "乐观的人已经醒来，阳光灿烂，神清气爽",
+        "precision": "word"
+      }
+    ],
+    "reckless": [
+      {
+        "song_id": "30284481",
+        "song_name": "FourFiveSeconds",
+        "artist": "Rihanna, Kanye West, Paul McCartney",
+        "t_ms": 109830,
+        "line": "Thinkin' how could I be so reckless",
+        "line_zh": "想着我怎么会这么莽撞",
+        "precision": "word"
+      },
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 39436,
+        "line": "Keep your dogs strapped down, they be reckless (Yeah, yeah)",
+        "line_zh": "把你的手下管好 他们太无礼了",
+        "precision": "line"
+      }
+    ],
+    "lease": [
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 77832,
+        "line": "(real is what you lease on me)",
+        "line_zh": "（你寄于我心的 才是真实的）",
+        "precision": "line"
+      },
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 140411,
+        "line": "I'm the owner, this shit not a lease",
+        "line_zh": "我就是发起人 这可不是什么临场作秀",
+        "precision": "line"
+      }
+    ],
+    "electric": [
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 99644,
+        "line": "But when we get together be electric slidin'",
+        "line_zh": "但每当家人团聚 我们总能尽情摇摆",
+        "precision": "line"
+      }
+    ],
+    "lane": [
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 109466,
+        "line": "But I bet them Polaroids'll send her down memory lane",
+        "line_zh": "但我敢说这些宝丽来照片能唤起她的回忆",
+        "precision": "line"
+      }
+    ],
+    "reunion": [
+      {
+        "song_id": "18969150",
+        "song_name": "Family Business",
+        "artist": "Kanye West",
+        "t_ms": 184124,
+        "line": "Y'all gon' sit down, have a good time this reunion",
+        "line_zh": "都给我乖乖坐回来 好好珍惜这次团聚",
+        "precision": "line"
+      }
+    ],
+    "conscious": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 25830,
+        "line": "Man, I promise, she's so self-conscious",
+        "line_zh": "但她对大学生活毫无头绪",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 78510,
+        "line": "Man, I promise, I'm so self-conscious",
+        "line_zh": "这正是为何你总能看到我带着豪表",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 169410,
+        "line": "We all self-conscious, I'm just the first to admit it",
+        "line_zh": "人皆虚荣自负 我只是首个敢于承认的人罢了",
+        "precision": "word"
+      }
+    ],
+    "concept": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 37140,
+        "line": "The concept of school seems so securr",
+        "line_zh": "但接受教育看似又十分可靠",
+        "precision": "word"
+      }
+    ],
+    "precious": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 50610,
+        "line": "She's so precious with the peer pressure",
+        "line_zh": "同辈压力令她显得矫揉造作",
+        "precision": "word"
+      }
+    ],
+    "pressure": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 51930,
+        "line": "She's so precious with the peer pressure",
+        "line_zh": "买不起Lexus 她便为女儿起名“A lexis”",
+        "precision": "word"
+      }
+    ],
+    "degrade": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 110130,
+        "line": "We shine because they hate us, floss 'cause they degrade us",
+        "line_zh": "黑人将赢回应得的补偿",
+        "precision": "word"
+      }
+    ],
+    "wealth": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 141690,
+        "line": "'Cause they made us hate ourself and love they wealth",
+        "line_zh": "拜金的妞只想去纸醉金迷的舞会",
+        "precision": "word"
+      }
+    ],
+    "terrific": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 162600,
+        "line": "I wanna act ballerific like it's all terrific",
+        "line_zh": "我有很多逾期未结的账单",
+        "precision": "word"
+      }
+    ],
+    "specific": [
+      {
+        "song_id": "18969133",
+        "song_name": "All Falls Down",
+        "artist": "Kanye West, Syleena Johnson",
+        "t_ms": 165210,
+        "line": "I got a couple past-due bills, I won't get specific",
+        "line_zh": "还有超前消费的坏习惯",
+        "precision": "word"
+      }
+    ],
+    "bleed": [
+      {
+        "song_id": "570350028",
+        "song_name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "t_ms": 190620,
+        "line": "I put my hand on a stove, to see if I still bleed, yeah",
+        "line_zh": "拥抱自由 不再为世俗而活",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350028",
+        "song_name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "t_ms": 213630,
+        "line": "I put my hand on a stove, to see if I still bleed, yeah",
+        "line_zh": "拥抱自由 不再为世俗而活",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350028",
+        "song_name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "t_ms": 236700,
+        "line": "I put my hand on a stove, to see if I still bleed, yeah",
+        "line_zh": "拥抱自由 不再为世俗而活",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350028",
+        "song_name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "t_ms": 259650,
+        "line": "I put my hand on a stove, to see if I still bleed, yeah",
+        "line_zh": "这次我只想为自己而活",
+        "precision": "word"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 32378,
+        "line": "And on the phone, I hear his bleed, he 'bout as proud as can be",
+        "line_zh": "在电话里 我听到了他的喜悦 他非常自豪",
+        "precision": "line"
+      }
+    ],
+    "weapon": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 13770,
+        "line": "You need somethin' unexpected, some form of weapon",
+        "line_zh": "你让他感到安全 他仍然感到被保护",
+        "precision": "word"
+      }
+    ],
+    "drag": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 32280,
+        "line": "Don't let, don't let the lifestyle drag you down",
+        "line_zh": "谁知道你上次感受到爱是多久呢",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 137880,
+        "line": "Don't let, don't let the lifestyle drag you down",
+        "line_zh": "谁知道你上一次坠入爱河是多久呢",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 226680,
+        "line": "Don't let, don't let the lifestyle drag you down",
+        "line_zh": "谁知道你上次感受到爱是多久呢",
+        "precision": "word"
+      }
+    ],
+    "sparkle": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 40230,
+        "line": "One last sparkle to follow in my light",
+        "line_zh": "在我的明朗下 这是最后的闪光",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 45030,
+        "line": "One last sparkle to follow",
+        "line_zh": "最后一道闪光随之而来",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 145830,
+        "line": "One last sparkle to follow in my light",
+        "line_zh": "在我的明朗下 这是最后的闪光",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 150630,
+        "line": "One last sparkle to follow in love",
+        "line_zh": "最后一道追随爱的闪光",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 155430,
+        "line": "One last sparkle to follow in my light",
+        "line_zh": "最后一道闪光随之而来",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 160230,
+        "line": "One last sparkle to follow",
+        "line_zh": "最后一道闪光随之而来",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 234630,
+        "line": "One last sparkle to follow in my light （Right on, right on）",
+        "line_zh": "在我的明朗下 这是最后的闪光",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 239430,
+        "line": "One last sparkle to follow",
+        "line_zh": "最后一道闪光随之而来",
+        "precision": "word"
+      }
+    ],
+    "worthy": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 57330,
+        "line": "Play somethin' that is very, very vibe worthy",
+        "line_zh": "我不太想让自己精神持续紧绷",
+        "precision": "word"
+      }
+    ],
+    "release": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 72510,
+        "line": "Just release the spirit, let it flow though",
+        "line_zh": "释放我的魂魄 让它自在流淌",
+        "precision": "word"
+      }
+    ],
+    "solo": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 82770,
+        "line": "Even if I gotta do it solo, even if I gotta do it with no promo",
+        "line_zh": "即使我孤身一人 也要做得不露声色",
+        "precision": "word"
+      }
+    ],
+    "involve": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 93510,
+        "line": "Don't involve yourself in things you don't have to know",
+        "line_zh": "“勿要把自己卷入未知之事中”",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 117510,
+        "line": "Don't involve yourself in things that you ain't have to know",
+        "line_zh": "别把自己卷入未知之事中",
+        "precision": "word"
+      },
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 122310,
+        "line": "Don't involve yourself in things that you ain't have to know",
+        "line_zh": "别把自己卷入未知之事中",
+        "precision": "word"
+      }
+    ],
+    "deceive": [
+      {
+        "song_id": "1873876996",
+        "song_name": "Believe What I Say",
+        "artist": "Kanye West",
+        "t_ms": 187350,
+        "line": "Told me, I didn't believe, you said I was out to deceive, ahaha",
+        "line_zh": "“你告诉我这些时 我不相信 你说我才是骗子 哈哈哈”",
+        "precision": "word"
+      }
+    ],
+    "tow": [
+      {
+        "song_id": "18969078",
+        "song_name": "Homecoming",
+        "artist": "Kanye West, Chris Martin",
+        "t_ms": 43320,
+        "line": "They like to act tough, she like to tow em off",
+        "line_zh": "她会拆穿他们，因为她知道他们不过一群怂包",
+        "precision": "word"
+      }
+    ],
+    "crowd": [
+      {
+        "song_id": "18969078",
+        "song_name": "Homecoming",
+        "artist": "Kanye West, Chris Martin",
+        "t_ms": 131010,
+        "line": "Jump in the crowd, spark your lighters, wave 'em around,",
+        "line_zh": "跃入人群，点起你的打火机，舞动它们",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 26010,
+        "line": "You don't see just how wild the crowd is?",
+        "line_zh": "你有没有看见爷的穿搭有多么风骚吗？",
+        "precision": "word"
+      }
+    ],
+    "dimension": [
+      {
+        "song_id": "1480088566",
+        "song_name": "You Still Take Me To The Light",
+        "artist": "Francis and the Lights, Kanye West, Bon Iver",
+        "t_ms": 30312,
+        "line": "Ooh, the fifth dimension",
+        "line_zh": "在第五维度的领域里",
+        "precision": "line"
+      },
+      {
+        "song_id": "1480088566",
+        "song_name": "You Still Take Me To The Light",
+        "artist": "Francis and the Lights, Kanye West, Bon Iver",
+        "t_ms": 110148,
+        "line": "Ooh, the first dimension",
+        "line_zh": "在第一维度的领域里",
+        "precision": "line"
+      },
+      {
+        "song_id": "1480088566",
+        "song_name": "You Still Take Me To The Light",
+        "artist": "Francis and the Lights, Kanye West, Bon Iver",
+        "t_ms": 147158,
+        "line": "Darlin', in the first dimension",
+        "line_zh": "亲爱的 在这个超越感知的世界里",
+        "precision": "line"
+      }
+    ],
+    "slide": [
+      {
+        "song_id": "1480088566",
+        "song_name": "You Still Take Me To The Light",
+        "artist": "Francis and the Lights, Kanye West, Bon Iver",
+        "t_ms": 106689,
+        "line": "It's a giant water slide, don't you hang me out to dry",
+        "line_zh": "就像在巨大的滑水道中穿梭 别在中途丢下我",
+        "precision": "line"
+      }
+    ],
+    "minimum": [
+      {
+        "song_id": "18969083",
+        "song_name": "Heard 'Em Say",
+        "artist": "Kanye West, Adam Levine",
+        "t_ms": 23810,
+        "line": "Can  I  at  least  get  a  raise  of  the  minimum  wage?",
+        "line_zh": "我知道这事是上头管着",
+        "precision": "word"
+      }
+    ],
+    "tease": [
+      {
+        "song_id": "18969083",
+        "song_name": "Heard 'Em Say",
+        "artist": "Kanye West, Adam Levine",
+        "t_ms": 87380,
+        "line": "And  put  them  lottery  tickets,just  to  tease  us",
+        "line_zh": "我伯母烟不离手",
+        "precision": "word"
+      },
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 66968,
+        "line": "Might be pregnant and this ain't a tease (Might be pregnant and this ain't a tease)",
+        "line_zh": "她可能有了我的娃 我不是开玩笑",
+        "precision": "line"
+      }
+    ],
+    "premier": [
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 62145,
+        "line": "【Hook】 （DJ Premier scratches）",
+        "line_zh": "我又感觉哔了狗了",
+        "precision": "word"
+      }
+    ],
+    "award": [
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 110070,
+        "line": "So say goodbye to the NAACP Award",
+        "line_zh": "更何况是牛逼的India Arie奖（没这个奖，India Arie2001年格莱美7提0中，侃爷拿来调侃自己）",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 113040,
+        "line": "Goodbye to the India Arie Award",
+        "line_zh": "他们甚至想颁给我“老黑，消消气”奖（《 Please》Ol' Dirty Bastard的专辑》）",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 116190,
+        "line": "They'd rather give me the N-***** Please Award",
+        "line_zh": "但我不吃他们那套，我只想领那个“我赚了大把的钞票”奖",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 119310,
+        "line": "But I'll just take the I Got a Lot of Cheese Award",
+        "line_zh": "我又感觉哔了狗了",
+        "precision": "word"
+      }
+    ],
+    "slip": [
+      {
+        "song_id": "18969076",
+        "song_name": "Everything I Am",
+        "artist": "Kanye West, DJ Premier",
+        "t_ms": 169830,
+        "line": "Pink slip on my door, 'cause I can't afford to stay",
+        "line_zh": "搬迁通知单都贴到我家门上了，因为我付不起房租",
+        "precision": "word"
+      }
+    ],
+    "weird": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 34050,
+        "line": "（Ball so hard） This **** weird",
+        "line_zh": "凭我俩的出身 理应不会如此成功",
+        "precision": "word"
+      }
+    ],
+    "liable": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 40740,
+        "line": "Psycho: I'm liable to go Michael, take your pick",
+        "line_zh": "辉煌堪比诸位Michael 请仰慕这些名字",
+        "precision": "word"
+      }
+    ],
+    "tick": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 49320,
+        "line": "Rollies that don't tick-tock",
+        "line_zh": "已看不清爱彼的指针旋转",
+        "precision": "word"
+      }
+    ],
+    "behave": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 68160,
+        "line": "（Ball so hard） *****, behave",
+        "line_zh": "接下来是Kanye说教时间",
+        "precision": "word"
+      }
+    ],
+    "mall": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 90360,
+        "line": "She said, \"'Ye, can we get married at the mall?\"",
+        "line_zh": "我说:“走路前要先学会爬",
+        "precision": "word"
+      }
+    ],
+    "stall": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 97200,
+        "line": "Come and meet me in the bathroom stall",
+        "line_zh": "\"让我见识下 为何你值得我宠爱有加“",
+        "precision": "word"
+      }
+    ],
+    "deserve": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 99630,
+        "line": "And show me why you deserve to have it all",
+        "line_zh": "\"让我见识下 为何你值得我宠爱有加“",
+        "precision": "word"
+      }
+    ],
+    "provocative": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 146010,
+        "line": "\"No one knows what it means, but it's provocative\"",
+        "line_zh": "“没人深究他的意思 但就是让人激动亢奋”",
+        "precision": "word"
+      }
+    ],
+    "gross": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 148320,
+        "line": "\"No, it's not, it's gross\"",
+        "line_zh": "“哪有？很恶心好不好”",
+        "precision": "word"
+      }
+    ],
+    "throne": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 177810,
+        "line": "You are now watching the throne",
+        "line_zh": "众人此刻仰视王座",
+        "precision": "word"
+      },
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 205200,
+        "line": "You are now watching the throne",
+        "line_zh": "你正目视我的王座",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139960",
+        "song_name": "Closed On Sunday",
+        "artist": "Kanye West",
+        "t_ms": 102750,
+        "line": "I bow down to the King upon the throne",
+        "line_zh": "我的生命长属于祂 再也无法任由我而决定",
+        "precision": "word"
+      }
+    ],
+    "definitely": [
+      {
+        "song_id": "18614254",
+        "song_name": "Niggas In Paris",
+        "artist": "JAY-Z, Kanye West",
+        "t_ms": 209520,
+        "line": "（I'm definitely in my zone, zone, zone, zone, zone...）",
+        "line_zh": "我已登上王座",
+        "precision": "word"
+      }
+    ],
+    "destination": [
+      {
+        "song_id": "18969185",
+        "song_name": "Street Lights",
+        "artist": "Kanye West",
+        "t_ms": 46530,
+        "line": "See I know my destination, but I'm just not there",
+        "line_zh": "我知道此行最终的归途 但我仍在路上",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969185",
+        "song_name": "Street Lights",
+        "artist": "Kanye West",
+        "t_ms": 69450,
+        "line": "See I know my destination, but I'm just not there",
+        "line_zh": "我知道此行最终的归途 但我仍在路上",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969185",
+        "song_name": "Street Lights",
+        "artist": "Kanye West",
+        "t_ms": 115320,
+        "line": "See I know my destination, but I'm just not there",
+        "line_zh": "我知道此行最终的归途 但我仍在路上",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969185",
+        "song_name": "Street Lights",
+        "artist": "Kanye West",
+        "t_ms": 138240,
+        "line": "See I know my destination, but I'm just not there",
+        "line_zh": "我知道此行最终的归途 但我仍在路上",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969185",
+        "song_name": "Street Lights",
+        "artist": "Kanye West",
+        "t_ms": 161160,
+        "line": "See I know my destination, but I'm just not there",
+        "line_zh": "我知道此行最终的归途 但我仍在路上",
+        "precision": "word"
+      }
+    ],
+    "issue": [
+      {
+        "song_id": "18969070",
+        "song_name": "I Wonder",
+        "artist": "Kanye West",
+        "t_ms": 117330,
+        "line": "Do you even remember what the issue is",
+        "line_zh": "你只不过想找到拭去眼泪的纸巾",
+        "precision": "word"
+      }
+    ],
+    "tissue": [
+      {
+        "song_id": "18969070",
+        "song_name": "I Wonder",
+        "artist": "Kanye West",
+        "t_ms": 119790,
+        "line": "You just trying to find where the tissue is",
+        "line_zh": "你只不过想找到拭去眼泪的纸巾",
+        "precision": "word"
+      }
+    ],
+    "intuition": [
+      {
+        "song_id": "18969070",
+        "song_name": "I Wonder",
+        "artist": "Kanye West",
+        "t_ms": 124710,
+        "line": "And that's what the intuition is",
+        "line_zh": "但直觉告诉我就是如此",
+        "precision": "word"
+      }
+    ],
+    "spouse": [
+      {
+        "song_id": "18969070",
+        "song_name": "I Wonder",
+        "artist": "Kanye West",
+        "t_ms": 179400,
+        "line": "How many ladies in the house without a spouse",
+        "line_zh": "多少个女士还孤身一人",
+        "precision": "word"
+      }
+    ],
+    "addict": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 19837,
+        "line": "When I'm rockin' drug addict clothes, yeah, huh",
+        "line_zh": "当我服用药物时 身着最昂贵的穿搭",
+        "precision": "line"
+      }
+    ],
+    "credit": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 28944,
+        "line": "I don't do credit, I don't do credit",
+        "line_zh": "哥不用信用卡 哥只用现金",
+        "precision": "line"
+      }
+    ],
+    "bust": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 41261,
+        "line": "Audemars bust down and it's speckless (Oh, yeah)",
+        "line_zh": "我的爱彼钻表 完美无暇",
+        "precision": "line"
+      },
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 44846,
+        "line": "Presi' cut, bust down bro necklace (Bust down)",
+        "line_zh": "昂贵吊坠挂在你我的脖子上",
+        "precision": "line"
+      }
+    ],
+    "disguise": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 46678,
+        "line": "I ain't tellin' no reason to disguise it (Woah)",
+        "line_zh": "根本没必要故作低调",
+        "precision": "line"
+      }
+    ],
+    "alien": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 97145,
+        "line": "You know we is alien, land at SoFi stadium",
+        "line_zh": "你知道我们就像是外星人一般 降落在SoFi stadium(Donda2试听会举办场馆)",
+        "precision": "line"
+      }
+    ],
+    "process": [
+      {
+        "song_id": "2614020231",
+        "song_name": "RIVER",
+        "artist": "¥$, Kanye West, Ty Dolla $ign",
+        "t_ms": 146521,
+        "line": "They say to trust the process",
+        "line_zh": "他们说要相信这个过程",
+        "precision": "line"
+      }
+    ],
+    "chorus": [
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 474,
+        "line": "[Chorus: Kanye West &amp; Cordae]",
+        "line_zh": "",
+        "precision": "line"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 41699,
+        "line": "[Chorus: Kanye West &amp; Cordae]",
+        "line_zh": "今天没有新闻",
+        "precision": "line"
+      },
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 114047,
+        "line": "[Chorus: Kanye West &amp; Cordae]",
+        "line_zh": "今天没有新闻",
+        "precision": "line"
+      }
+    ],
+    "account": [
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 96704,
+        "line": "So much money pile in my account, it's earnin' that percentage",
+        "line_zh": "我的账户里的数字让人瞠目结舌",
+        "precision": "line"
+      }
+    ],
+    "closet": [
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 102891,
+        "line": "Her closet embarrass bitches",
+        "line_zh": "她的衣橱让妹妹们自惭形秽",
+        "precision": "line"
+      }
+    ],
+    "embarrass": [
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 102891,
+        "line": "Her closet embarrass bitches",
+        "line_zh": "她的衣橱让妹妹们自惭形秽",
+        "precision": "line"
+      }
+    ],
+    "humble": [
+      {
+        "song_id": "2646020679",
+        "song_name": "No Bad News (feat. Kanye West)",
+        "artist": "Cordae, Kanye West",
+        "t_ms": 108751,
+        "line": "Humble just like her mom, I sit back and write my rhymes",
+        "line_zh": "像她妈妈一样谦虚 我坐下来写我的词",
+        "precision": "line"
+      }
+    ],
+    "ego": [
+      {
+        "song_id": "3364284335",
+        "song_name": "THIS ONE HERE",
+        "artist": "Kanye West, Ye",
+        "t_ms": 1942,
+        "line": "Kick out the ego right out of the door",
+        "line_zh": "将那自我抛到九霄云外去",
+        "precision": "line"
+      },
+      {
+        "song_id": "3364284335",
+        "song_name": "THIS ONE HERE",
+        "artist": "Kanye West, Ye",
+        "t_ms": 10963,
+        "line": "Kick out the ego right out of the door",
+        "line_zh": "将那自我抛到九霄云外去",
+        "precision": "line"
+      },
+      {
+        "song_id": "3364284335",
+        "song_name": "THIS ONE HERE",
+        "artist": "Kanye West, Ye",
+        "t_ms": 127892,
+        "line": "Kick out the ego right out of the door",
+        "line_zh": "将那自我抛到九霄云外去",
+        "precision": "line"
+      },
+      {
+        "song_id": "3364284335",
+        "song_name": "THIS ONE HERE",
+        "artist": "Kanye West, Ye",
+        "t_ms": 136848,
+        "line": "Kick out the ego right out of the door",
+        "line_zh": "将那自我抛到九霄云外去",
+        "precision": "line"
+      }
+    ],
+    "graduate": [
+      {
+        "song_id": "18969067",
+        "song_name": "Good Morning",
+        "artist": "Kanye West",
+        "t_ms": 93850,
+        "line": "But you graduate when you make it up outta the streets",
+        "line_zh": "当然你得知道毕业意味着该离开街头了",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969067",
+        "song_name": "Good Morning",
+        "artist": "Kanye West",
+        "t_ms": 133960,
+        "line": "Some people graduate, but we still stupid",
+        "line_zh": "虽然毕业，但仍愚蠢至极",
+        "precision": "word"
+      }
+    ],
+    "preach": [
+      {
+        "song_id": "18969067",
+        "song_name": "Good Morning",
+        "artist": "Kanye West",
+        "t_ms": 139990,
+        "line": "Just peep this, preach us, teach us, Jesus",
+        "line_zh": "跟个传教士一样灌输废料",
+        "precision": "word"
+      }
+    ],
+    "force": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 94410,
+        "line": "And I know, I know God is the force that picked me up",
+        "line_zh": "我心深知上帝是提隽我与圣理沟通不可或缺的力量",
+        "precision": "word"
+      }
+    ],
+    "vision": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 107100,
+        "line": "He has opened up my vision",
+        "line_zh": "在我迷茫之时指引我通向正确之真理",
+        "precision": "word"
+      }
+    ],
+    "revelation": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 108780,
+        "line": "Giving me a revelation",
+        "line_zh": "这神圣的事物并非单纯的宗教信仰",
+        "precision": "word"
+      }
+    ],
+    "religion": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 111510,
+        "line": "This ain't 'bout a dead religion",
+        "line_zh": "圣耶稣带来了一场涅槃升华",
+        "precision": "word"
+      }
+    ],
+    "mission": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 133260,
+        "line": "This a mission, not a show",
+        "line_zh": "这是一项神圣的使命 而不是为了作秀",
+        "precision": "word"
+      }
+    ],
+    "eternal": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 136020,
+        "line": "This is my eternal soul",
+        "line_zh": "这是我纯真无邪的孩子们 这是我心血而来的豪宅华房",
+        "precision": "word"
+      }
+    ],
+    "given": [
+      {
+        "song_id": "1399140742",
+        "song_name": "God Is",
+        "artist": "Kanye West",
+        "t_ms": 143130,
+        "line": "This my God-given right",
+        "line_zh": "谢谢你 圣耶稣 赢得了这场关于信仰的战争",
+        "precision": "word"
+      }
+    ],
+    "faith": [
+      {
+        "song_id": "1399139960",
+        "song_name": "Closed On Sunday",
+        "artist": "Kanye West",
+        "t_ms": 72690,
+        "line": "Raise our sons, train them in the faith",
+        "line_zh": "即使面对重重诱惑 也要保持头脑的清醒",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 44160,
+        "line": "In the Father, we put our faith",
+        "line_zh": "王国之主",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 56940,
+        "line": "In the Father, we put our faith",
+        "line_zh": "天父啊 我们信仰坚定",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 109020,
+        "line": "In the Father, we put our faith",
+        "line_zh": "神国之王",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 121800,
+        "line": "In the Father, we put our faith",
+        "line_zh": "无数残损的灵魂 我已受够伤害他们",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 141720,
+        "line": "They give you Wraith talk, I give you faith talk",
+        "line_zh": "我蒙上双眼 凭信仰笔直前行",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 145020,
+        "line": "Blindfolded on this road, watch me faith walk",
+        "line_zh": "同胞受难 要成为他坚实的支持",
+        "precision": "word"
+      },
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 148200,
+        "line": "Just hold on to your brother when his faith lost",
+        "line_zh": "同胞受难 要成为他坚实的支持",
+        "precision": "word"
+      }
+    ],
+    "culture": [
+      {
+        "song_id": "1399139960",
+        "song_name": "Closed On Sunday",
+        "artist": "Kanye West",
+        "t_ms": 85590,
+        "line": "No more livin' for the culture, we nobody's slave",
+        "line_zh": "不用再为了过去固有的文化而活 我们没有人生来便是奴隶 (slavery is a choice)",
+        "precision": "word"
+      }
+    ],
+    "champion": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 4080,
+        "line": "That you are a champion in their eyes?",
+        "line_zh": "耶 冠军",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 22860,
+        "line": "That you are a champion in their eyes?）",
+        "line_zh": "耶 冠军",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 60810,
+        "line": "That you are a champion in their eyes?）",
+        "line_zh": "是的 老子从娘胎里出来我就准备好当冠军",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 79350,
+        "line": "That you are a champion in their eyes?）",
+        "line_zh": "您是个天之骄子",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 116940,
+        "line": "That you are a champion in their eyes?）",
+        "line_zh": "耶 冠军",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 119490,
+        "line": "This is the story of a champion",
+        "line_zh": "这是属于冠军王者的故事",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 131220,
+        "line": "This is the story of a champion",
+        "line_zh": "他在暴徒中迂回前进 然后鸣响礼枪",
+        "precision": "word"
+      }
+    ],
+    "brand": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 50160,
+        "line": "Brand new hare-brained scheme to get rich from",
+        "line_zh": "用某种全新的傻瓜的支付方法",
+        "precision": "word"
+      }
+    ],
+    "scheme": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 51150,
+        "line": "Brand new hare-brained scheme to get rich from",
+        "line_zh": "所以我都不知道他做了什么",
+        "precision": "word"
+      }
+    ],
+    "wardrobe": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 56190,
+        "line": "But he'd sent me back to school wit' a new wardrobe and hey!",
+        "line_zh": "但他能让老子穿上新衣裳去上学 爽就完事了",
+        "precision": "word"
+      }
+    ],
+    "institute": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 96630,
+        "line": "Last week I paid a visit to the institute",
+        "line_zh": "他们把孩子关在学校里",
+        "precision": "word"
+      }
+    ],
+    "principle": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 103650,
+        "line": "If not for the pleasure, least for the principle",
+        "line_zh": "他们拿到我的CD 聆听我宝石般的音乐",
+        "precision": "word"
+      }
+    ],
+    "invisible": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 110490,
+        "line": "They used to feel invisible",
+        "line_zh": "在此之前他们常常觉得失明了",
+        "precision": "word"
+      }
+    ],
+    "mob": [
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 121290,
+        "line": "Rounders in the mob and they pop the guns",
+        "line_zh": "他在暴徒中迂回前进 然后鸣响礼枪",
+        "precision": "word"
+      },
+      {
+        "song_id": "18969068",
+        "song_name": "Champion",
+        "artist": "Kanye West",
+        "t_ms": 133020,
+        "line": "Rounders in the mob and they pop the guns",
+        "line_zh": "他在暴徒中迂回前进 然后鸣响礼枪",
+        "precision": "word"
+      }
+    ],
+    "costume": [
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 25306,
+        "line": "Sample：Costume Party—Two Door Cinema Club",
+        "line_zh": "",
+        "precision": "word"
+      }
+    ],
+    "pose": [
+      {
+        "song_id": "1399139962",
+        "song_name": "Use This Gospel",
+        "artist": "Kanye West, Clipse, Kenny G",
+        "t_ms": 129180,
+        "line": "And in my arrogance, took a camera pose",
+        "line_zh": "像是被一群Barry Manilows围住",
+        "precision": "word"
+      }
+    ],
+    "leather": [
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 60460,
+        "line": "Michael Jackson leather and a glove, but didn't give me a curl",
+        "line_zh": "迈克尔杰克逊的皮革战衣和手套，但却没给我那头卷发【Jheri curl】",
+        "precision": "word"
+      }
+    ],
+    "capable": [
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 85840,
+        "line": "Highly capable, lady that's makin loot",
+        "line_zh": "贤惠又有才华，勤俭节约的女士",
+        "precision": "word"
+      }
+    ],
+    "legend": [
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 88360,
+        "line": "A livin legend too, just look at what heaven do",
+        "line_zh": "你是一个鲜活的传奇，看看天堂如何赐福",
+        "precision": "word"
+      }
+    ],
+    "poetry": [
+      {
+        "song_id": "18969097",
+        "song_name": "Hey Mama",
+        "artist": "Kanye West",
+        "t_ms": 136630,
+        "line": "Can't you see, you're like a book of poetry",
+        "line_zh": "散发玛雅·安吉罗，尼奇·吉奥瓦尼的诗韵，翻多一页就是我的妈咪",
+        "precision": "word"
+      }
+    ],
+    "vivid": [
+      {
+        "song_id": "18969080",
+        "song_name": "Good Night",
+        "artist": "Kanye West, Mos Def, Al Be Back",
+        "t_ms": 32310,
+        "line": "Right now I can see it so vivid",
+        "line_zh": "恍如昨日",
+        "precision": "word"
+      }
+    ],
+    "dwell": [
+      {
+        "song_id": "18969080",
+        "song_name": "Good Night",
+        "artist": "Kanye West, Mos Def, Al Be Back",
+        "t_ms": 79530,
+        "line": "We can't dwell on the past, all we got is today",
+        "line_zh": "但我们不能沉缅于往日 要把握当下",
+        "precision": "word"
+      }
+    ],
+    "violent": [
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 26100,
+        "line": "Reason to defend all of your violent nights",
+        "line_zh": "去抚慰你焦躁不安的夜晚",
+        "precision": "word"
+      }
+    ],
+    "savage": [
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 69720,
+        "line": "N!ggas is savage",
+        "line_zh": "我曾蛮横无理",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 156900,
+        "line": "'Cause she know that n!ggas is savage",
+        "line_zh": "如野兽一般",
+        "precision": "word"
+      }
+    ],
+    "nurture": [
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 82770,
+        "line": "'Cause now I see women as somethin' to nurture",
+        "line_zh": "而不是需要被征服的",
+        "precision": "word"
+      }
+    ],
+    "monster": [
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 87180,
+        "line": "I hope she like Nicki, I make her a monster",
+        "line_zh": "不沾染一丝恶俗",
+        "precision": "word"
+      },
+      {
+        "song_id": "570350029",
+        "song_name": "Violent Crimes",
+        "artist": "Kanye West",
+        "t_ms": 206820,
+        "line": "I'ma turn her to a monster, but no ménages",
+        "line_zh": "“我要把她培养成女强人 与世无争”",
+        "precision": "word"
+      }
+    ]
+  },
+  "source": {
+    "type": "playlist",
+    "file": "data/playlists/kanye_v1.txt",
+    "unmatched": []
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "artist": "Kanye West",
+  "built_at": "2026-07-10T08:16:56.133Z",
+  "song_count": 3,
+  "word_count": 27,
+  "words": {
+    "abandon": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 12000,
+        "line": "I need you to abandon fear and face the work",
+        "precision": "line"
+      }
+    ],
+    "abstract": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 18500,
+        "line": "That abstract dream became absurd overnight",
+        "precision": "line"
+      }
+    ],
+    "absurd": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 18500,
+        "line": "That abstract dream became absurd overnight",
+        "precision": "line"
+      }
+    ],
+    "accumulate": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 25000,
+        "line": "I accumulate power while critics accuse me",
+        "precision": "line"
+      }
+    ],
+    "accuse": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 25000,
+        "line": "I accumulate power while critics accuse me",
+        "precision": "line"
+      }
+    ],
+    "access": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 31200,
+        "line": "Access the truth, accelerate your pace",
+        "precision": "line"
+      }
+    ],
+    "accelerate": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 31200,
+        "line": "Access the truth, accelerate your pace",
+        "precision": "line"
+      }
+    ],
+    "abundant": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 38000,
+        "line": "An abundant life is not an accident",
+        "precision": "line"
+      }
+    ],
+    "accident": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 38000,
+        "line": "An abundant life is not an accident",
+        "precision": "line"
+      }
+    ],
+    "acknowledge": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 44500,
+        "line": "Acknowledge the struggle, then adapt and rise",
+        "precision": "line"
+      }
+    ],
+    "adapt": [
+      {
+        "song_id": "demo-stronger",
+        "song_name": "Stronger (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 44500,
+        "line": "Acknowledge the struggle, then adapt and rise",
+        "precision": "line"
+      }
+    ],
+    "acute": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 16100,
+        "line": "Noacutecrisiscanabolishmyambition",
+        "precision": "word"
+      }
+    ],
+    "crisis": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 17200,
+        "line": "Noacutecrisiscanabolishmyambition",
+        "precision": "word"
+      }
+    ],
+    "abolish": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 19400,
+        "line": "Noacutecrisiscanabolishmyambition",
+        "precision": "word"
+      }
+    ],
+    "ambition": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 21800,
+        "line": "Noacutecrisiscanabolishmyambition",
+        "precision": "word"
+      }
+    ],
+    "abuse": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 26950,
+        "line": "TheyabusethesystemIexpose",
+        "precision": "word"
+      }
+    ],
+    "expose": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 31600,
+        "line": "TheyabusethesystemIexpose",
+        "precision": "word"
+      }
+    ],
+    "acquire": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 35100,
+        "line": "Iacquireskillandactivatethecrowd",
+        "precision": "word"
+      }
+    ],
+    "activate": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 38400,
+        "line": "Iacquireskillandactivatethecrowd",
+        "precision": "word"
+      }
+    ],
+    "crowd": [
+      {
+        "song_id": "demo-power",
+        "song_name": "Power (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 40700,
+        "line": "Iacquireskillandactivatethecrowd",
+        "precision": "word"
+      }
+    ],
+    "absence": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 8000,
+        "line": "In the absence of guidance I still accomplish more",
+        "precision": "line"
+      }
+    ],
+    "accomplish": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 8000,
+        "line": "In the absence of guidance I still accomplish more",
+        "precision": "line"
+      }
+    ],
+    "acquaintance": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 15000,
+        "line": "Make acquaintance with failure, then bounce back",
+        "precision": "line"
+      }
+    ],
+    "bounce": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 15000,
+        "line": "Make acquaintance with failure, then bounce back",
+        "precision": "line"
+      }
+    ],
+    "academic": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 22000,
+        "line": "This academic path was never my addiction",
+        "precision": "line"
+      }
+    ],
+    "absorb": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 29000,
+        "line": "But I absorb every lesson without abrupt goodbye",
+        "precision": "line"
+      }
+    ],
+    "abrupt": [
+      {
+        "song_id": "demo-homecoming",
+        "song_name": "Homecoming (demo lyric)",
+        "artist": "Kanye West",
+        "t_ms": 29000,
+        "line": "But I absorb every lesson without abrupt goodbye",
+        "precision": "line"
+      }
+    ]
+  }
+}

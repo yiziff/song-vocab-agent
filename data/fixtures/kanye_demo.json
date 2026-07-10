@@ -1,0 +1,26 @@
+[
+  {
+    "song_id": "demo-stronger",
+    "name": "Stronger (demo lyric)",
+    "artist": "Kanye West",
+    "duration_ms": 312000,
+    "lyric_source": "lrc",
+    "lrc": "[00:12.00]I need you to abandon fear and face the work\n[00:18.50]That abstract dream became absurd overnight\n[00:25.00]I accumulate power while critics accuse me\n[00:31.20]Access the truth, accelerate your pace\n[00:38.00]An abundant life is not an accident\n[00:44.50]Acknowledge the struggle, then adapt and rise\n"
+  },
+  {
+    "song_id": "demo-power",
+    "name": "Power (demo lyric)",
+    "artist": "Kanye West",
+    "duration_ms": 292000,
+    "lyric_source": "yrc",
+    "yrc": "[15200,4200](15200,500,0)No(15700,400,0) (16100,600,0)acute(16700,500,0) (17200,700,0)crisis(17900,400,0) (18300,500,0)can(18800,600,0) (19400,800,0)abolish(20200,400,0) (20600,500,0)my(21100,700,0) (21800,900,0)ambition\n[26000,3800](26000,450,0)They(26450,500,0) (26950,550,0)abuse(27500,400,0) (27900,500,0)the(28400,700,0) (29100,800,0)system(29900,400,0) (30300,600,0)I(30900,700,0) (31600,900,0)expose\n[34000,3600](34000,500,0)I(34500,600,0) (35100,700,0)acquire(35800,400,0) (36200,500,0)skill(36700,450,0) (37150,550,0)and(37700,700,0) (38400,800,0)activate(39200,400,0) (39600,500,0)the(40100,600,0) (40700,700,0)crowd\n"
+  },
+  {
+    "song_id": "demo-homecoming",
+    "name": "Homecoming (demo lyric)",
+    "artist": "Kanye West",
+    "duration_ms": 203000,
+    "lyric_source": "lrc",
+    "lrc": "[00:08.00]In the absence of guidance I still accomplish more\n[00:15.00]Make acquaintance with failure, then bounce back\n[00:22.00]This academic path was never my addiction\n[00:29.00]But I absorb every lesson without abrupt goodbye\n"
+  }
+]
