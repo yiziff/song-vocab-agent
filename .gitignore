@@ -7,6 +7,13 @@ out/player/
 out/enrich/
 out/known_words.json
 
+# local scratch from debugging
+_test.html
+_test.js
+_test2.html
+_test*.html
+_test*.js
+
 # OS / editor
 .DS_Store
 Thumbs.db

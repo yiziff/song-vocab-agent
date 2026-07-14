@@ -2,7 +2,7 @@
   "name": "song-vocab-agent",
   "version": "0.1.0",
   "private": true,
-  "description": "Minimal CET-6 vocab-from-songs prototype (Ch.22 canvas)",
+  "description": "Minimal CET-4/6 vocab-from-songs prototype (Ch.22 canvas)",
   "type": "module",
   "bin": {
     "song-vocab": "./cli.js"

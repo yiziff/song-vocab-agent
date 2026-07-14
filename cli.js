@@ -13,17 +13,23 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawn } from "node:child_process";
 
-import { loadCet6Set, buildCet6Index } from "./lib/match.js";
+import { loadWordSet, buildVocabIndex } from "./lib/match.js";
 import { createNeteaseClient, pingApi } from "./lib/netease.js";
 import { openLearnViewer } from "./lib/play.js";
 import { loadPlaylistTitles, pickBestSongMatch } from "./lib/songMatch.js";
 import { startLearnServer } from "./lib/serve.js";
 import { loadEnv, llmConfig } from "./lib/env.js";
+import {
+  normalizeLevel,
+  deckFromIndex,
+  availableLevels,
+} from "./lib/vocabLevel.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = __dirname;
 const DATA = path.join(ROOT, "data");
 const OUT = path.join(ROOT, "out");
+const CET4_PATH = path.join(DATA, "cet4_words.txt");
 const CET6_PATH = path.join(DATA, "cet6_words.txt");
 const KNOWN_PATH = path.join(OUT, "known_words.json");
 
@@ -156,7 +162,7 @@ async function cmdBuild(args) {
   const limit = Number(args.limit || 30);
   const demo = Boolean(args.demo);
   const songsFile = args["songs-file"] || null;
-  const cet6 = loadCet6Set(CET6_PATH);
+  const vocab = loadWordSet([CET4_PATH, CET6_PATH]);
 
   let songs;
   let unmatched = [];
@@ -191,7 +197,8 @@ async function cmdBuild(args) {
     matchedCount = result.matchedCount;
   }
 
-  const index = buildCet6Index(songs, cet6, artist);
+  const index = buildVocabIndex(songs, vocab, artist);
+  index.vocab = { cet4: true, cet6: true, lexicon_size: vocab.size };
   if (songsFile) {
     index.source = { type: "playlist", file: songsFile, unmatched };
   }
@@ -200,7 +207,7 @@ async function cmdBuild(args) {
   fs.writeFileSync(outFile, JSON.stringify(index, null, 2));
 
   console.log(
-    `\nBuilt index: ${index.word_count} CET-6 words across ${index.song_count} songs`
+    `\nBuilt index: ${index.word_count} CET-4/6 words (lexicon ${vocab.size}) across ${index.song_count} songs`
   );
   console.log(
     `Matched: ${matchedCount} · with lyrics: ${withLyrics} · no lyrics: ${noLyrics} · unmatched: ${unmatched.length}`
@@ -215,6 +222,7 @@ async function cmdBuild(args) {
 async function cmdLearn(args) {
   const artist = args.artist || "Kanye West";
   const demo = Boolean(args.demo);
+  const level = normalizeLevel(args.level || "both");
   const file = args.index || indexPath(artist, demo);
   if (!fs.existsSync(file)) {
     console.error(`Index not found: ${file}`);
@@ -222,62 +230,70 @@ async function cmdLearn(args) {
     process.exit(1);
   }
 
-  const index = JSON.parse(fs.readFileSync(file, "utf8"));
+  const fullIndex = JSON.parse(fs.readFileSync(file, "utf8"));
   const known = loadKnown();
-  const entries = Object.entries(index.words)
-    .filter(([w]) => !known.has(w))
-    .sort((a, b) => a[0].localeCompare(b[0]));
+  const sliced = deckFromIndex(fullIndex, level, known);
 
-  if (!entries.length) {
-    console.log("No unknown CET-6 words left in this index. Nice.");
+  if (!sliced.deck.length) {
+    console.log(`No unknown ${sliced.level_label} words left in this index. Nice.`);
     return;
   }
 
-  console.log(`Artist: ${index.artist} · ${entries.length} unknown words (of ${index.word_count})`);
-  console.log("推荐：node cli.js serve --artist \"Kanye West\"  （释义+双语+深度语义）");
+  console.log(
+    `Artist: ${fullIndex.artist} · level=${sliced.level_label} · ${sliced.unknown_count} unknown (of ${sliced.word_count})`
+  );
+  console.log(
+    `推荐：node cli.js serve --artist "Kanye West" --level ${level}  （页内可再切换四级/六级）`
+  );
   console.log("本命令仅打开静态页；深度语义需 serve。\n");
 
-  const show = entries.slice(0, 30);
-  show.forEach(([word, occs], i) => {
-    const o = occs[0];
+  const show = sliced.deck.slice(0, 30);
+  show.forEach((o, i) => {
     console.log(
-      `  ${String(i + 1).padStart(2)}. ${word.padEnd(16)}  ${o.song_name} @ ${(o.t_ms / 1000).toFixed(1)}s (${o.precision})`
+      `  ${String(i + 1).padStart(2)}. ${o.word.padEnd(16)}  ${o.song_name} @ ${(o.t_ms / 1000).toFixed(1)}s (${o.precision})`
     );
   });
-  if (entries.length > 30) console.log(`  ... and ${entries.length - 30} more`);
+  if (sliced.deck.length > 30) console.log(`  ... and ${sliced.deck.length - 30} more`);
 
-  const deck = entries.map(([word, occs]) => ({ word, ...occs[0] }));
-  const opened = openLearnViewer(deck, 0, { enrichApi: "" });
+  const opened = openLearnViewer(sliced.deck, 0, {
+    enrichApi: "",
+    level: sliced.level,
+    levelLabel: sliced.level_label,
+    levels: availableLevels(),
+    wordCount: sliced.word_count,
+  });
   console.log(`\nOpened static learn page: ${opened.file}`);
-  console.log(`For DeepSeek enrich: node cli.js serve --artist "${artist}"`);
+  console.log(`For DeepSeek enrich: node cli.js serve --artist "${artist}" --level ${level}`);
 }
 
 async function cmdServe(args) {
   loadEnv();
   const artist = args.artist || "Kanye West";
   const demo = Boolean(args.demo);
+  const level = normalizeLevel(args.level || "both");
   const file = args.index || indexPath(artist, demo);
   if (!fs.existsSync(file)) {
     console.error(`Index not found: ${file}`);
     process.exit(1);
   }
 
-  const index = JSON.parse(fs.readFileSync(file, "utf8"));
+  const fullIndex = JSON.parse(fs.readFileSync(file, "utf8"));
   const known = loadKnown();
-  const entries = Object.entries(index.words)
-    .filter(([w]) => !known.has(w))
-    .sort((a, b) => a[0].localeCompare(b[0]));
-  const deck = entries.map(([word, occs]) => ({ word, ...occs[0] }));
   const cfg = llmConfig();
 
-  const { url, port, llmConfigured } = await startLearnServer({
-    deck,
-    port: Number(args.port || 8787),
-    startIndex: 0,
-  });
+  const { url, llmConfigured, levelLabel: lvLabel, deckCount, wordCount } =
+    await startLearnServer({
+      fullIndex,
+      known,
+      level,
+      port: Number(args.port || 8787),
+      startIndex: 0,
+    });
 
   console.log(`Learn server: ${url}`);
-  console.log(`LLM: ${llmConfigured ? `ok (${cfg.model})` : "NOT configured — check .env"}`);
+  console.log(`Level: ${lvLabel} · deck ${deckCount} / index ${wordCount}（页内可切换四级/六级/全部）`);
+  console.log(`Mode A /api/search · Mode B /api/chat (find_word_in_songs tool)`);
+  console.log(`LLM: ${llmConfigured ? `ok (${cfg.model})` : "NOT configured — Mode B needs .env"}`);
   console.log("Press Ctrl+C to stop.");
 
   // open browser
@@ -305,8 +321,14 @@ async function main() {
 Usage:
   node cli.js build --demo --artist "Kanye West"
   node cli.js build --artist "Kanye West" --songs-file data/playlists/kanye_v1.txt
-  node cli.js serve --artist "Kanye West"     # 推荐：释义+双语+DeepSeek深度语义
-  node cli.js learn --artist "Kanye West"     # 静态页（无自动 enrich）
+  node cli.js serve --artist "Kanye West"                  # 默认四级+六级，页内可切换
+  node cli.js serve --artist "Kanye West" --level cet4     # 只学四级
+  node cli.js serve --artist "Kanye West" --level cet6     # 只学六级
+  node cli.js learn --artist "Kanye West" --level cet4     # 静态页（无自动 enrich）
+
+Mode A: 网页搜词框 → GET /api/search?word=bound（不经模型）
+Mode B: AI 聊天框 → POST /api/chat（模型调用 find_word_in_songs）
+Level:  页内「四级 / 六级 / 四级+六级」或 --level cet4|cet6|both
 
 Env (.env):
   OPENAI_API_KEY / OPENAI_BASE_URL / OPENAI_MODEL
