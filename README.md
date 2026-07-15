@@ -1,5 +1,5 @@
 # Song Vocab Agent（最小可跑原型）
-![Uploading image.png…]()
+![Song Vocab Agent 学习界面](8e49b191-5781-4d62-ad67-aeb67115e02d.jpg)
 
 用喜欢的欧美歌手歌词 ∩ 四级/六级词表（可切换），点生词跳到歌曲时间点学习。  
 设计说明见 [`docs/song-vocab-agent-canvas.md`](../../docs/song-vocab-agent-canvas.md)。
