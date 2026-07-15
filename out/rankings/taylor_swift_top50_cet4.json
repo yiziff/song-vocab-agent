@@ -1,0 +1,5179 @@
+{
+  "artist": "Taylor Swift",
+  "level": "cet4",
+  "level_label": "四级",
+  "built_at": "2026-07-15T09:28:04.237Z",
+  "source_index_built_at": "2026-07-15T09:27:04.956Z",
+  "song_count": 50,
+  "ranked_song_count": 50,
+  "artist_unique_words": 668,
+  "artist_cet4_unique_words": 668,
+  "artist_cet6_unique_words": 74,
+  "artist_total_hits": 4927,
+  "hardest_song": {
+    "song_id": "1891456146",
+    "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+    "unique_words": 121,
+    "total_hits": 222
+  },
+  "songs": [
+    {
+      "rank": 1,
+      "song_id": "1891456146",
+      "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "unique_words": 121,
+      "total_hits": 222,
+      "cet4_unique_words": 121,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 222,
+      "cet6_total_hits": 6,
+      "hit_line_count": 222,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "remember",
+          "hits": 18,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "rare",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hair",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "actress",
+        "affair",
+        "again",
+        "age",
+        "air",
+        "album",
+        "almost",
+        "alone",
+        "always",
+        "autumn",
+        "back",
+        "ball"
+      ],
+      "score": 121222
+    },
+    {
+      "rank": 2,
+      "song_id": "516823324",
+      "song_name": "End Game",
+      "artist": "Taylor Swift, Ed Sheeran, Future",
+      "unique_words": 71,
+      "total_hits": 185,
+      "cet4_unique_words": 71,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 185,
+      "cet6_total_hits": 24,
+      "hit_line_count": 185,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "end",
+          "hits": 20,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "game",
+          "hits": 19,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "big",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "reputation",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "first",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "string",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "argue",
+        "away",
+        "bad",
+        "bang",
+        "beach",
+        "beautiful",
+        "believe",
+        "big",
+        "bit",
+        "boat",
+        "body",
+        "born"
+      ],
+      "score": 71185
+    },
+    {
+      "rank": 3,
+      "song_id": "29713617",
+      "song_name": "Blank Space",
+      "artist": "Taylor Swift",
+      "unique_words": 71,
+      "total_hits": 142,
+      "cet4_unique_words": 71,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 142,
+      "cet6_total_hits": 8,
+      "hit_line_count": 142,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "love",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "list",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "long",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "game",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "leave",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "back",
+        "bad",
+        "blank",
+        "cause",
+        "cherry",
+        "come",
+        "crystal",
+        "darling",
+        "down",
+        "drunk",
+        "dying"
+      ],
+      "score": 71142
+    },
+    {
+      "rank": 4,
+      "song_id": "29572501",
+      "song_name": "Blank Space",
+      "artist": "Taylor Swift",
+      "unique_words": 70,
+      "total_hits": 142,
+      "cet4_unique_words": 70,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 142,
+      "cet6_total_hits": 8,
+      "hit_line_count": 142,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "love",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "list",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "long",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "game",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "leave",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "back",
+        "bad",
+        "blank",
+        "cause",
+        "cherry",
+        "come",
+        "crystal",
+        "darling",
+        "down",
+        "drunk",
+        "face"
+      ],
+      "score": 70142
+    },
+    {
+      "rank": 5,
+      "song_id": "2744403471",
+      "song_name": "The Life of a Showgirl",
+      "artist": "Taylor Swift, Sabrina Carpenter",
+      "unique_words": 57,
+      "total_hits": 91,
+      "cet4_unique_words": 57,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 91,
+      "cet6_total_hits": 5,
+      "hit_line_count": 59,
+      "hits_per_hit_line": 1.54,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lovely",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "door",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ever",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "away",
+        "baby",
+        "back",
+        "band",
+        "bruise",
+        "cast",
+        "cigarette",
+        "city",
+        "club",
+        "course",
+        "dance",
+        "dead"
+      ],
+      "score": 57091
+    },
+    {
+      "rank": 6,
+      "song_id": "1382576173",
+      "song_name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "unique_words": 56,
+      "total_hits": 130,
+      "cet4_unique_words": 56,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 130,
+      "cet6_total_hits": 3,
+      "hit_line_count": 130,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cruel",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "roll",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "blue",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "body",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "always",
+        "baby",
+        "back",
+        "bad",
+        "bar",
+        "bleed",
+        "blue",
+        "body",
+        "bone",
+        "boy",
+        "car",
+        "cool"
+      ],
+      "score": 56130
+    },
+    {
+      "rank": 7,
+      "song_id": "2091923026",
+      "song_name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "unique_words": 56,
+      "total_hits": 130,
+      "cet4_unique_words": 56,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 130,
+      "cet6_total_hits": 3,
+      "hit_line_count": 130,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cruel",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "roll",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "blue",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "body",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "always",
+        "baby",
+        "back",
+        "bad",
+        "bar",
+        "bleed",
+        "blue",
+        "body",
+        "bone",
+        "boy",
+        "car",
+        "cool"
+      ],
+      "score": 56130
+    },
+    {
+      "rank": 8,
+      "song_id": "1465114465",
+      "song_name": "exile",
+      "artist": "Taylor Swift, Bon Iver",
+      "unique_words": 55,
+      "total_hits": 120,
+      "cet4_unique_words": 55,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 120,
+      "cet6_total_hits": 5,
+      "hit_line_count": 61,
+      "hits_per_hit_line": 1.97,
+      "top_words": [
+        {
+          "word": "out",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "film",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hear",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "learned",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mind",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "add",
+        "always",
+        "amount",
+        "april",
+        "base",
+        "bloody",
+        "body",
+        "cause",
+        "committee",
+        "crown",
+        "door",
+        "drum"
+      ],
+      "score": 55120
+    },
+    {
+      "rank": 9,
+      "song_id": "516776413",
+      "song_name": "Call It What You Want",
+      "artist": "Taylor Swift",
+      "unique_words": 54,
+      "total_hits": 134,
+      "cet4_unique_words": 54,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 134,
+      "cet6_total_hits": 8,
+      "hit_line_count": 134,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "want",
+          "hits": 23,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "call",
+          "hits": 22,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "brand",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fit",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fly",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "away",
+        "back",
+        "because",
+        "better",
+        "brand",
+        "breath",
+        "bridge",
+        "brother",
+        "burn",
+        "call",
+        "castle",
+        "cause"
+      ],
+      "score": 54134
+    },
+    {
+      "rank": 10,
+      "song_id": "516818337",
+      "song_name": "Getaway Car",
+      "artist": "Taylor Swift",
+      "unique_words": 51,
+      "total_hits": 130,
+      "cet4_unique_words": 51,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 130,
+      "cet6_total_hits": 0,
+      "hit_line_count": 130,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "car",
+          "hits": 22,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "first",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "far",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "place",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "good",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "heart",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "apart",
+        "bag",
+        "bar",
+        "beat",
+        "best",
+        "black",
+        "break",
+        "car",
+        "cause",
+        "dark",
+        "escape",
+        "ever"
+      ],
+      "score": 51130
+    },
+    {
+      "rank": 11,
+      "song_id": "1465111917",
+      "song_name": "august",
+      "artist": "Taylor Swift",
+      "unique_words": 51,
+      "total_hits": 115,
+      "cet4_unique_words": 51,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 115,
+      "cet6_total_hits": 5,
+      "hit_line_count": 115,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "cause",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hope",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "august",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "away",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "call",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "remember",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bottle",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "air",
+        "anything",
+        "august",
+        "away",
+        "back",
+        "better",
+        "bottle",
+        "call",
+        "cancel",
+        "car",
+        "case",
+        "cause"
+      ],
+      "score": 51115
+    },
+    {
+      "rank": 12,
+      "song_id": "1803546393",
+      "song_name": "champagne problems",
+      "artist": "Taylor Swift",
+      "unique_words": 51,
+      "total_hits": 61,
+      "cet4_unique_words": 51,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 61,
+      "cet6_total_hits": 2,
+      "hit_line_count": 61,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "reason",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hand",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "landing",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "once",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "picture",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "pocket",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "remember",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "answer",
+        "because",
+        "bottle",
+        "bride",
+        "crowd",
+        "cure",
+        "deck",
+        "door",
+        "dorm",
+        "family",
+        "find"
+      ],
+      "score": 51061
+    },
+    {
+      "rank": 13,
+      "song_id": "19292984",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 50,
+      "total_hits": 99,
+      "cet4_unique_words": 50,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 99,
+      "cet6_total_hits": 2,
+      "hit_line_count": 99,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "air",
+        "alone",
+        "away",
+        "baby",
+        "balcony",
+        "ball",
+        "cause",
+        "close",
+        "come",
+        "crowd",
+        "dead"
+      ],
+      "score": 50099
+    },
+    {
+      "rank": 14,
+      "song_id": "1819857342",
+      "song_name": "Love Story (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "unique_words": 50,
+      "total_hits": 99,
+      "cet4_unique_words": 50,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 99,
+      "cet6_total_hits": 2,
+      "hit_line_count": 99,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "air",
+        "alone",
+        "away",
+        "baby",
+        "balcony",
+        "ball",
+        "cause",
+        "close",
+        "come",
+        "crowd",
+        "dead"
+      ],
+      "score": 50099
+    },
+    {
+      "rank": 15,
+      "song_id": "1969538016",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 50,
+      "total_hits": 94,
+      "cet4_unique_words": 50,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 94,
+      "cet6_total_hits": 2,
+      "hit_line_count": 94,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "air",
+        "alone",
+        "away",
+        "baby",
+        "balcony",
+        "ball",
+        "cause",
+        "close",
+        "come",
+        "crowd",
+        "dead"
+      ],
+      "score": 50094
+    },
+    {
+      "rank": 16,
+      "song_id": "29572513",
+      "song_name": "New Romantics",
+      "artist": "Taylor Swift",
+      "unique_words": 49,
+      "total_hits": 126,
+      "cet4_unique_words": 49,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 126,
+      "cet6_total_hits": 1,
+      "hit_line_count": 126,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "baby",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "new",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "battle",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "best",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "build",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "back",
+        "bathroom",
+        "battle",
+        "best",
+        "better",
+        "build",
+        "busy",
+        "castle",
+        "cause",
+        "classroom",
+        "come"
+      ],
+      "score": 49126
+    },
+    {
+      "rank": 17,
+      "song_id": "26896129",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 49,
+      "total_hits": 93,
+      "cet4_unique_words": 49,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 93,
+      "cet6_total_hits": 2,
+      "hit_line_count": 93,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "air",
+        "alone",
+        "away",
+        "baby",
+        "balcony",
+        "ball",
+        "cause",
+        "close",
+        "come",
+        "crowd",
+        "dead"
+      ],
+      "score": 49093
+    },
+    {
+      "rank": 18,
+      "song_id": "2147408170",
+      "song_name": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "unique_words": 49,
+      "total_hits": 82,
+      "cet4_unique_words": 49,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 82,
+      "cet6_total_hits": 6,
+      "hit_line_count": 42,
+      "hits_per_hit_line": 1.95,
+      "top_words": [
+        {
+          "word": "only",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "die",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ever",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "guilty",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hedge",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mind",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "actually",
+        "already",
+        "anyway",
+        "away",
+        "back",
+        "bad",
+        "blue",
+        "breath",
+        "building",
+        "cage",
+        "choose",
+        "cry"
+      ],
+      "score": 49082
+    },
+    {
+      "rank": 19,
+      "song_id": "1990191997",
+      "song_name": "You're On Your Own, Kid",
+      "artist": "Taylor Swift",
+      "unique_words": 49,
+      "total_hits": 68,
+      "cet4_unique_words": 49,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 68,
+      "cet6_total_hits": 1,
+      "hit_line_count": 36,
+      "hits_per_hit_line": 1.89,
+      "top_words": [
+        {
+          "word": "kid",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "own",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "always",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "away",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "best",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "better",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "face",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "always",
+        "away",
+        "best",
+        "better",
+        "blood",
+        "body",
+        "cause",
+        "choose",
+        "cool",
+        "different",
+        "dream"
+      ],
+      "score": 49068
+    },
+    {
+      "rank": 20,
+      "song_id": "19292838",
+      "song_name": "Sparks Fly",
+      "artist": "Taylor Swift",
+      "unique_words": 48,
+      "total_hits": 101,
+      "cet4_unique_words": 48,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 101,
+      "cet6_total_hits": 0,
+      "hit_line_count": 101,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fly",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "away",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "drop",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "away",
+        "baby",
+        "bad",
+        "better",
+        "cause",
+        "close",
+        "down",
+        "drop",
+        "enough",
+        "even",
+        "everything",
+        "far"
+      ],
+      "score": 48101
+    },
+    {
+      "rank": 21,
+      "song_id": "1382781566",
+      "song_name": "Daylight",
+      "artist": "Taylor Swift",
+      "unique_words": 47,
+      "total_hits": 159,
+      "cet4_unique_words": 47,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 159,
+      "cet6_total_hits": 1,
+      "hit_line_count": 159,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "daylight",
+          "hits": 40,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "anything",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "else",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "look",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "air",
+        "anything",
+        "awake",
+        "away",
+        "back",
+        "because",
+        "bed",
+        "black",
+        "cruel",
+        "dark",
+        "daylight"
+      ],
+      "score": 47159
+    },
+    {
+      "rank": 22,
+      "song_id": "19293014",
+      "song_name": "Back To December",
+      "artist": "Taylor Swift",
+      "unique_words": 47,
+      "total_hits": 104,
+      "cet4_unique_words": 47,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 104,
+      "cet6_total_hits": 0,
+      "hit_line_count": 104,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "december",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mind",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "night",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "change",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "freedom",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "front",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "back",
+        "beautiful",
+        "because",
+        "birthday",
+        "call",
+        "chain",
+        "change",
+        "cold",
+        "cry",
+        "dark",
+        "december"
+      ],
+      "score": 47104
+    },
+    {
+      "rank": 23,
+      "song_id": "1382778878",
+      "song_name": "Cornelia Street",
+      "artist": "Taylor Swift",
+      "unique_words": 47,
+      "total_hits": 91,
+      "cet4_unique_words": 47,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 91,
+      "cet6_total_hits": 4,
+      "hit_line_count": 91,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "again",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hope",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lose",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "away",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "city",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ever",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "ago",
+        "air",
+        "apartment",
+        "arrow",
+        "autumn",
+        "away",
+        "baby",
+        "back",
+        "bar",
+        "bless",
+        "car"
+      ],
+      "score": 47091
+    },
+    {
+      "rank": 24,
+      "song_id": "2744403189",
+      "song_name": "Opalite",
+      "artist": "Taylor Swift",
+      "unique_words": 46,
+      "total_hits": 81,
+      "cet4_unique_words": 46,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 81,
+      "cet6_total_hits": 2,
+      "hit_line_count": 51,
+      "hits_per_hit_line": 1.59,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lightning",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lord",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "alone",
+        "baby",
+        "bad",
+        "beat",
+        "bring",
+        "brother",
+        "bump",
+        "call",
+        "drum",
+        "failure",
+        "finally"
+      ],
+      "score": 46081
+    },
+    {
+      "rank": 25,
+      "song_id": "1803546869",
+      "song_name": "willow",
+      "artist": "Taylor Swift",
+      "unique_words": 45,
+      "total_hits": 107,
+      "cet4_unique_words": 45,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 107,
+      "cet6_total_hits": 12,
+      "hit_line_count": 107,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "man",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hand",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "wreck",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "follow",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "less",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "anywhere",
+        "art",
+        "back",
+        "case",
+        "champion",
+        "cheat",
+        "come",
+        "count",
+        "current",
+        "cut",
+        "dark"
+      ],
+      "score": 45107
+    },
+    {
+      "rank": 26,
+      "song_id": "19292800",
+      "song_name": "Red",
+      "artist": "Taylor Swift",
+      "unique_words": 44,
+      "total_hits": 87,
+      "cet4_unique_words": 44,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 87,
+      "cet6_total_hits": 0,
+      "hit_line_count": 87,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "red",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "blue",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dark",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "grey",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "missing",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alone",
+        "already",
+        "answer",
+        "autumn",
+        "back",
+        "blue",
+        "bright",
+        "cause",
+        "change",
+        "dark",
+        "dead",
+        "down"
+      ],
+      "score": 44087
+    },
+    {
+      "rank": 27,
+      "song_id": "19292987",
+      "song_name": "You Belong With Me",
+      "artist": "Taylor Swift",
+      "unique_words": 44,
+      "total_hits": 78,
+      "cet4_unique_words": 44,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 78,
+      "cet6_total_hits": 0,
+      "hit_line_count": 78,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "belong",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "captain",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cheer",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "back",
+        "belong",
+        "bench",
+        "better",
+        "captain",
+        "cause",
+        "cheer",
+        "cry",
+        "day",
+        "door",
+        "down"
+      ],
+      "score": 44078
+    },
+    {
+      "rank": 28,
+      "song_id": "514235010",
+      "song_name": "Gorgeous",
+      "artist": "Taylor Swift",
+      "unique_words": 43,
+      "total_hits": 85,
+      "cet4_unique_words": 43,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 85,
+      "cet6_total_hits": 6,
+      "hit_line_count": 85,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "face",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hate",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "feel",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "happy",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "actually",
+        "alone",
+        "anything",
+        "back",
+        "blue",
+        "cause",
+        "club",
+        "come",
+        "consequence",
+        "cool",
+        "die",
+        "drown"
+      ],
+      "score": 43085
+    },
+    {
+      "rank": 29,
+      "song_id": "1403250178",
+      "song_name": "Lover (Remix)",
+      "artist": "Taylor Swift, Shawn Mendes",
+      "unique_words": 43,
+      "total_hits": 78,
+      "cet4_unique_words": 43,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 78,
+      "cet6_total_hits": 3,
+      "hit_line_count": 78,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "go",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ever",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "forever",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lover",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "always",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "close",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "home",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "always",
+        "baby",
+        "bunch",
+        "christmas",
+        "close",
+        "dance",
+        "darling",
+        "dear",
+        "down",
+        "eighty",
+        "ever",
+        "fall"
+      ],
+      "score": 43078
+    },
+    {
+      "rank": 30,
+      "song_id": "1990192694",
+      "song_name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "unique_words": 43,
+      "total_hits": 72,
+      "cet4_unique_words": 43,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 72,
+      "cet6_total_hits": 3,
+      "hit_line_count": 41,
+      "hits_per_hit_line": 1.76,
+      "top_words": [
+        {
+          "word": "hi",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "everybody",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "problem",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "always",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "directly",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mirror",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "stare",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "day",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "always",
+        "baby",
+        "become",
+        "big",
+        "cause",
+        "city",
+        "come",
+        "crisis",
+        "day",
+        "depression",
+        "directly",
+        "disguise"
+      ],
+      "score": 43072
+    },
+    {
+      "rank": 31,
+      "song_id": "1382781549",
+      "song_name": "ME!",
+      "artist": "Taylor Swift, Brendon Urie",
+      "unique_words": 42,
+      "total_hits": 125,
+      "cet4_unique_words": 42,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 125,
+      "cet6_total_hits": 4,
+      "hit_line_count": 125,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "baby",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "promise",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fun",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "find",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alone",
+        "away",
+        "baby",
+        "band",
+        "bore",
+        "cause",
+        "company",
+        "cool",
+        "enough",
+        "fight",
+        "find",
+        "follow"
+      ],
+      "score": 42125
+    },
+    {
+      "rank": 32,
+      "song_id": "2744403174",
+      "song_name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "unique_words": 41,
+      "total_hits": 98,
+      "cet4_unique_words": 41,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 98,
+      "cet6_total_hits": 11,
+      "hit_line_count": 55,
+      "hits_per_hit_line": 1.78,
+      "top_words": [
+        {
+          "word": "fate",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "night",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "heart",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "care",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alone",
+        "because",
+        "bed",
+        "blow",
+        "care",
+        "cause",
+        "chain",
+        "cold",
+        "come",
+        "crown",
+        "daughter",
+        "fantasy"
+      ],
+      "score": 41098
+    },
+    {
+      "rank": 33,
+      "song_id": "516818336",
+      "song_name": "Delicate",
+      "artist": "Taylor Swift",
+      "unique_words": 40,
+      "total_hits": 109,
+      "cet4_unique_words": 40,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 109,
+      "cet6_total_hits": 15,
+      "hit_line_count": 109,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "delicate",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cool",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "chill",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "head",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "bar",
+        "best",
+        "black",
+        "blue",
+        "cause",
+        "chill",
+        "color",
+        "come",
+        "cool",
+        "damn",
+        "dark"
+      ],
+      "score": 40109
+    },
+    {
+      "rank": 34,
+      "song_id": "29572506",
+      "song_name": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "unique_words": 40,
+      "total_hits": 94,
+      "cet4_unique_words": 40,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 94,
+      "cet6_total_hits": 0,
+      "hit_line_count": 94,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "say",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dress",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "follow",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "nice",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "away",
+        "bad",
+        "bet",
+        "city",
+        "clothes",
+        "condition",
+        "down",
+        "dress",
+        "drive",
+        "end",
+        "even"
+      ],
+      "score": 40094
+    },
+    {
+      "rank": 35,
+      "song_id": "501133611",
+      "song_name": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "unique_words": 39,
+      "total_hits": 122,
+      "cet4_unique_words": 39,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 122,
+      "cet6_total_hits": 2,
+      "hit_line_count": 122,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "look",
+          "hits": 34,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 16,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "nobody",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "actress",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bad",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "check",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "actress",
+        "ask",
+        "bad",
+        "cause",
+        "check",
+        "come",
+        "cool",
+        "crime",
+        "day",
+        "dead",
+        "drama",
+        "feast"
+      ],
+      "score": 39122
+    },
+    {
+      "rank": 36,
+      "song_id": "1382778514",
+      "song_name": "Lover",
+      "artist": "Taylor Swift",
+      "unique_words": 39,
+      "total_hits": 68,
+      "cet4_unique_words": 39,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 68,
+      "cet6_total_hits": 5,
+      "hit_line_count": 68,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "go",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "lover",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ever",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "forever",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "always",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "close",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "home",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "always",
+        "blue",
+        "call",
+        "christmas",
+        "close",
+        "crash",
+        "darling",
+        "dear",
+        "end",
+        "ever",
+        "everyone",
+        "force"
+      ],
+      "score": 39068
+    },
+    {
+      "rank": 37,
+      "song_id": "19292852",
+      "song_name": "Enchanted",
+      "artist": "Taylor Swift",
+      "unique_words": 38,
+      "total_hits": 81,
+      "cet4_unique_words": 38,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 81,
+      "cet6_total_hits": 1,
+      "hit_line_count": 81,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "meet",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "please",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "forever",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "let",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "night",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "else",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "alone",
+        "awake",
+        "back",
+        "conversation",
+        "counter",
+        "cross",
+        "door",
+        "echo",
+        "else",
+        "face",
+        "first"
+      ],
+      "score": 38081
+    },
+    {
+      "rank": 38,
+      "song_id": "29572502",
+      "song_name": "Style",
+      "artist": "Taylor Swift",
+      "unique_words": 37,
+      "total_hits": 115,
+      "cet4_unique_words": 37,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 115,
+      "cet6_total_hits": 5,
+      "hit_line_count": 115,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "go",
+          "hits": 16,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "girl",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "home",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "cause",
+        "classic",
+        "coat",
+        "come",
+        "day",
+        "down",
+        "dream",
+        "drive",
+        "end",
+        "even",
+        "exactly"
+      ],
+      "score": 37115
+    },
+    {
+      "rank": 39,
+      "song_id": "25787222",
+      "song_name": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "unique_words": 37,
+      "total_hits": 104,
+      "cet4_unique_words": 37,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 104,
+      "cet6_total_hits": 0,
+      "hit_line_count": 104,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "ever",
+          "hits": 27,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "talk",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "away",
+        "baby",
+        "back",
+        "break",
+        "call",
+        "cause",
+        "change",
+        "come",
+        "day",
+        "enough",
+        "ever"
+      ],
+      "score": 37104
+    },
+    {
+      "rank": 40,
+      "song_id": "1382781100",
+      "song_name": "The Man",
+      "artist": "Taylor Swift",
+      "unique_words": 36,
+      "total_hits": 80,
+      "cet4_unique_words": 36,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 80,
+      "cet6_total_hits": 3,
+      "hit_line_count": 80,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "man",
+          "hits": 23,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fast",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "okay",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bad",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "bad",
+        "boss",
+        "cause",
+        "commit",
+        "complex",
+        "conquest",
+        "cool",
+        "deserve",
+        "everyone",
+        "fast",
+        "field"
+      ],
+      "score": 36080
+    },
+    {
+      "rank": 41,
+      "song_id": "2147408164",
+      "song_name": "Fortnight",
+      "artist": "Taylor Swift, Post Malone",
+      "unique_words": 36,
+      "total_hits": 70,
+      "cet4_unique_words": 36,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 70,
+      "cet6_total_hits": 0,
+      "hit_line_count": 36,
+      "hits_per_hit_line": 1.94,
+      "top_words": [
+        {
+          "word": "fortnight",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "good",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "kill",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "america",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "america",
+        "ask",
+        "away",
+        "blame",
+        "buy",
+        "car",
+        "come",
+        "comment",
+        "drug",
+        "endless",
+        "february",
+        "forever"
+      ],
+      "score": 36070
+    },
+    {
+      "rank": 42,
+      "song_id": "19292804",
+      "song_name": "22",
+      "artist": "Taylor Swift",
+      "unique_words": 35,
+      "total_hits": 99,
+      "cet4_unique_words": 35,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 99,
+      "cet6_total_hits": 0,
+      "hit_line_count": 99,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 17,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "everything",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "night",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bet",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ditch",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "bad",
+        "best",
+        "bet",
+        "breakfast",
+        "cool",
+        "dance",
+        "ditch",
+        "dress",
+        "end",
+        "everything",
+        "fall",
+        "feeling"
+      ],
+      "score": 35099
+    },
+    {
+      "rank": 43,
+      "song_id": "28953033",
+      "song_name": "Shake It Off",
+      "artist": "Taylor Swift",
+      "unique_words": 33,
+      "total_hits": 108,
+      "cet4_unique_words": 33,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 108,
+      "cet6_total_hits": 0,
+      "hit_line_count": 108,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "break",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hate",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "play",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "people",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "beat",
+        "brain",
+        "break",
+        "cause",
+        "come",
+        "dirty",
+        "down",
+        "go",
+        "god",
+        "good",
+        "hair"
+      ],
+      "score": 33108
+    },
+    {
+      "rank": 44,
+      "song_id": "25648017",
+      "song_name": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "unique_words": 30,
+      "total_hits": 72,
+      "cet4_unique_words": 30,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 72,
+      "cet6_total_hits": 0,
+      "hit_line_count": 72,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "oh",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hard",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cold",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "found",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ground",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "put",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "ago",
+        "alone",
+        "anyone",
+        "anything",
+        "back",
+        "belt",
+        "blame",
+        "care",
+        "cause",
+        "cold",
+        "cry",
+        "down"
+      ],
+      "score": 30072
+    },
+    {
+      "rank": 45,
+      "song_id": "2001472",
+      "song_name": "Safe & Sound",
+      "artist": "Taylor Swift, The Civil Wars",
+      "unique_words": 26,
+      "total_hits": 45,
+      "cet4_unique_words": 26,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 45,
+      "cet6_total_hits": 0,
+      "hit_line_count": 45,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "light",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "close",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "morning",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "sound",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hurt",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "almost",
+        "alone",
+        "close",
+        "come",
+        "dare",
+        "darling",
+        "dead",
+        "door",
+        "down",
+        "even",
+        "face",
+        "fire"
+      ],
+      "score": 26045
+    },
+    {
+      "rank": 46,
+      "song_id": "3390083812",
+      "song_name": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "unique_words": 26,
+      "total_hits": 40,
+      "cet4_unique_words": 26,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 40,
+      "cet6_total_hits": 0,
+      "hit_line_count": 25,
+      "hits_per_hit_line": 1.6,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "saw",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "light",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bare",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "bare",
+        "bend",
+        "drive",
+        "eye",
+        "fall",
+        "fight",
+        "free",
+        "friend",
+        "grass",
+        "hi",
+        "last"
+      ],
+      "score": 26040
+    },
+    {
+      "rank": 47,
+      "song_id": "3395369733",
+      "song_name": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "unique_words": 26,
+      "total_hits": 40,
+      "cet4_unique_words": 26,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 40,
+      "cet6_total_hits": 0,
+      "hit_line_count": 25,
+      "hits_per_hit_line": 1.6,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "saw",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "light",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bare",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "bare",
+        "bend",
+        "drive",
+        "eye",
+        "fall",
+        "fight",
+        "free",
+        "friend",
+        "grass",
+        "hi",
+        "last"
+      ],
+      "score": 26040
+    },
+    {
+      "rank": 48,
+      "song_id": "3392904353",
+      "song_name": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "unique_words": 26,
+      "total_hits": 40,
+      "cet4_unique_words": 26,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 40,
+      "cet6_total_hits": 0,
+      "hit_line_count": 25,
+      "hits_per_hit_line": 1.6,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "saw",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "light",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bare",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "bare",
+        "bend",
+        "drive",
+        "eye",
+        "fall",
+        "fight",
+        "free",
+        "friend",
+        "grass",
+        "hi",
+        "last"
+      ],
+      "score": 26040
+    },
+    {
+      "rank": 49,
+      "song_id": "29561031",
+      "song_name": "Welcome To New York",
+      "artist": "Taylor Swift",
+      "unique_words": 25,
+      "total_hits": 78,
+      "cet4_unique_words": 25,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 78,
+      "cet6_total_hits": 2,
+      "hit_line_count": 78,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "new",
+          "hits": 32,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "beat",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "blind",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bright",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "anything",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dance",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "anything",
+        "apartment",
+        "beat",
+        "blind",
+        "bright",
+        "broken",
+        "change",
+        "crazy",
+        "crowd",
+        "dance",
+        "drawer",
+        "else"
+      ],
+      "score": 25078
+    },
+    {
+      "rank": 50,
+      "song_id": "1919029404",
+      "song_name": "The Joker And The Queen (feat. Taylor Swift)",
+      "artist": "Ed Sheeran, Taylor Swift",
+      "unique_words": 18,
+      "total_hits": 33,
+      "cet4_unique_words": 18,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 33,
+      "cet6_total_hits": 2,
+      "hit_line_count": 33,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "queen",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "best",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "diamond",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fall",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fold",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ring",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "best",
+        "broken",
+        "crazy",
+        "diamond",
+        "fall",
+        "fold",
+        "give",
+        "gold",
+        "hand",
+        "king",
+        "know",
+        "left"
+      ],
+      "score": 18033
+    }
+  ],
+  "top": 50,
+  "source_index": "taylor_swift_cet6_index.json"
+}

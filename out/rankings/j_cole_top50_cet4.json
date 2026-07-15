@@ -1,0 +1,4977 @@
+{
+  "artist": "J. Cole",
+  "level": "cet4",
+  "level_label": "四级",
+  "built_at": "2026-07-15T09:28:04.364Z",
+  "source_index_built_at": "2026-07-15T09:27:26.390Z",
+  "song_count": 50,
+  "ranked_song_count": 48,
+  "artist_unique_words": 1246,
+  "artist_cet4_unique_words": 1246,
+  "artist_cet6_unique_words": 212,
+  "artist_total_hits": 7717,
+  "hardest_song": {
+    "song_id": "445666482",
+    "song_name": "4 Your Eyez Only",
+    "unique_words": 173,
+    "total_hits": 292
+  },
+  "songs": [
+    {
+      "rank": 1,
+      "song_id": "445666482",
+      "song_name": "4 Your Eyez Only",
+      "artist": "J. Cole",
+      "unique_words": 173,
+      "total_hits": 292,
+      "cet4_unique_words": 173,
+      "cet6_unique_words": 17,
+      "cet4_total_hits": 292,
+      "cet6_total_hits": 17,
+      "hit_line_count": 118,
+      "hits_per_hit_line": 2.47,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "real",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "because",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "advance",
+        "again",
+        "age",
+        "album",
+        "alive",
+        "although",
+        "baby",
+        "back",
+        "barely",
+        "because",
+        "beef"
+      ],
+      "score": 173292
+    },
+    {
+      "rank": 2,
+      "song_id": "2144961596",
+      "song_name": "Red Leather",
+      "artist": "Future, Metro Boomin, J. Cole",
+      "unique_words": 151,
+      "total_hits": 245,
+      "cet4_unique_words": 151,
+      "cet6_unique_words": 13,
+      "cet4_total_hits": 245,
+      "cet6_total_hits": 19,
+      "hit_line_count": 120,
+      "hits_per_hit_line": 2.04,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "heart",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "better",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "leather",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "acid",
+        "action",
+        "address",
+        "again",
+        "age",
+        "alone",
+        "arm",
+        "ask",
+        "attraction",
+        "authority",
+        "avenue",
+        "baby"
+      ],
+      "score": 151245
+    },
+    {
+      "rank": 3,
+      "song_id": "3347161218",
+      "song_name": "SAFETY",
+      "artist": "J. Cole",
+      "unique_words": 141,
+      "total_hits": 243,
+      "cet4_unique_words": 141,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 243,
+      "cet6_total_hits": 8,
+      "hit_line_count": 95,
+      "hits_per_hit_line": 2.56,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 23,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "home",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "phone",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dog",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "real",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "advanced",
+        "although",
+        "always",
+        "anyhow",
+        "apologize",
+        "appreciation",
+        "aware",
+        "away",
+        "awkward",
+        "baby",
+        "back",
+        "bad"
+      ],
+      "score": 141243
+    },
+    {
+      "rank": 4,
+      "song_id": "445666478",
+      "song_name": "Change",
+      "artist": "J. Cole",
+      "unique_words": 135,
+      "total_hits": 273,
+      "cet4_unique_words": 135,
+      "cet6_unique_words": 15,
+      "cet4_total_hits": 273,
+      "cet6_total_hits": 16,
+      "hit_line_count": 273,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "change",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "real",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "better",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "ability",
+        "angel",
+        "apply",
+        "baby",
+        "back",
+        "ball",
+        "barely",
+        "because",
+        "become",
+        "believe",
+        "better",
+        "black"
+      ],
+      "score": 135273
+    },
+    {
+      "rank": 5,
+      "song_id": "3347160363",
+      "song_name": "39 Intro",
+      "artist": "J. Cole",
+      "unique_words": 123,
+      "total_hits": 184,
+      "cet4_unique_words": 123,
+      "cet6_unique_words": 16,
+      "cet4_total_hits": 184,
+      "cet6_total_hits": 16,
+      "hit_line_count": 82,
+      "hits_per_hit_line": 2.24,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "let",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "middle",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "feel",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fire",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "always",
+        "anything",
+        "apart",
+        "attract",
+        "back",
+        "bad",
+        "beat",
+        "beauty",
+        "bed",
+        "belt",
+        "best"
+      ],
+      "score": 123184
+    },
+    {
+      "rank": 6,
+      "song_id": "3347160366",
+      "song_name": "I Love Her Again",
+      "artist": "J. Cole",
+      "unique_words": 121,
+      "total_hits": 199,
+      "cet4_unique_words": 121,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 199,
+      "cet6_total_hits": 8,
+      "hit_line_count": 89,
+      "hits_per_hit_line": 2.24,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 18,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "common",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "day",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "accept",
+        "act",
+        "again",
+        "ago",
+        "alive",
+        "always",
+        "ask",
+        "back",
+        "beauty",
+        "beef",
+        "believe",
+        "best"
+      ],
+      "score": 121199
+    },
+    {
+      "rank": 7,
+      "song_id": "2677650585",
+      "song_name": "cLOUDs",
+      "artist": "J. Cole",
+      "unique_words": 117,
+      "total_hits": 144,
+      "cet4_unique_words": 117,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 144,
+      "cet6_total_hits": 9,
+      "hit_line_count": 65,
+      "hits_per_hit_line": 2.22,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "god",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "gray",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "head",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "loud",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "apple",
+        "audio",
+        "back",
+        "believe",
+        "bother",
+        "boy",
+        "break",
+        "breath",
+        "breathe",
+        "bridge",
+        "bull",
+        "bullet"
+      ],
+      "score": 117144
+    },
+    {
+      "rank": 8,
+      "song_id": "1323291774",
+      "song_name": "Off Deez",
+      "artist": "JID, J. Cole",
+      "unique_words": 115,
+      "total_hits": 218,
+      "cet4_unique_words": 115,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 218,
+      "cet6_total_hits": 12,
+      "hit_line_count": 218,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "get",
+          "hits": 37,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "okay",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "look",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bet",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "grip",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "hip",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "jump",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "animal",
+        "anybody",
+        "bad",
+        "barely",
+        "beast",
+        "beef",
+        "believe",
+        "best",
+        "bet",
+        "better",
+        "block",
+        "blood"
+      ],
+      "score": 115218
+    },
+    {
+      "rank": 9,
+      "song_id": "2088229116",
+      "song_name": "First Person Shooter",
+      "artist": "Drake, J. Cole",
+      "unique_words": 111,
+      "total_hits": 167,
+      "cet4_unique_words": 111,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 167,
+      "cet6_total_hits": 10,
+      "hit_line_count": 66,
+      "hits_per_hit_line": 2.53,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "big",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "click",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "beat",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bowl",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "apply",
+        "argue",
+        "automatic",
+        "away",
+        "back",
+        "beam",
+        "beat",
+        "because",
+        "beef",
+        "better",
+        "big"
+      ],
+      "score": 111167
+    },
+    {
+      "rank": 10,
+      "song_id": "2142611891",
+      "song_name": "Trae The Truth in Ibiza",
+      "artist": "J. Cole",
+      "unique_words": 110,
+      "total_hits": 173,
+      "cet4_unique_words": 110,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 173,
+      "cet6_total_hits": 14,
+      "hit_line_count": 79,
+      "hits_per_hit_line": 2.19,
+      "top_words": [
+        {
+          "word": "just",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "feel",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "truth",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "better",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "anything",
+        "arm",
+        "attempt",
+        "back",
+        "bad",
+        "bed",
+        "best",
+        "better",
+        "big",
+        "breath",
+        "cake",
+        "change"
+      ],
+      "score": 110173
+    },
+    {
+      "rank": 11,
+      "song_id": "1456162296",
+      "song_name": "Snow On Tha Bluff",
+      "artist": "J. Cole",
+      "unique_words": 110,
+      "total_hits": 153,
+      "cet4_unique_words": 110,
+      "cet6_unique_words": 14,
+      "cet4_total_hits": 153,
+      "cet6_total_hits": 14,
+      "hit_line_count": 153,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mad",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "people",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "enough",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "grow",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "already",
+        "average",
+        "awareness",
+        "because",
+        "believe",
+        "better",
+        "boy",
+        "buy",
+        "cause",
+        "change",
+        "child",
+        "college"
+      ],
+      "score": 110153
+    },
+    {
+      "rank": 12,
+      "song_id": "26524134",
+      "song_name": "Rich Niggaz",
+      "artist": "J. Cole",
+      "unique_words": 104,
+      "total_hits": 172,
+      "cet4_unique_words": 104,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 172,
+      "cet6_total_hits": 11,
+      "hit_line_count": 172,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "go",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "money",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "need",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "again",
+        "alone",
+        "ashamed",
+        "back",
+        "bad",
+        "become",
+        "bit",
+        "blood",
+        "boat",
+        "boring",
+        "brain"
+      ],
+      "score": 104172
+    },
+    {
+      "rank": 13,
+      "song_id": "1388263778",
+      "song_name": "Family and Loyalty",
+      "artist": "Gang Starr, J. Cole",
+      "unique_words": 101,
+      "total_hits": 237,
+      "cet4_unique_words": 101,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 237,
+      "cet6_total_hits": 25,
+      "hit_line_count": 237,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 52,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "forever",
+          "hits": 18,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "loyalty",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "family",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "infinite",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "real",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "respect",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "diamond",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afford",
+        "again",
+        "always",
+        "band",
+        "bat",
+        "beat",
+        "best",
+        "bill",
+        "blind",
+        "block",
+        "blue",
+        "bring"
+      ],
+      "score": 101237
+    },
+    {
+      "rank": 14,
+      "song_id": "1844671635",
+      "song_name": "m y . l i f e",
+      "artist": "J. Cole, 21 Savage, Morray",
+      "unique_words": 98,
+      "total_hits": 170,
+      "cet4_unique_words": 98,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 170,
+      "cet6_total_hits": 7,
+      "hit_line_count": 170,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "god",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "often",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "ahead",
+        "air",
+        "always",
+        "away",
+        "believe",
+        "best",
+        "betray",
+        "better",
+        "big",
+        "blame",
+        "block",
+        "breast"
+      ],
+      "score": 98170
+    },
+    {
+      "rank": 15,
+      "song_id": "1371516088",
+      "song_name": "Down Bad",
+      "artist": "Dreamville, JID, Bas, J. Cole, EarthGang, Young Nudy",
+      "unique_words": 96,
+      "total_hits": 195,
+      "cet4_unique_words": 96,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 195,
+      "cet6_total_hits": 12,
+      "hit_line_count": 195,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crown",
+          "hits": 19,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 18,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 17,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bad",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "tighten",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "baby",
+        "back",
+        "background",
+        "bad",
+        "bag",
+        "ball",
+        "bang",
+        "bank",
+        "big",
+        "board",
+        "booth",
+        "born"
+      ],
+      "score": 96195
+    },
+    {
+      "rank": 16,
+      "song_id": "3347160364",
+      "song_name": "Old Dog",
+      "artist": "J. Cole",
+      "unique_words": 96,
+      "total_hits": 160,
+      "cet4_unique_words": 96,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 160,
+      "cet6_total_hits": 5,
+      "hit_line_count": 59,
+      "hits_per_hit_line": 2.71,
+      "top_words": [
+        {
+          "word": "now",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "new",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "pay",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "real",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "swing",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "accustomed",
+        "already",
+        "baby",
+        "back",
+        "bear",
+        "because",
+        "believe",
+        "big",
+        "blow",
+        "boost",
+        "bring",
+        "carry"
+      ],
+      "score": 96160
+    },
+    {
+      "rank": 17,
+      "song_id": "3347161227",
+      "song_name": "Only You",
+      "artist": "J. Cole",
+      "unique_words": 96,
+      "total_hits": 140,
+      "cet4_unique_words": 96,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 140,
+      "cet6_total_hits": 10,
+      "hit_line_count": 67,
+      "hits_per_hit_line": 2.09,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mind",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "owe",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "best",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "maybe",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "accept",
+        "accordingly",
+        "again",
+        "alone",
+        "assistance",
+        "baby",
+        "back",
+        "beautiful",
+        "because",
+        "best",
+        "big",
+        "birth"
+      ],
+      "score": 96140
+    },
+    {
+      "rank": 18,
+      "song_id": "2048760677",
+      "song_name": "All My Life",
+      "artist": "Lil Durk, J. Cole",
+      "unique_words": 94,
+      "total_hits": 176,
+      "cet4_unique_words": 94,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 176,
+      "cet6_total_hits": 5,
+      "hit_line_count": 171,
+      "hits_per_hit_line": 1.03,
+      "top_words": [
+        {
+          "word": "keep",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "break",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "age",
+        "ahead",
+        "alive",
+        "always",
+        "better",
+        "blame",
+        "body",
+        "boy",
+        "break",
+        "cash",
+        "change",
+        "cheat"
+      ],
+      "score": 94176
+    },
+    {
+      "rank": 19,
+      "song_id": "1309796582",
+      "song_name": "Pretty Little Fears",
+      "artist": "6LACK, J. Cole",
+      "unique_words": 94,
+      "total_hits": 159,
+      "cet4_unique_words": 94,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 159,
+      "cet6_total_hits": 3,
+      "hit_line_count": 159,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "coat",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "little",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "music",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alive",
+        "ask",
+        "baby",
+        "back",
+        "beautiful",
+        "best",
+        "bet",
+        "better",
+        "black",
+        "body",
+        "branch",
+        "cause"
+      ],
+      "score": 94159
+    },
+    {
+      "rank": 20,
+      "song_id": "3347161221",
+      "song_name": "Legacy",
+      "artist": "J. Cole",
+      "unique_words": 94,
+      "total_hits": 146,
+      "cet4_unique_words": 94,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 146,
+      "cet6_total_hits": 7,
+      "hit_line_count": 49,
+      "hits_per_hit_line": 2.98,
+      "top_words": [
+        {
+          "word": "back",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "away",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "find",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "ahead",
+        "aware",
+        "away",
+        "back",
+        "ball",
+        "barely",
+        "best",
+        "black",
+        "bottle",
+        "bus",
+        "busy"
+      ],
+      "score": 94146
+    },
+    {
+      "rank": 21,
+      "song_id": "3348816024",
+      "song_name": "Bunce Road Blues",
+      "artist": "J. Cole, Future, Tems",
+      "unique_words": 94,
+      "total_hits": 137,
+      "cet4_unique_words": 94,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 137,
+      "cet6_total_hits": 6,
+      "hit_line_count": 61,
+      "hits_per_hit_line": 2.25,
+      "top_words": [
+        {
+          "word": "go",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "broken",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "ago",
+        "alone",
+        "always",
+        "back",
+        "better",
+        "block",
+        "boy",
+        "bright",
+        "broken",
+        "choose",
+        "climb"
+      ],
+      "score": 94137
+    },
+    {
+      "rank": 22,
+      "song_id": "1844668201",
+      "song_name": "l e t . g o . m y . h a n d",
+      "artist": "J. Cole, Bas, 6LACK",
+      "unique_words": 93,
+      "total_hits": 120,
+      "cet4_unique_words": 93,
+      "cet6_unique_words": 12,
+      "cet4_total_hits": 120,
+      "cet6_total_hits": 12,
+      "hit_line_count": 120,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "just",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "grow",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "couple",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "die",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "add",
+        "ago",
+        "album",
+        "always",
+        "away",
+        "back",
+        "bad",
+        "become",
+        "believe",
+        "bound",
+        "broken",
+        "call"
+      ],
+      "score": 93120
+    },
+    {
+      "rank": 23,
+      "song_id": "1844671637",
+      "song_name": "p r i d e . i s . t h e . d e v i l",
+      "artist": "J. Cole, Lil Baby",
+      "unique_words": 92,
+      "total_hits": 161,
+      "cet4_unique_words": 92,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 161,
+      "cet6_total_hits": 7,
+      "hit_line_count": 161,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "pride",
+          "hits": 18,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "devil",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "everything",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "anything",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fill",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "put",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "crazy",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "add",
+        "ahead",
+        "amount",
+        "anything",
+        "baby",
+        "back",
+        "bag",
+        "beat",
+        "believe",
+        "bet",
+        "better"
+      ],
+      "score": 92161
+    },
+    {
+      "rank": 24,
+      "song_id": "2044734734",
+      "song_name": "All My Life",
+      "artist": "Lil Durk, J. Cole",
+      "unique_words": 92,
+      "total_hits": 144,
+      "cet4_unique_words": 92,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 144,
+      "cet6_total_hits": 5,
+      "hit_line_count": 77,
+      "hits_per_hit_line": 1.87,
+      "top_words": [
+        {
+          "word": "out",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "age",
+        "ahead",
+        "alive",
+        "always",
+        "better",
+        "blame",
+        "body",
+        "boy",
+        "break",
+        "cash",
+        "change",
+        "cheat"
+      ],
+      "score": 92144
+    },
+    {
+      "rank": 25,
+      "song_id": "26303850",
+      "song_name": "Kenny Lofton",
+      "artist": "J. Cole",
+      "unique_words": 91,
+      "total_hits": 191,
+      "cet4_unique_words": 91,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 191,
+      "cet6_total_hits": 4,
+      "hit_line_count": 191,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "only",
+          "hits": 13,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "care",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "heart",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "hook",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "age",
+        "appeal",
+        "ball",
+        "base",
+        "beat",
+        "best",
+        "black",
+        "book",
+        "boy",
+        "brother",
+        "care"
+      ],
+      "score": 91191
+    },
+    {
+      "rank": 26,
+      "song_id": "26524139",
+      "song_name": "Crooked Smile",
+      "artist": "J. Cole, TLC",
+      "unique_words": 87,
+      "total_hits": 179,
+      "cet4_unique_words": 87,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 179,
+      "cet6_total_hits": 4,
+      "hit_line_count": 179,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "down",
+          "hits": 17,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "already",
+        "appealing",
+        "baby",
+        "back",
+        "beautiful",
+        "beauty",
+        "beef",
+        "brother",
+        "brush",
+        "care",
+        "cause",
+        "cell"
+      ],
+      "score": 87179
+    },
+    {
+      "rank": 27,
+      "song_id": "1367289588",
+      "song_name": "The London (feat. J. Cole & Travis Scott)",
+      "artist": "Young Thug, J. Cole, Travis Scott",
+      "unique_words": 87,
+      "total_hits": 151,
+      "cet4_unique_words": 87,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 151,
+      "cet6_total_hits": 10,
+      "hit_line_count": 151,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "find",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "talk",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "away",
+        "back",
+        "beat",
+        "big",
+        "bread",
+        "brick",
+        "broad",
+        "brown",
+        "cash",
+        "catch",
+        "cement"
+      ],
+      "score": 87151
+    },
+    {
+      "rank": 28,
+      "song_id": "1334811366",
+      "song_name": "a lot",
+      "artist": "21 Savage, J. Cole",
+      "unique_words": 84,
+      "total_hits": 243,
+      "cet4_unique_words": 84,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 243,
+      "cet6_total_hits": 6,
+      "hit_line_count": 243,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "lot",
+          "hits": 49,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 29,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "break",
+          "hits": 28,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "money",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "shot",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "pray",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "alive",
+        "anything",
+        "aware",
+        "back",
+        "beast",
+        "big",
+        "bit",
+        "book",
+        "break",
+        "breath",
+        "brother"
+      ],
+      "score": 84243
+    },
+    {
+      "rank": 29,
+      "song_id": "3347161217",
+      "song_name": "Two Six",
+      "artist": "J. Cole",
+      "unique_words": 84,
+      "total_hits": 117,
+      "cet4_unique_words": 84,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 117,
+      "cet6_total_hits": 6,
+      "hit_line_count": 49,
+      "hits_per_hit_line": 2.39,
+      "top_words": [
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "good",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "away",
+        "back",
+        "believe",
+        "big",
+        "blind",
+        "block",
+        "boy",
+        "call",
+        "car",
+        "careful",
+        "cash"
+      ],
+      "score": 84117
+    },
+    {
+      "rank": 30,
+      "song_id": "1341722986",
+      "song_name": "MIDDLE CHILD",
+      "artist": "J. Cole",
+      "unique_words": 83,
+      "total_hits": 154,
+      "cet4_unique_words": 83,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 154,
+      "cet6_total_hits": 7,
+      "hit_line_count": 154,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "real",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "make",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "feel",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "money",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dirty",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "back",
+        "bag",
+        "balance",
+        "beef",
+        "big",
+        "bread",
+        "cause",
+        "cell",
+        "change",
+        "choice",
+        "class"
+      ],
+      "score": 83154
+    },
+    {
+      "rank": 31,
+      "song_id": "29775431",
+      "song_name": "G.O.M.D",
+      "artist": "J. Cole",
+      "unique_words": 78,
+      "total_hits": 161,
+      "cet4_unique_words": 78,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 161,
+      "cet6_total_hits": 5,
+      "hit_line_count": 161,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "get",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "nobody",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "everybody",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "let",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "aware",
+        "baby",
+        "back",
+        "beef",
+        "best",
+        "better",
+        "bitter",
+        "black",
+        "break",
+        "breathe",
+        "cake",
+        "call"
+      ],
+      "score": 78161
+    },
+    {
+      "rank": 32,
+      "song_id": "3348816021",
+      "song_name": "Run A Train",
+      "artist": "J. Cole, Future",
+      "unique_words": 78,
+      "total_hits": 127,
+      "cet4_unique_words": 78,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 127,
+      "cet6_total_hits": 15,
+      "hit_line_count": 56,
+      "hits_per_hit_line": 2.27,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "pain",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "change",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "die",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "passion",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "struggle",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "back",
+        "ball",
+        "beef",
+        "better",
+        "big",
+        "bond",
+        "calm",
+        "cause",
+        "change",
+        "chase",
+        "choose",
+        "city"
+      ],
+      "score": 78127
+    },
+    {
+      "rank": 33,
+      "song_id": "2142611889",
+      "song_name": "Huntin’ Wabbitz",
+      "artist": "J. Cole",
+      "unique_words": 78,
+      "total_hits": 113,
+      "cet4_unique_words": 78,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 113,
+      "cet6_total_hits": 4,
+      "hit_line_count": 49,
+      "hits_per_hit_line": 2.31,
+      "top_words": [
+        {
+          "word": "just",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "high",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "aim",
+        "always",
+        "away",
+        "back",
+        "bad",
+        "become",
+        "big",
+        "bottom",
+        "care",
+        "cause",
+        "click"
+      ],
+      "score": 78113
+    },
+    {
+      "rank": 34,
+      "song_id": "1600540",
+      "song_name": "Higher",
+      "artist": "J. Cole",
+      "unique_words": 77,
+      "total_hits": 171,
+      "cet4_unique_words": 77,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 171,
+      "cet6_total_hits": 10,
+      "hit_line_count": 171,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "one",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "come",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fire",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "gas",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "pour",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "spark",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "desire",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "act",
+        "baby",
+        "back",
+        "bag",
+        "bend",
+        "berry",
+        "boat",
+        "body",
+        "bowl",
+        "brother",
+        "cause",
+        "class"
+      ],
+      "score": 77171
+    },
+    {
+      "rank": 35,
+      "song_id": "29775430",
+      "song_name": "No Role Modelz",
+      "artist": "J. Cole",
+      "unique_words": 76,
+      "total_hits": 174,
+      "cet4_unique_words": 76,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 174,
+      "cet6_total_hits": 3,
+      "hit_line_count": 118,
+      "hits_per_hit_line": 1.47,
+      "top_words": [
+        {
+          "word": "save",
+          "hits": 20,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fool",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "shallow",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "only",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "deep",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "aunt",
+        "back",
+        "better",
+        "bird",
+        "blame",
+        "call",
+        "cause",
+        "dark",
+        "deep",
+        "difference",
+        "door"
+      ],
+      "score": 76174
+    },
+    {
+      "rank": 36,
+      "song_id": "29775437",
+      "song_name": "Apparently",
+      "artist": "J. Cole",
+      "unique_words": 76,
+      "total_hits": 140,
+      "cet4_unique_words": 76,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 140,
+      "cet6_total_hits": 7,
+      "hit_line_count": 140,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "know",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "keep",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "head",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "paint",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "ask",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "aim",
+        "alone",
+        "always",
+        "ask",
+        "baby",
+        "back",
+        "because",
+        "believe",
+        "best",
+        "better",
+        "big",
+        "bridge"
+      ],
+      "score": 76140
+    },
+    {
+      "rank": 37,
+      "song_id": "445666479",
+      "song_name": "Neighbors",
+      "artist": "J. Cole",
+      "unique_words": 72,
+      "total_hits": 113,
+      "cet4_unique_words": 72,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 113,
+      "cet6_total_hits": 5,
+      "hit_line_count": 113,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "follow",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "guess",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "even",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "okay",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "again",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "always",
+        "apologize",
+        "army",
+        "assume",
+        "away",
+        "back",
+        "believe",
+        "big",
+        "black",
+        "break",
+        "candidate"
+      ],
+      "score": 72113
+    },
+    {
+      "rank": 38,
+      "song_id": "1600500",
+      "song_name": "Work Out",
+      "artist": "J. Cole",
+      "unique_words": 71,
+      "total_hits": 227,
+      "cet4_unique_words": 71,
+      "cet6_unique_words": 0,
+      "cet4_total_hits": 227,
+      "cet6_total_hits": 0,
+      "hit_line_count": 227,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "out",
+          "hits": 14,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "girl",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "go",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "night",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "oh",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "one",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "again",
+        "baby",
+        "back",
+        "bad",
+        "bar",
+        "big",
+        "block",
+        "blue",
+        "brain",
+        "buy",
+        "cause",
+        "chance"
+      ],
+      "score": 71227
+    },
+    {
+      "rank": 39,
+      "song_id": "3347161224",
+      "song_name": "Bombs in the Ville/Hit the Gas",
+      "artist": "J. Cole",
+      "unique_words": 71,
+      "total_hits": 119,
+      "cet4_unique_words": 71,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 119,
+      "cet6_total_hits": 5,
+      "hit_line_count": 56,
+      "hits_per_hit_line": 2.13,
+      "top_words": [
+        {
+          "word": "damn",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "film",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "just",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "down",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "feel",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "away",
+        "back",
+        "background",
+        "boat",
+        "brown",
+        "call",
+        "cause",
+        "child",
+        "chocolate",
+        "come",
+        "cross",
+        "cut"
+      ],
+      "score": 71119
+    },
+    {
+      "rank": 40,
+      "song_id": "1844671640",
+      "song_name": "h u n g e r . o n . h i l l s i d e",
+      "artist": "J. Cole, Bas",
+      "unique_words": 70,
+      "total_hits": 129,
+      "cet4_unique_words": 70,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 129,
+      "cet6_total_hits": 6,
+      "hit_line_count": 129,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "get",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "head",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "money",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "big",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "fade",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "afraid",
+        "ago",
+        "already",
+        "back",
+        "believe",
+        "big",
+        "bone",
+        "building",
+        "cast",
+        "catch",
+        "cause",
+        "close"
+      ],
+      "score": 70129
+    },
+    {
+      "rank": 41,
+      "song_id": "29775436",
+      "song_name": "Love Yourz",
+      "artist": "J. Cole",
+      "unique_words": 67,
+      "total_hits": 133,
+      "cet4_unique_words": 67,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 133,
+      "cet6_total_hits": 2,
+      "hit_line_count": 133,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "better",
+          "hits": 12,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "life",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "always",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "let",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "beauty",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alive",
+        "always",
+        "arrive",
+        "back",
+        "bad",
+        "beauty",
+        "better",
+        "block",
+        "cause",
+        "city",
+        "clothes",
+        "day"
+      ],
+      "score": 67133
+    },
+    {
+      "rank": 42,
+      "song_id": "29775428",
+      "song_name": "Wet Dreamz",
+      "artist": "J. Cole",
+      "unique_words": 66,
+      "total_hits": 101,
+      "cet4_unique_words": 66,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 101,
+      "cet6_total_hits": 2,
+      "hit_line_count": 50,
+      "hits_per_hit_line": 2.02,
+      "top_words": [
+        {
+          "word": "baby",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "man",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "first",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "body",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "action",
+        "always",
+        "baby",
+        "back",
+        "bad",
+        "bed",
+        "big",
+        "body",
+        "bone",
+        "brown",
+        "cause",
+        "class"
+      ],
+      "score": 66101
+    },
+    {
+      "rank": 43,
+      "song_id": "1844668198",
+      "song_name": "a m a r i",
+      "artist": "J. Cole",
+      "unique_words": 63,
+      "total_hits": 98,
+      "cet4_unique_words": 63,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 98,
+      "cet6_total_hits": 6,
+      "hit_line_count": 98,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "out",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "mean",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "back",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bag",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "leave",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "bean",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "army",
+        "baby",
+        "back",
+        "bag",
+        "bean",
+        "better",
+        "big",
+        "booth",
+        "catch",
+        "change",
+        "choice",
+        "choke"
+      ],
+      "score": 63098
+    },
+    {
+      "rank": 44,
+      "song_id": "26524129",
+      "song_name": "Power Trip",
+      "artist": "J. Cole, Miguel",
+      "unique_words": 57,
+      "total_hits": 155,
+      "cet4_unique_words": 57,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 155,
+      "cet6_total_hits": 8,
+      "hit_line_count": 155,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "night",
+          "hits": 22,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "love",
+          "hits": 21,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 10,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "now",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "want",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "baby",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "believe",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "constant",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "alone",
+        "anonymous",
+        "baby",
+        "back",
+        "ball",
+        "believe",
+        "cause",
+        "child",
+        "childish",
+        "city",
+        "club",
+        "college"
+      ],
+      "score": 57155
+    },
+    {
+      "rank": 45,
+      "song_id": "2163506324",
+      "song_name": "Free Fall",
+      "artist": "Tems, J. Cole",
+      "unique_words": 48,
+      "total_hits": 74,
+      "cet4_unique_words": 48,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 74,
+      "cet6_total_hits": 2,
+      "hit_line_count": 48,
+      "hits_per_hit_line": 1.54,
+      "top_words": [
+        {
+          "word": "enough",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "name",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "out",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "let",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "alone",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "angel",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "beautiful",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alone",
+        "angel",
+        "away",
+        "back",
+        "ball",
+        "beautiful",
+        "belong",
+        "blow",
+        "call",
+        "calm",
+        "card",
+        "choose"
+      ],
+      "score": 48074
+    },
+    {
+      "rank": 46,
+      "song_id": "445666477",
+      "song_name": "She's Mine Pt. 1",
+      "artist": "J. Cole",
+      "unique_words": 43,
+      "total_hits": 73,
+      "cet4_unique_words": 43,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 73,
+      "cet6_total_hits": 2,
+      "hit_line_count": 73,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "alive",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "catch",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "like",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "believe",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "know",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "better",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "die",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "alive",
+        "baby",
+        "believe",
+        "better",
+        "bible",
+        "book",
+        "catch",
+        "cause",
+        "clear",
+        "cry",
+        "day",
+        "die"
+      ],
+      "score": 43073
+    },
+    {
+      "rank": 47,
+      "song_id": "445666476",
+      "song_name": "Ville Mentality",
+      "artist": "J. Cole",
+      "unique_words": 36,
+      "total_hits": 91,
+      "cet4_unique_words": 36,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 91,
+      "cet6_total_hits": 8,
+      "hit_line_count": 91,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "long",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "dirt",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "name",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "survive",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "damn",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "disappear",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "get",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "age",
+        "call",
+        "cause",
+        "chain",
+        "clean",
+        "damn",
+        "dirt",
+        "disappear",
+        "door",
+        "foreign",
+        "friend",
+        "funeral"
+      ],
+      "score": 36091
+    },
+    {
+      "rank": 48,
+      "song_id": "2658421375",
+      "song_name": "Obviously",
+      "artist": "J. Cole",
+      "unique_words": 36,
+      "total_hits": 75,
+      "cet4_unique_words": 36,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 75,
+      "cet6_total_hits": 4,
+      "hit_line_count": 32,
+      "hits_per_hit_line": 2.34,
+      "top_words": [
+        {
+          "word": "make",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "say",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "admit",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cause",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "middle",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "minute",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "give",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        },
+        {
+          "word": "heart",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": false,
+          "tags": [
+            "cet4"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "always",
+        "away",
+        "back",
+        "buy",
+        "call",
+        "cause",
+        "crawl",
+        "face",
+        "fame",
+        "finger",
+        "forget"
+      ],
+      "score": 36075
+    }
+  ],
+  "top": 50,
+  "source_index": "j_cole_cet6_index.json"
+}

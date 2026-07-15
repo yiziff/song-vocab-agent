@@ -1,0 +1,4538 @@
+{
+  "artist": "J. Cole",
+  "level": "cet6",
+  "level_label": "六级",
+  "built_at": "2026-07-15T09:28:04.373Z",
+  "source_index_built_at": "2026-07-15T09:27:26.390Z",
+  "song_count": 50,
+  "ranked_song_count": 48,
+  "artist_unique_words": 338,
+  "artist_cet4_unique_words": 212,
+  "artist_cet6_unique_words": 338,
+  "artist_total_hits": 651,
+  "hardest_song": {
+    "song_id": "3347160363",
+    "song_name": "39 Intro",
+    "unique_words": 23,
+    "total_hits": 26
+  },
+  "songs": [
+    {
+      "rank": 1,
+      "song_id": "3347160363",
+      "song_name": "39 Intro",
+      "artist": "J. Cole",
+      "unique_words": 23,
+      "total_hits": 26,
+      "cet4_unique_words": 16,
+      "cet6_unique_words": 23,
+      "cet4_total_hits": 16,
+      "cet6_total_hits": 26,
+      "hit_line_count": 20,
+      "hits_per_hit_line": 1.3,
+      "top_words": [
+        {
+          "word": "rap",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "flip",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "attract",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "booth",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "challenge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "compare",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "compete",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cute",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "attract",
+        "booth",
+        "challenge",
+        "compare",
+        "compete",
+        "cute",
+        "flat",
+        "flip",
+        "grip",
+        "idiot",
+        "infinite",
+        "inspire"
+      ],
+      "score": 23026
+    },
+    {
+      "rank": 2,
+      "song_id": "445666478",
+      "song_name": "Change",
+      "artist": "J. Cole",
+      "unique_words": 23,
+      "total_hits": 26,
+      "cet4_unique_words": 15,
+      "cet6_unique_words": 23,
+      "cet4_total_hits": 16,
+      "cet6_total_hits": 26,
+      "hit_line_count": 26,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "intuition",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "glide",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "alleviate",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "apply",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "barely",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "beyond",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "community",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "coward",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "alleviate",
+        "apply",
+        "barely",
+        "beyond",
+        "community",
+        "coward",
+        "destined",
+        "deviate",
+        "drag",
+        "evolution",
+        "execution",
+        "faith"
+      ],
+      "score": 23026
+    },
+    {
+      "rank": 3,
+      "song_id": "445666482",
+      "song_name": "4 Your Eyez Only",
+      "artist": "J. Cole",
+      "unique_words": 23,
+      "total_hits": 23,
+      "cet4_unique_words": 17,
+      "cet6_unique_words": 23,
+      "cet4_total_hits": 17,
+      "cet6_total_hits": 23,
+      "hit_line_count": 22,
+      "hits_per_hit_line": 1.05,
+      "top_words": [
+        {
+          "word": "album",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "barely",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bounce",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "criminal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "deadly",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dedicate",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "definition",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "barely",
+        "bounce",
+        "crime",
+        "criminal",
+        "deadly",
+        "dedicate",
+        "definition",
+        "despite",
+        "employment",
+        "flip",
+        "glance"
+      ],
+      "score": 23023
+    },
+    {
+      "rank": 4,
+      "song_id": "2144961596",
+      "song_name": "Red Leather",
+      "artist": "Future, Metro Boomin, J. Cole",
+      "unique_words": 22,
+      "total_hits": 29,
+      "cet4_unique_words": 13,
+      "cet6_unique_words": 22,
+      "cet4_total_hits": 19,
+      "cet6_total_hits": 29,
+      "hit_line_count": 25,
+      "hits_per_hit_line": 1.16,
+      "top_words": [
+        {
+          "word": "leather",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "grave",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rebel",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sip",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "acid",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "addict",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "arrogant",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "authority",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "acid",
+        "addict",
+        "arrogant",
+        "authority",
+        "commitment",
+        "conscious",
+        "deserve",
+        "dub",
+        "ego",
+        "grave",
+        "impatient",
+        "leather"
+      ],
+      "score": 22029
+    },
+    {
+      "rank": 5,
+      "song_id": "1388263778",
+      "song_name": "Family and Loyalty",
+      "artist": "Gang Starr, J. Cole",
+      "unique_words": 19,
+      "total_hits": 52,
+      "cet4_unique_words": 9,
+      "cet6_unique_words": 19,
+      "cet4_total_hits": 25,
+      "cet6_total_hits": 52,
+      "hit_line_count": 52,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "loyalty",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 9,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "infinite",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "melody",
+          "hits": 8,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "slick",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "precious",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "band",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bribe",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "band",
+        "bribe",
+        "crash",
+        "depression",
+        "destined",
+        "flutter",
+        "hop",
+        "infinite",
+        "invest",
+        "loyalty",
+        "melody",
+        "preach"
+      ],
+      "score": 19052
+    },
+    {
+      "rank": 6,
+      "song_id": "1371516088",
+      "song_name": "Down Bad",
+      "artist": "Dreamville, JID, Bas, J. Cole, EarthGang, Young Nudy",
+      "unique_words": 19,
+      "total_hits": 21,
+      "cet4_unique_words": 11,
+      "cet6_unique_words": 19,
+      "cet4_total_hits": 12,
+      "cet6_total_hits": 21,
+      "hit_line_count": 21,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "force",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "litter",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "background",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bang",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "booth",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "brand",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "challenge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "background",
+        "bang",
+        "booth",
+        "brand",
+        "bust",
+        "challenge",
+        "comparison",
+        "crew",
+        "force",
+        "fort",
+        "gown",
+        "litter"
+      ],
+      "score": 19021
+    },
+    {
+      "rank": 7,
+      "song_id": "1323291774",
+      "song_name": "Off Deez",
+      "artist": "JID, J. Cole",
+      "unique_words": 18,
+      "total_hits": 40,
+      "cet4_unique_words": 8,
+      "cet6_unique_words": 18,
+      "cet4_total_hits": 12,
+      "cet6_total_hits": 40,
+      "hit_line_count": 40,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "edible",
+          "hits": 11,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "clip",
+          "hits": 5,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "grip",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pistol",
+          "hits": 5,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "aisle",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "barely",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "complain",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cradle",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "aisle",
+        "barely",
+        "clip",
+        "complain",
+        "cradle",
+        "edible",
+        "feast",
+        "fling",
+        "float",
+        "grave",
+        "grip",
+        "lane"
+      ],
+      "score": 18040
+    },
+    {
+      "rank": 8,
+      "song_id": "2142611891",
+      "song_name": "Trae The Truth in Ibiza",
+      "artist": "J. Cole",
+      "unique_words": 17,
+      "total_hits": 25,
+      "cet4_unique_words": 10,
+      "cet6_unique_words": 17,
+      "cet4_total_hits": 14,
+      "cet6_total_hits": 25,
+      "hit_line_count": 20,
+      "hits_per_hit_line": 1.25,
+      "top_words": [
+        {
+          "word": "clip",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "grip",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "legend",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "myth",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "plead",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "slip",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stroll",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "visa",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "attempt",
+        "belly",
+        "clip",
+        "commercial",
+        "force",
+        "grip",
+        "heel",
+        "incredible",
+        "infinite",
+        "kit",
+        "legend",
+        "myth"
+      ],
+      "score": 17025
+    },
+    {
+      "rank": 9,
+      "song_id": "1341722986",
+      "song_name": "MIDDLE CHILD",
+      "artist": "J. Cole",
+      "unique_words": 15,
+      "total_hits": 19,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 15,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 19,
+      "hit_line_count": 19,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "pistol",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "fake",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "squad",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "blunt",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "cycle",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "destined",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "lane",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "liable",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "blunt",
+        "cycle",
+        "destined",
+        "fake",
+        "lane",
+        "liable",
+        "mission",
+        "pistol",
+        "prevail",
+        "rap",
+        "savage",
+        "scrape"
+      ],
+      "score": 15019
+    },
+    {
+      "rank": 10,
+      "song_id": "1844668201",
+      "song_name": "l e t . g o . m y . h a n d",
+      "artist": "J. Cole, Bas, 6LACK",
+      "unique_words": 15,
+      "total_hits": 15,
+      "cet4_unique_words": 12,
+      "cet6_unique_words": 15,
+      "cet4_total_hits": 12,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "album",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bound",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "constant",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "critic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "discipline",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "expose",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fraud",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "instrumental",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "bound",
+        "constant",
+        "critic",
+        "discipline",
+        "expose",
+        "fraud",
+        "instrumental",
+        "prescription",
+        "recognize",
+        "reputation",
+        "scrap"
+      ],
+      "score": 15015
+    },
+    {
+      "rank": 11,
+      "song_id": "1456162296",
+      "song_name": "Snow On Tha Bluff",
+      "artist": "J. Cole",
+      "unique_words": 15,
+      "total_hits": 15,
+      "cet4_unique_words": 14,
+      "cet6_unique_words": 15,
+      "cet4_total_hits": 14,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "conscious",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "criticism",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "effective",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "endurance",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "environment",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "inevitable",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "intelligent",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mental",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "conscious",
+        "criticism",
+        "effective",
+        "endurance",
+        "environment",
+        "inevitable",
+        "intelligent",
+        "mental",
+        "perspective",
+        "provided",
+        "pursuit",
+        "survive"
+      ],
+      "score": 15015
+    },
+    {
+      "rank": 12,
+      "song_id": "1367289588",
+      "song_name": "The London (feat. J. Cole & Travis Scott)",
+      "artist": "Young Thug, J. Cole, Travis Scott",
+      "unique_words": 14,
+      "total_hits": 17,
+      "cet4_unique_words": 8,
+      "cet6_unique_words": 14,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 17,
+      "hit_line_count": 17,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "charge",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "slide",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "ward",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "compound",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "contact",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cord",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crash",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "demand",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "charge",
+        "compound",
+        "contact",
+        "cord",
+        "crash",
+        "demand",
+        "dodge",
+        "electric",
+        "slick",
+        "slide",
+        "verge",
+        "verse"
+      ],
+      "score": 14017
+    },
+    {
+      "rank": 13,
+      "song_id": "26524134",
+      "song_name": "Rich Niggaz",
+      "artist": "J. Cole",
+      "unique_words": 14,
+      "total_hits": 15,
+      "cet4_unique_words": 11,
+      "cet6_unique_words": 14,
+      "cet4_total_hits": 11,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "insane",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "boring",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "claim",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "complain",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cope",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "coward",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crash",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "extreme",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "boring",
+        "claim",
+        "complain",
+        "cope",
+        "coward",
+        "crash",
+        "extreme",
+        "float",
+        "insane",
+        "lame",
+        "lane",
+        "maintain"
+      ],
+      "score": 14015
+    },
+    {
+      "rank": 14,
+      "song_id": "3347161218",
+      "song_name": "SAFETY",
+      "artist": "J. Cole",
+      "unique_words": 14,
+      "total_hits": 14,
+      "cet4_unique_words": 8,
+      "cet6_unique_words": 14,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 14,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1.27,
+      "top_words": [
+        {
+          "word": "aware",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "awkward",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bang",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "closet",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "deficiency",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "drag",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "immune",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "intervene",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "aware",
+        "awkward",
+        "bang",
+        "closet",
+        "deficiency",
+        "drag",
+        "immune",
+        "intervene",
+        "lace",
+        "mob",
+        "respond",
+        "syndrome"
+      ],
+      "score": 14014
+    },
+    {
+      "rank": 15,
+      "song_id": "3348816021",
+      "song_name": "Run A Train",
+      "artist": "J. Cole, Future",
+      "unique_words": 12,
+      "total_hits": 17,
+      "cet4_unique_words": 11,
+      "cet6_unique_words": 12,
+      "cet4_total_hits": 15,
+      "cet6_total_hits": 17,
+      "hit_line_count": 16,
+      "hits_per_hit_line": 1.06,
+      "top_words": [
+        {
+          "word": "passion",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "penalty",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "respond",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rip",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "chase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "divine",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "legal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "chase",
+        "crime",
+        "divine",
+        "legal",
+        "passion",
+        "penalty",
+        "pose",
+        "poverty",
+        "remain",
+        "respond",
+        "rip",
+        "survival"
+      ],
+      "score": 12017
+    },
+    {
+      "rank": 16,
+      "song_id": "2677650585",
+      "song_name": "cLOUDs",
+      "artist": "J. Cole",
+      "unique_words": 12,
+      "total_hits": 13,
+      "cet4_unique_words": 8,
+      "cet6_unique_words": 12,
+      "cet4_total_hits": 9,
+      "cet6_total_hits": 13,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1.18,
+      "top_words": [
+        {
+          "word": "crowd",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bull",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "caution",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "claim",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dodge",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "poetry",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "poisonous",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "prime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bull",
+        "caution",
+        "claim",
+        "crowd",
+        "dodge",
+        "poetry",
+        "poisonous",
+        "prime",
+        "recede",
+        "straightforward",
+        "stream",
+        "subscribe"
+      ],
+      "score": 12013
+    },
+    {
+      "rank": 17,
+      "song_id": "3347160366",
+      "song_name": "I Love Her Again",
+      "artist": "J. Cole",
+      "unique_words": 11,
+      "total_hits": 17,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 17,
+      "hit_line_count": 17,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "chorus",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "boom",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "chase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "luggage",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "naive",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "possess",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "boom",
+        "chase",
+        "chorus",
+        "luggage",
+        "naive",
+        "possess",
+        "rap",
+        "tunnel",
+        "verse",
+        "version",
+        "wealth"
+      ],
+      "score": 11017
+    },
+    {
+      "rank": 18,
+      "song_id": "3347161217",
+      "song_name": "Two Six",
+      "artist": "J. Cole",
+      "unique_words": 11,
+      "total_hits": 12,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 12,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1.09,
+      "top_words": [
+        {
+          "word": "rap",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "adjacent",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "cast",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "closet",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "cocaine",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crash",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "evidence",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "hum",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "adjacent",
+        "cast",
+        "closet",
+        "cocaine",
+        "crash",
+        "evidence",
+        "hum",
+        "humble",
+        "lame",
+        "lane",
+        "rap"
+      ],
+      "score": 11012
+    },
+    {
+      "rank": 19,
+      "song_id": "2044734734",
+      "song_name": "All My Life",
+      "artist": "Lil Durk, J. Cole",
+      "unique_words": 11,
+      "total_hits": 11,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 11,
+      "hit_line_count": 10,
+      "hits_per_hit_line": 1.1,
+      "top_words": [
+        {
+          "word": "clutch",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "humble",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "menace",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "phase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "positive",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "prime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "principle",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "clutch",
+        "humble",
+        "menace",
+        "phase",
+        "positive",
+        "prime",
+        "principle",
+        "rap",
+        "stimulus",
+        "tempo",
+        "vent"
+      ],
+      "score": 11011
+    },
+    {
+      "rank": 20,
+      "song_id": "2048760677",
+      "song_name": "All My Life",
+      "artist": "Lil Durk, J. Cole",
+      "unique_words": 11,
+      "total_hits": 11,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 11,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 11,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "clutch",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "humble",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "menace",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "phase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "positive",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "prime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "principle",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "clutch",
+        "humble",
+        "menace",
+        "phase",
+        "positive",
+        "prime",
+        "principle",
+        "rap",
+        "stimulus",
+        "tempo",
+        "vent"
+      ],
+      "score": 11011
+    },
+    {
+      "rank": 21,
+      "song_id": "3347161227",
+      "song_name": "Only You",
+      "artist": "J. Cole",
+      "unique_words": 10,
+      "total_hits": 14,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 14,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1.17,
+      "top_words": [
+        {
+          "word": "owe",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "velvet",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "armor",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "assistance",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "depression",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "existence",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "loyalty",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "armor",
+        "assistance",
+        "crowd",
+        "depression",
+        "existence",
+        "loyalty",
+        "owe",
+        "royalty",
+        "spite",
+        "velvet"
+      ],
+      "score": 10014
+    },
+    {
+      "rank": 22,
+      "song_id": "2088229116",
+      "song_name": "First Person Shooter",
+      "artist": "Drake, J. Cole",
+      "unique_words": 10,
+      "total_hits": 11,
+      "cet4_unique_words": 9,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 11,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1.22,
+      "top_words": [
+        {
+          "word": "stream",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "album",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "apply",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "argue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "beam",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "boycott",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pressure",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "apply",
+        "argue",
+        "beam",
+        "boycott",
+        "crime",
+        "pressure",
+        "status",
+        "stream",
+        "trigger"
+      ],
+      "score": 10011
+    },
+    {
+      "rank": 23,
+      "song_id": "3348816024",
+      "song_name": "Bunce Road Blues",
+      "artist": "J. Cole, Future, Tems",
+      "unique_words": 10,
+      "total_hits": 10,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 10,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1.25,
+      "top_words": [
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "considerable",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "deserve",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "ignore",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "neglect",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pole",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "profess",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "tuck",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bust",
+        "considerable",
+        "deserve",
+        "ignore",
+        "neglect",
+        "pole",
+        "profess",
+        "tuck",
+        "void",
+        "weapon"
+      ],
+      "score": 10010
+    },
+    {
+      "rank": 24,
+      "song_id": "1844668198",
+      "song_name": "a m a r i",
+      "artist": "J. Cole",
+      "unique_words": 9,
+      "total_hits": 13,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 13,
+      "hit_line_count": 13,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "court",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rot",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "triple",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "booth",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mob",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "multiple",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "solo",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "booth",
+        "court",
+        "faith",
+        "mob",
+        "multiple",
+        "rot",
+        "solo",
+        "throne",
+        "triple"
+      ],
+      "score": 9013
+    },
+    {
+      "rank": 25,
+      "song_id": "29775437",
+      "song_name": "Apparently",
+      "artist": "J. Cole",
+      "unique_words": 9,
+      "total_hits": 13,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 13,
+      "hit_line_count": 13,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "faith",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "canvas",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "clue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dome",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "rape",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "toss",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "urge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "canvas",
+        "clue",
+        "dome",
+        "faith",
+        "rape",
+        "toss",
+        "urge",
+        "verse",
+        "virgin"
+      ],
+      "score": 9013
+    },
+    {
+      "rank": 26,
+      "song_id": "1334811366",
+      "song_name": "a lot",
+      "artist": "21 Savage, J. Cole",
+      "unique_words": 9,
+      "total_hits": 12,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 12,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "rot",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "album",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "aware",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mission",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "revenge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "routine",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "savage",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "aware",
+        "mission",
+        "rap",
+        "revenge",
+        "rot",
+        "routine",
+        "savage",
+        "statement"
+      ],
+      "score": 9012
+    },
+    {
+      "rank": 27,
+      "song_id": "1844671637",
+      "song_name": "p r i d e . i s . t h e . d e v i l",
+      "artist": "J. Cole, Lil Baby",
+      "unique_words": 9,
+      "total_hits": 12,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 12,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "void",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "bounce",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "closet",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "court",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "leather",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "negative",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "poverty",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "resort",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bounce",
+        "closet",
+        "court",
+        "leather",
+        "negative",
+        "poverty",
+        "resort",
+        "schedule",
+        "void"
+      ],
+      "score": 9012
+    },
+    {
+      "rank": 28,
+      "song_id": "26524129",
+      "song_name": "Power Trip",
+      "artist": "J. Cole, Miguel",
+      "unique_words": 9,
+      "total_hits": 12,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 12,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "constant",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "anonymous",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "coward",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crush",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mall",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sake",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "throne",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "anonymous",
+        "bust",
+        "constant",
+        "coward",
+        "crush",
+        "mall",
+        "sake",
+        "throne",
+        "vent"
+      ],
+      "score": 9012
+    },
+    {
+      "rank": 29,
+      "song_id": "445666479",
+      "song_name": "Neighbors",
+      "artist": "J. Cole",
+      "unique_words": 9,
+      "total_hits": 10,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 10,
+      "hit_line_count": 10,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "foster",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "assume",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "brew",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "candidate",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "elite",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "evidence",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "privacy",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "assume",
+        "brew",
+        "bust",
+        "candidate",
+        "elite",
+        "evidence",
+        "foster",
+        "privacy",
+        "territory"
+      ],
+      "score": 9010
+    },
+    {
+      "rank": 30,
+      "song_id": "29775431",
+      "song_name": "G.O.M.D",
+      "artist": "J. Cole",
+      "unique_words": 9,
+      "total_hits": 9,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 9,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "aerial",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "aware",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "contest",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "demand",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fake",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "litter",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sample",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "skip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "aerial",
+        "aware",
+        "contest",
+        "demand",
+        "fake",
+        "litter",
+        "sample",
+        "skip",
+        "stereotype"
+      ],
+      "score": 9009
+    },
+    {
+      "rank": 31,
+      "song_id": "1844671635",
+      "song_name": "m y . l i f e",
+      "artist": "J. Cole, 21 Savage, Morray",
+      "unique_words": 9,
+      "total_hits": 9,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 9,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 9,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "betray",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "orbit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "poverty",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "project",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "spiral",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "therefore",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "weapon",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "betray",
+        "orbit",
+        "poverty",
+        "project",
+        "spiral",
+        "staircase",
+        "therefore",
+        "weapon",
+        "witness"
+      ],
+      "score": 9009
+    },
+    {
+      "rank": 32,
+      "song_id": "2142611889",
+      "song_name": "Huntin’ Wabbitz",
+      "artist": "J. Cole",
+      "unique_words": 8,
+      "total_hits": 8,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "clip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "destination",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "hop",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "owe",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "revenge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "squad",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "stack",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "clip",
+        "destination",
+        "hop",
+        "owe",
+        "rap",
+        "revenge",
+        "squad",
+        "stack"
+      ],
+      "score": 8008
+    },
+    {
+      "rank": 33,
+      "song_id": "3347161221",
+      "song_name": "Legacy",
+      "artist": "J. Cole",
+      "unique_words": 8,
+      "total_hits": 8,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 8,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "aware",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "barely",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "commitment",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "evil",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "profound",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "property",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "racket",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "settle",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "aware",
+        "barely",
+        "commitment",
+        "evil",
+        "profound",
+        "property",
+        "racket",
+        "settle"
+      ],
+      "score": 8008
+    },
+    {
+      "rank": 34,
+      "song_id": "3347161224",
+      "song_name": "Bombs in the Ville/Hit the Gas",
+      "artist": "J. Cole",
+      "unique_words": 7,
+      "total_hits": 8,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "focus",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "background",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dispose",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "shark",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sniff",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sober",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "violent",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "background",
+        "dispose",
+        "focus",
+        "shark",
+        "sniff",
+        "sober",
+        "violent"
+      ],
+      "score": 7008
+    },
+    {
+      "rank": 35,
+      "song_id": "1844671640",
+      "song_name": "h u n g e r . o n . h i l l s i d e",
+      "artist": "J. Cole, Bas",
+      "unique_words": 7,
+      "total_hits": 7,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "cast",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "foul",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "lane",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sour",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stack",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "ultimate",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "wealth",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "cast",
+        "foul",
+        "lane",
+        "sour",
+        "stack",
+        "ultimate",
+        "wealth"
+      ],
+      "score": 7007
+    },
+    {
+      "rank": 36,
+      "song_id": "3347160364",
+      "song_name": "Old Dog",
+      "artist": "J. Cole",
+      "unique_words": 7,
+      "total_hits": 7,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "accustomed",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "drag",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "planet",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "random",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "stack",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stream",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "accustomed",
+        "bust",
+        "drag",
+        "planet",
+        "random",
+        "stack",
+        "stream"
+      ],
+      "score": 7007
+    },
+    {
+      "rank": 37,
+      "song_id": "2163506324",
+      "song_name": "Free Fall",
+      "artist": "Tems, J. Cole",
+      "unique_words": 6,
+      "total_hits": 6,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "batter",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "closet",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "collide",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "credit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "toxic",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "twist",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "batter",
+        "closet",
+        "collide",
+        "credit",
+        "toxic",
+        "twist"
+      ],
+      "score": 6006
+    },
+    {
+      "rank": 38,
+      "song_id": "1600540",
+      "song_name": "Higher",
+      "artist": "J. Cole",
+      "unique_words": 5,
+      "total_hits": 11,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 11,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "desire",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crush",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "gamble",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "genuine",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pose",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crush",
+        "desire",
+        "gamble",
+        "genuine",
+        "pose"
+      ],
+      "score": 5011
+    },
+    {
+      "rank": 39,
+      "song_id": "29775436",
+      "song_name": "Love Yourz",
+      "artist": "J. Cole",
+      "unique_words": 5,
+      "total_hits": 6,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fake",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "grip",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "linger",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "minimal",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "signal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fake",
+        "grip",
+        "linger",
+        "minimal",
+        "signal"
+      ],
+      "score": 5006
+    },
+    {
+      "rank": 40,
+      "song_id": "1309796582",
+      "song_name": "Pretty Little Fears",
+      "artist": "6LACK, J. Cole",
+      "unique_words": 5,
+      "total_hits": 5,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fantasy",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fragrance",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "release",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "shed",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "vulnerable",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fantasy",
+        "fragrance",
+        "release",
+        "shed",
+        "vulnerable"
+      ],
+      "score": 5005
+    },
+    {
+      "rank": 41,
+      "song_id": "26524139",
+      "song_name": "Crooked Smile",
+      "artist": "J. Cole, TLC",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "chase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pressure",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "victim",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "witness",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "chase",
+        "pressure",
+        "victim",
+        "witness"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 42,
+      "song_id": "29775428",
+      "song_name": "Wet Dreamz",
+      "artist": "J. Cole",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "mental",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stroke",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "virgin",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bust",
+        "mental",
+        "stroke",
+        "virgin"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 43,
+      "song_id": "26303850",
+      "song_name": "Kenny Lofton",
+      "artist": "J. Cole",
+      "unique_words": 3,
+      "total_hits": 8,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "verse",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "prime",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "appeal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "appeal",
+        "prime",
+        "verse"
+      ],
+      "score": 3008
+    },
+    {
+      "rank": 44,
+      "song_id": "2658421375",
+      "song_name": "Obviously",
+      "artist": "J. Cole",
+      "unique_words": 3,
+      "total_hits": 8,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "admit",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "chorus",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "chorus",
+        "verse"
+      ],
+      "score": 3008
+    },
+    {
+      "rank": 45,
+      "song_id": "29775430",
+      "song_name": "No Role Modelz",
+      "artist": "J. Cole",
+      "unique_words": 3,
+      "total_hits": 5,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "lame",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "melody",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "lame",
+        "melody",
+        "rap"
+      ],
+      "score": 3005
+    },
+    {
+      "rank": 46,
+      "song_id": "445666477",
+      "song_name": "She's Mine Pt. 1",
+      "artist": "J. Cole",
+      "unique_words": 3,
+      "total_hits": 3,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 3,
+      "hit_line_count": 3,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "expose",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "leather",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "patent",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "expose",
+        "leather",
+        "patent"
+      ],
+      "score": 3003
+    },
+    {
+      "rank": 47,
+      "song_id": "445666476",
+      "song_name": "Ville Mentality",
+      "artist": "J. Cole",
+      "unique_words": 2,
+      "total_hits": 8,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "survive",
+          "hits": 7,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "similar",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "similar",
+        "survive"
+      ],
+      "score": 2008
+    },
+    {
+      "rank": 48,
+      "song_id": "1600500",
+      "song_name": "Work Out",
+      "artist": "J. Cole",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "escort",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "skip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "escort",
+        "skip"
+      ],
+      "score": 2002
+    }
+  ],
+  "top": 50,
+  "source_index": "j_cole_cet6_index.json"
+}

@@ -1,0 +1,2337 @@
+{
+  "artist": "Taylor Swift",
+  "level": "cet6",
+  "level_label": "六级",
+  "built_at": "2026-07-15T09:28:04.248Z",
+  "source_index_built_at": "2026-07-15T09:27:04.956Z",
+  "song_count": 50,
+  "ranked_song_count": 39,
+  "artist_unique_words": 106,
+  "artist_cet4_unique_words": 74,
+  "artist_cet6_unique_words": 106,
+  "artist_total_hits": 286,
+  "hardest_song": {
+    "song_id": "1891456146",
+    "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+    "unique_words": 10,
+    "total_hits": 14
+  },
+  "songs": [
+    {
+      "rank": 1,
+      "song_id": "1891456146",
+      "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "unique_words": 10,
+      "total_hits": 14,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 14,
+      "hit_line_count": 14,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "sacred",
+          "hits": 5,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "album",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "barren",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "bruise",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "counter",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "disposition",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "gaze",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "grave",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "album",
+        "barren",
+        "bruise",
+        "counter",
+        "disposition",
+        "gaze",
+        "grave",
+        "masterpiece",
+        "oath",
+        "sacred"
+      ],
+      "score": 10014
+    },
+    {
+      "rank": 2,
+      "song_id": "516823324",
+      "song_name": "End Game",
+      "artist": "Taylor Swift, Ed Sheeran, Future",
+      "unique_words": 7,
+      "total_hits": 25,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 24,
+      "cet6_total_hits": 25,
+      "hit_line_count": 25,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "reputation",
+          "hits": 11,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "string",
+          "hits": 9,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "argue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bang",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "deny",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "ignore",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "precede",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "argue",
+        "bang",
+        "deny",
+        "ignore",
+        "precede",
+        "reputation",
+        "string"
+      ],
+      "score": 7025
+    },
+    {
+      "rank": 3,
+      "song_id": "514235010",
+      "song_name": "Gorgeous",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 21,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 21,
+      "hit_line_count": 21,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "gorgeous",
+          "hits": 12,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "furious",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "compliment",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "consequence",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "magnetic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stumble",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "compliment",
+        "consequence",
+        "furious",
+        "gorgeous",
+        "magnetic",
+        "stumble"
+      ],
+      "score": 6021
+    },
+    {
+      "rank": 4,
+      "song_id": "29572501",
+      "song_name": "Blank Space",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 20,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 20,
+      "hit_line_count": 20,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "insane",
+          "hits": 6,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "blank",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "nasty",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "reckless",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "scar",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "incredible",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "blank",
+        "incredible",
+        "insane",
+        "nasty",
+        "reckless",
+        "scar"
+      ],
+      "score": 6020
+    },
+    {
+      "rank": 5,
+      "song_id": "29713617",
+      "song_name": "Blank Space",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 20,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 20,
+      "hit_line_count": 20,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "insane",
+          "hits": 6,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "blank",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "nasty",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "reckless",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "scar",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "incredible",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "blank",
+        "incredible",
+        "insane",
+        "nasty",
+        "reckless",
+        "scar"
+      ],
+      "score": 6020
+    },
+    {
+      "rank": 6,
+      "song_id": "1803546869",
+      "song_name": "willow",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 16,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 12,
+      "cet6_total_hits": 16,
+      "hit_line_count": 16,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "wreck",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stray",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "champion",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "current",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "signal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "trend",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "champion",
+        "current",
+        "signal",
+        "stray",
+        "trend",
+        "wreck"
+      ],
+      "score": 6016
+    },
+    {
+      "rank": 7,
+      "song_id": "2744403174",
+      "song_name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 11,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 11,
+      "cet6_total_hits": 11,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "grave",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pledge",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "possess",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fantasy",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "legend",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "loyalty",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fantasy",
+        "grave",
+        "legend",
+        "loyalty",
+        "pledge",
+        "possess"
+      ],
+      "score": 6011
+    },
+    {
+      "rank": 8,
+      "song_id": "2147408170",
+      "song_name": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 10,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 6,
+      "cet6_total_hits": 10,
+      "hit_line_count": 10,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "slip",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "thigh",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "fatal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "grave",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "paradox",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "uphold",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fatal",
+        "grave",
+        "paradox",
+        "slip",
+        "thigh",
+        "uphold"
+      ],
+      "score": 6010
+    },
+    {
+      "rank": 9,
+      "song_id": "1382778514",
+      "song_name": "Lover",
+      "artist": "Taylor Swift",
+      "unique_words": 6,
+      "total_hits": 6,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crash",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "force",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "magnetic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "scar",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "string",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "suspicious",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crash",
+        "force",
+        "magnetic",
+        "scar",
+        "string",
+        "suspicious"
+      ],
+      "score": 6006
+    },
+    {
+      "rank": 10,
+      "song_id": "2744403471",
+      "song_name": "The Life of a Showgirl",
+      "artist": "Taylor Swift, Sabrina Carpenter",
+      "unique_words": 6,
+      "total_hits": 6,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "band",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bruise",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cast",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "lace",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "magnificent",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "menace",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "band",
+        "bruise",
+        "cast",
+        "lace",
+        "magnificent",
+        "menace"
+      ],
+      "score": 6006
+    },
+    {
+      "rank": 11,
+      "song_id": "1803546393",
+      "song_name": "champagne problems",
+      "artist": "Taylor Swift",
+      "unique_words": 5,
+      "total_hits": 12,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 12,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "champagne",
+          "hits": 7,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "wallet",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "beyond",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "flush",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "beyond",
+        "champagne",
+        "crowd",
+        "flush",
+        "wallet"
+      ],
+      "score": 5012
+    },
+    {
+      "rank": 12,
+      "song_id": "516776413",
+      "song_name": "Call It What You Want",
+      "artist": "Taylor Swift",
+      "unique_words": 5,
+      "total_hits": 9,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 9,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "brand",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "stream",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "initial",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "recall",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "brand",
+        "initial",
+        "recall",
+        "stream",
+        "verse"
+      ],
+      "score": 5009
+    },
+    {
+      "rank": 13,
+      "song_id": "1465111917",
+      "song_name": "august",
+      "artist": "Taylor Swift",
+      "unique_words": 5,
+      "total_hits": 7,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "electric",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mall",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "cancel",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "committee",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "hawk",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "cancel",
+        "committee",
+        "electric",
+        "hawk",
+        "mall"
+      ],
+      "score": 5007
+    },
+    {
+      "rank": 14,
+      "song_id": "1382778878",
+      "song_name": "Cornelia Street",
+      "artist": "Taylor Swift",
+      "unique_words": 5,
+      "total_hits": 5,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "apartment",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "memorize",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "religion",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sacred",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "tunnel",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "apartment",
+        "memorize",
+        "religion",
+        "sacred",
+        "tunnel"
+      ],
+      "score": 5005
+    },
+    {
+      "rank": 15,
+      "song_id": "29572502",
+      "song_name": "Style",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 9,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 9,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "classic",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dean",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "paradise",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "classic",
+        "dean",
+        "faith",
+        "paradise"
+      ],
+      "score": 4009
+    },
+    {
+      "rank": 16,
+      "song_id": "1465114465",
+      "song_name": "exile",
+      "artist": "Taylor Swift, Bon Iver",
+      "unique_words": 4,
+      "total_hits": 6,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "exile",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "committee",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "courtesy",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "electric",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "committee",
+        "courtesy",
+        "electric",
+        "exile"
+      ],
+      "score": 4006
+    },
+    {
+      "rank": 17,
+      "song_id": "1990192694",
+      "song_name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crisis",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "depression",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "disguise",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "monster",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crisis",
+        "depression",
+        "disguise",
+        "monster"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 18,
+      "song_id": "19292984",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sneak",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crowd",
+        "faith",
+        "sneak",
+        "staircase"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 19,
+      "song_id": "1969538016",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sneak",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crowd",
+        "faith",
+        "sneak",
+        "staircase"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 20,
+      "song_id": "26896129",
+      "song_name": "Love Story",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sneak",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crowd",
+        "faith",
+        "sneak",
+        "staircase"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 21,
+      "song_id": "1819857342",
+      "song_name": "Love Story (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sneak",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crowd",
+        "faith",
+        "sneak",
+        "staircase"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 22,
+      "song_id": "1403250178",
+      "song_name": "Lover (Remix)",
+      "artist": "Taylor Swift, Shawn Mendes",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "force",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "magnetic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "scar",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "string",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "force",
+        "magnetic",
+        "scar",
+        "string"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 23,
+      "song_id": "19292838",
+      "song_name": "Sparks Fly",
+      "artist": "Taylor Swift",
+      "unique_words": 3,
+      "total_hits": 5,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "haunt",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "reckless",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "staircase",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "haunt",
+        "reckless",
+        "staircase"
+      ],
+      "score": 3005
+    },
+    {
+      "rank": 24,
+      "song_id": "1382576173",
+      "song_name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "unique_words": 3,
+      "total_hits": 3,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 3,
+      "hit_line_count": 3,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bleed",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "glow",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "screw",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bleed",
+        "glow",
+        "screw"
+      ],
+      "score": 3003
+    },
+    {
+      "rank": 25,
+      "song_id": "2091923026",
+      "song_name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "unique_words": 3,
+      "total_hits": 3,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 3,
+      "hit_line_count": 3,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bleed",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "glow",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "screw",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bleed",
+        "glow",
+        "screw"
+      ],
+      "score": 3003
+    },
+    {
+      "rank": 26,
+      "song_id": "1382781100",
+      "song_name": "The Man",
+      "artist": "Taylor Swift",
+      "unique_words": 3,
+      "total_hits": 3,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 3,
+      "hit_line_count": 3,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "commit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "complex",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "deserve",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "commit",
+        "complex",
+        "deserve"
+      ],
+      "score": 3003
+    },
+    {
+      "rank": 27,
+      "song_id": "516818336",
+      "song_name": "Delicate",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 16,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 15,
+      "cet6_total_hits": 16,
+      "hit_line_count": 16,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "delicate",
+          "hits": 15,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mansion",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "delicate",
+        "mansion"
+      ],
+      "score": 2016
+    },
+    {
+      "rank": 28,
+      "song_id": "1382781549",
+      "song_name": "ME!",
+      "artist": "Taylor Swift, Brendon Urie",
+      "unique_words": 2,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "band",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "lame",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "band",
+        "lame"
+      ],
+      "score": 2004
+    },
+    {
+      "rank": 29,
+      "song_id": "1382781566",
+      "song_name": "Daylight",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "haunt",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "settle",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "haunt",
+        "settle"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 30,
+      "song_id": "516818337",
+      "song_name": "Getaway Car",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "circus",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "motel",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "circus",
+        "motel"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 31,
+      "song_id": "501133611",
+      "song_name": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "crime",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "feast",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "crime",
+        "feast"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 32,
+      "song_id": "2744403189",
+      "song_name": "Opalite",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bump",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pose",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bump",
+        "pose"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 33,
+      "song_id": "29561031",
+      "song_name": "Welcome To New York",
+      "artist": "Taylor Swift",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "apartment",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "apartment",
+        "crowd"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 34,
+      "song_id": "28953033",
+      "song_name": "Shake It Off",
+      "artist": "Taylor Swift",
+      "unique_words": 1,
+      "total_hits": 15,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fake",
+          "hits": 15,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fake"
+      ],
+      "score": 1015
+    },
+    {
+      "rank": 35,
+      "song_id": "1919029404",
+      "song_name": "The Joker And The Queen (feat. Taylor Swift)",
+      "artist": "Ed Sheeran, Taylor Swift",
+      "unique_words": 1,
+      "total_hits": 2,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fold",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fold"
+      ],
+      "score": 1002
+    },
+    {
+      "rank": 36,
+      "song_id": "19292852",
+      "song_name": "Enchanted",
+      "artist": "Taylor Swift",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "counter",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "counter"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 37,
+      "song_id": "2147408164",
+      "song_name": "Fortnight",
+      "artist": "Taylor Swift, Post Malone",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "aesthetic",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "aesthetic"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 38,
+      "song_id": "29572513",
+      "song_name": "New Romantics",
+      "artist": "Taylor Swift",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "ruin",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "ruin"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 39,
+      "song_id": "1990191997",
+      "song_name": "You're On Your Own, Kid",
+      "artist": "Taylor Swift",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "gown",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "gown"
+      ],
+      "score": 1001
+    }
+  ],
+  "top": 50,
+  "source_index": "taylor_swift_cet6_index.json"
+}

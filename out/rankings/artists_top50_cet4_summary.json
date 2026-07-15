@@ -1,0 +1,123 @@
+{
+  "built_at": "2026-07-15T09:28:25.341Z",
+  "level": "cet4",
+  "level_label": "四级",
+  "artist_count": 3,
+  "artists": [
+    {
+      "rank": 1,
+      "artist": "J. Cole",
+      "level": "cet4",
+      "level_label": "四级",
+      "song_count": 50,
+      "ranked_song_count": 48,
+      "artist_unique_words": 1246,
+      "artist_cet4_unique_words": 1246,
+      "artist_cet6_unique_words": 212,
+      "artist_total_hits": 7717,
+      "hardest_song": {
+        "song_id": "445666482",
+        "song_name": "4 Your Eyez Only",
+        "unique_words": 173,
+        "total_hits": 292
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "4 Your Eyez Only",
+          "unique_words": 173,
+          "total_hits": 292
+        },
+        {
+          "rank": 2,
+          "song_name": "Red Leather",
+          "unique_words": 151,
+          "total_hits": 245
+        },
+        {
+          "rank": 3,
+          "song_name": "SAFETY",
+          "unique_words": 141,
+          "total_hits": 243
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "artist": "Kanye West",
+      "level": "cet4",
+      "level_label": "四级",
+      "song_count": 50,
+      "ranked_song_count": 50,
+      "artist_unique_words": 893,
+      "artist_cet4_unique_words": 893,
+      "artist_cet6_unique_words": 111,
+      "artist_total_hits": 5805,
+      "hardest_song": {
+        "song_id": "30148425",
+        "song_name": "See Me Now",
+        "unique_words": 132,
+        "total_hits": 267
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "See Me Now",
+          "unique_words": 132,
+          "total_hits": 267
+        },
+        {
+          "rank": 2,
+          "song_name": "530",
+          "unique_words": 112,
+          "total_hits": 195
+        },
+        {
+          "rank": 3,
+          "song_name": "Family Business",
+          "unique_words": 105,
+          "total_hits": 186
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "artist": "Taylor Swift",
+      "level": "cet4",
+      "level_label": "四级",
+      "song_count": 50,
+      "ranked_song_count": 50,
+      "artist_unique_words": 668,
+      "artist_cet4_unique_words": 668,
+      "artist_cet6_unique_words": 74,
+      "artist_total_hits": 4927,
+      "hardest_song": {
+        "song_id": "1891456146",
+        "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "unique_words": 121,
+        "total_hits": 222
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+          "unique_words": 121,
+          "total_hits": 222
+        },
+        {
+          "rank": 2,
+          "song_name": "End Game",
+          "unique_words": 71,
+          "total_hits": 185
+        },
+        {
+          "rank": 3,
+          "song_name": "Blank Space",
+          "unique_words": 71,
+          "total_hits": 142
+        }
+      ]
+    }
+  ],
+  "top": 50
+}

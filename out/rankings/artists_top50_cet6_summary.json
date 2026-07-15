@@ -1,0 +1,123 @@
+{
+  "built_at": "2026-07-15T09:28:25.910Z",
+  "level": "cet6",
+  "level_label": "六级",
+  "artist_count": 3,
+  "artists": [
+    {
+      "rank": 1,
+      "artist": "J. Cole",
+      "level": "cet6",
+      "level_label": "六级",
+      "song_count": 50,
+      "ranked_song_count": 48,
+      "artist_unique_words": 338,
+      "artist_cet4_unique_words": 212,
+      "artist_cet6_unique_words": 338,
+      "artist_total_hits": 651,
+      "hardest_song": {
+        "song_id": "3347160363",
+        "song_name": "39 Intro",
+        "unique_words": 23,
+        "total_hits": 26
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "39 Intro",
+          "unique_words": 23,
+          "total_hits": 26
+        },
+        {
+          "rank": 2,
+          "song_name": "Change",
+          "unique_words": 23,
+          "total_hits": 26
+        },
+        {
+          "rank": 3,
+          "song_name": "4 Your Eyez Only",
+          "unique_words": 23,
+          "total_hits": 23
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "artist": "Kanye West",
+      "level": "cet6",
+      "level_label": "六级",
+      "song_count": 50,
+      "ranked_song_count": 48,
+      "artist_unique_words": 175,
+      "artist_cet4_unique_words": 111,
+      "artist_cet6_unique_words": 175,
+      "artist_total_hits": 336,
+      "hardest_song": {
+        "song_id": "18969209",
+        "song_name": "Devil In A New Dress",
+        "unique_words": 18,
+        "total_hits": 21
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "Devil In A New Dress",
+          "unique_words": 18,
+          "total_hits": 21
+        },
+        {
+          "rank": 2,
+          "song_name": "See Me Now",
+          "unique_words": 15,
+          "total_hits": 19
+        },
+        {
+          "rank": 3,
+          "song_name": "Touch The Sky",
+          "unique_words": 14,
+          "total_hits": 21
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "artist": "Taylor Swift",
+      "level": "cet6",
+      "level_label": "六级",
+      "song_count": 50,
+      "ranked_song_count": 39,
+      "artist_unique_words": 106,
+      "artist_cet4_unique_words": 74,
+      "artist_cet6_unique_words": 106,
+      "artist_total_hits": 286,
+      "hardest_song": {
+        "song_id": "1891456146",
+        "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "unique_words": 10,
+        "total_hits": 14
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+          "unique_words": 10,
+          "total_hits": 14
+        },
+        {
+          "rank": 2,
+          "song_name": "End Game",
+          "unique_words": 7,
+          "total_hits": 25
+        },
+        {
+          "rank": 3,
+          "song_name": "Gorgeous",
+          "unique_words": 6,
+          "total_hits": 21
+        }
+      ]
+    }
+  ],
+  "top": 50
+}

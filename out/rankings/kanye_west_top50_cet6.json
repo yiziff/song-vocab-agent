@@ -1,0 +1,3045 @@
+{
+  "artist": "Kanye West",
+  "level": "cet6",
+  "level_label": "六级",
+  "built_at": "2026-07-15T09:28:04.187Z",
+  "source_index_built_at": "2026-07-15T09:28:00.885Z",
+  "song_count": 50,
+  "ranked_song_count": 48,
+  "artist_unique_words": 175,
+  "artist_cet4_unique_words": 111,
+  "artist_cet6_unique_words": 175,
+  "artist_total_hits": 336,
+  "hardest_song": {
+    "song_id": "18969209",
+    "song_name": "Devil In A New Dress",
+    "unique_words": 18,
+    "total_hits": 21
+  },
+  "songs": [
+    {
+      "rank": 1,
+      "song_id": "18969209",
+      "song_name": "Devil In A New Dress",
+      "artist": "Kanye West, Rick Ross",
+      "unique_words": 18,
+      "total_hits": 21,
+      "cet4_unique_words": 11,
+      "cet6_unique_words": 18,
+      "cet4_total_hits": 11,
+      "cet6_total_hits": 21,
+      "hit_line_count": 21,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "sensation",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "dean",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "acceptance",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "additional",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "argue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "casualty",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "character",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "excess",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "acceptance",
+        "additional",
+        "argue",
+        "casualty",
+        "character",
+        "dean",
+        "excess",
+        "fraud",
+        "humble",
+        "jerk",
+        "monster",
+        "phenomenon"
+      ],
+      "score": 18021
+    },
+    {
+      "rank": 2,
+      "song_id": "30148425",
+      "song_name": "See Me Now",
+      "artist": "Kanye West, Beyoncé, Big Sean",
+      "unique_words": 15,
+      "total_hits": 19,
+      "cet4_unique_words": 6,
+      "cet6_unique_words": 15,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 19,
+      "hit_line_count": 17,
+      "hits_per_hit_line": 1.12,
+      "top_words": [
+        {
+          "word": "jerk",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "nasty",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "admit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "analogy",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "champagne",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "chase",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "conception",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crowd",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "analogy",
+        "champagne",
+        "chase",
+        "conception",
+        "crowd",
+        "cute",
+        "detail",
+        "fossil",
+        "jerk",
+        "mall",
+        "nasty"
+      ],
+      "score": 15019
+    },
+    {
+      "rank": 3,
+      "song_id": "18969084",
+      "song_name": "Touch The Sky",
+      "artist": "Kanye West, Lupe Fiasco",
+      "unique_words": 14,
+      "total_hits": 21,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 14,
+      "cet4_total_hits": 7,
+      "cet6_total_hits": 21,
+      "hit_line_count": 21,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "testify",
+          "hits": 8,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "accident",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "apartment",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "buzz",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "charge",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "curb",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "haul",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "hop",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "accident",
+        "apartment",
+        "buzz",
+        "charge",
+        "curb",
+        "haul",
+        "hop",
+        "legend",
+        "represent",
+        "slick",
+        "testify",
+        "van"
+      ],
+      "score": 14021
+    },
+    {
+      "rank": 4,
+      "song_id": "2614020232",
+      "song_name": "530",
+      "artist": "¥$, Kanye West, Ty Dolla $ign",
+      "unique_words": 13,
+      "total_hits": 18,
+      "cet4_unique_words": 7,
+      "cet6_unique_words": 13,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 18,
+      "hit_line_count": 17,
+      "hits_per_hit_line": 1.06,
+      "top_words": [
+        {
+          "word": "barely",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fake",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "advocate",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "courtesy",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crash",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dizzy",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "hop",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "advocate",
+        "barely",
+        "courtesy",
+        "crash",
+        "dizzy",
+        "fake",
+        "hop",
+        "medium",
+        "slide",
+        "slip",
+        "sue",
+        "verse"
+      ],
+      "score": 13018
+    },
+    {
+      "rank": 5,
+      "song_id": "34324110",
+      "song_name": "Bittersweet Poetry",
+      "artist": "Kanye West, John Mayer",
+      "unique_words": 12,
+      "total_hits": 21,
+      "cet4_unique_words": 9,
+      "cet6_unique_words": 12,
+      "cet4_total_hits": 12,
+      "cet6_total_hits": 21,
+      "hit_line_count": 21,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "emergency",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "surgeon",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "virgin",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "admit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "attitude",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "claim",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "destiny",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "domestic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "attitude",
+        "claim",
+        "destiny",
+        "domestic",
+        "emergency",
+        "figure",
+        "focus",
+        "poetry",
+        "surgeon",
+        "surgery",
+        "virgin"
+      ],
+      "score": 12021
+    },
+    {
+      "rank": 6,
+      "song_id": "18969133",
+      "song_name": "All Falls Down",
+      "artist": "Kanye West, Syleena Johnson",
+      "unique_words": 10,
+      "total_hits": 12,
+      "cet4_unique_words": 8,
+      "cet6_unique_words": 10,
+      "cet4_total_hits": 10,
+      "cet6_total_hits": 12,
+      "hit_line_count": 12,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "conscious",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "admit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "concept",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "degrade",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "precious",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "pressure",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sample",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "specific",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "concept",
+        "conscious",
+        "degrade",
+        "precious",
+        "pressure",
+        "sample",
+        "specific",
+        "terrific",
+        "wealth"
+      ],
+      "score": 10012
+    },
+    {
+      "rank": 7,
+      "song_id": "18969141",
+      "song_name": "Slow Jamz",
+      "artist": "Kanye West, Twista, Jamie Foxx",
+      "unique_words": 7,
+      "total_hits": 14,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 11,
+      "cet6_total_hits": 14,
+      "hit_line_count": 14,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "definitely",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "bump",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "champagne",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "melody",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "rhythm",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "twist",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bump",
+        "champagne",
+        "definitely",
+        "melody",
+        "rhythm",
+        "sip",
+        "twist"
+      ],
+      "score": 7014
+    },
+    {
+      "rank": 8,
+      "song_id": "3395921362",
+      "song_name": "OK (feat. Don Toliver)",
+      "artist": "Kanye West, Ye, Don Toliver",
+      "unique_words": 7,
+      "total_hits": 10,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 10,
+      "hit_line_count": 10,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "chorus",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "drag",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "assistance",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cherish",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "engine",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "terrace",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "assistance",
+        "cherish",
+        "chorus",
+        "drag",
+        "engine",
+        "terrace",
+        "verse"
+      ],
+      "score": 7010
+    },
+    {
+      "rank": 9,
+      "song_id": "18969204",
+      "song_name": "POWER",
+      "artist": "Kanye West",
+      "unique_words": 7,
+      "total_hits": 8,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "dean",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "additional",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "cast",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "characteristic",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "embody",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "purity",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "theme",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "additional",
+        "cast",
+        "characteristic",
+        "dean",
+        "embody",
+        "purity",
+        "theme"
+      ],
+      "score": 7008
+    },
+    {
+      "rank": 10,
+      "song_id": "18969150",
+      "song_name": "Family Business",
+      "artist": "Kanye West",
+      "unique_words": 7,
+      "total_hits": 7,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "deny",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "electric",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "lane",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "lease",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "reunion",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sample",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "thanksgiving",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "deny",
+        "electric",
+        "lane",
+        "lease",
+        "reunion",
+        "sample",
+        "thanksgiving"
+      ],
+      "score": 7007
+    },
+    {
+      "rank": 11,
+      "song_id": "1399140742",
+      "song_name": "God Is",
+      "artist": "Kanye West",
+      "unique_words": 7,
+      "total_hits": 7,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 7,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "eternal",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "force",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "given",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mission",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "religion",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "revelation",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "vision",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "eternal",
+        "force",
+        "given",
+        "mission",
+        "religion",
+        "revelation",
+        "vision"
+      ],
+      "score": 7007
+    },
+    {
+      "rank": 12,
+      "song_id": "409736431",
+      "song_name": "Ultralight Beam",
+      "artist": "Kanye West, Chance the Rapper, Kirk Franklin, The-Dream, Kelly Price",
+      "unique_words": 6,
+      "total_hits": 15,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 13,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "beam",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "faith",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "depression",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "flip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "shield",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "snatch",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "beam",
+        "depression",
+        "faith",
+        "flip",
+        "shield",
+        "snatch"
+      ],
+      "score": 6015
+    },
+    {
+      "rank": 13,
+      "song_id": "18969076",
+      "song_name": "Everything I Am",
+      "artist": "Kanye West, DJ Premier",
+      "unique_words": 6,
+      "total_hits": 11,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 11,
+      "hit_line_count": 11,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "award",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "fake",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "premier",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "rap",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "slip",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "award",
+        "fake",
+        "premier",
+        "rap",
+        "slip",
+        "verse"
+      ],
+      "score": 6011
+    },
+    {
+      "rank": 14,
+      "song_id": "2717642406",
+      "song_name": "PREACHER MAN",
+      "artist": "Ye, Kanye West",
+      "unique_words": 6,
+      "total_hits": 9,
+      "cet4_unique_words": 5,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 9,
+      "hit_line_count": 9,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "beam",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "float",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "twist",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "illuminate",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "imitate",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "settlement",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "beam",
+        "float",
+        "illuminate",
+        "imitate",
+        "settlement",
+        "twist"
+      ],
+      "score": 6009
+    },
+    {
+      "rank": 15,
+      "song_id": "570350029",
+      "song_name": "Violent Crimes",
+      "artist": "Kanye West",
+      "unique_words": 6,
+      "total_hits": 8,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 6,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "monster",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "savage",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "dean",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "nurture",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "sample",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "violent",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "dean",
+        "monster",
+        "nurture",
+        "sample",
+        "savage",
+        "violent"
+      ],
+      "score": 6008
+    },
+    {
+      "rank": 16,
+      "song_id": "26524156",
+      "song_name": "Bound 2",
+      "artist": "Kanye West, Charlie Wilson",
+      "unique_words": 5,
+      "total_hits": 15,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 13,
+      "cet6_total_hits": 15,
+      "hit_line_count": 15,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bound",
+          "hits": 8,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "reputation",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "champagne",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "lame",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "thanksgiving",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bound",
+        "champagne",
+        "lame",
+        "reputation",
+        "thanksgiving"
+      ],
+      "score": 5015
+    },
+    {
+      "rank": 17,
+      "song_id": "1873876297",
+      "song_name": "Lord I Need You",
+      "artist": "Kanye West",
+      "unique_words": 5,
+      "total_hits": 6,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "luxury",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "barely",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "court",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fling",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "resort",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "barely",
+        "court",
+        "fling",
+        "luxury",
+        "resort"
+      ],
+      "score": 5006
+    },
+    {
+      "rank": 18,
+      "song_id": "2125538091",
+      "song_name": "CARNIVAL",
+      "artist": "¥$, Kanye West, Ty Dolla $ign",
+      "unique_words": 5,
+      "total_hits": 5,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bust",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "crisp",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "disease",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "fake",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "scrape",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bust",
+        "crisp",
+        "disease",
+        "fake",
+        "scrape"
+      ],
+      "score": 5005
+    },
+    {
+      "rank": 19,
+      "song_id": "2148728095",
+      "song_name": "EVERYBODY",
+      "artist": "¥$, Kanye West, Ty Dolla $ign",
+      "unique_words": 5,
+      "total_hits": 5,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 5,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1.25,
+      "top_words": [
+        {
+          "word": "blink",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "original",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "shrink",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "sue",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "suite",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "blink",
+        "original",
+        "shrink",
+        "sue",
+        "suite"
+      ],
+      "score": 5005
+    },
+    {
+      "rank": 20,
+      "song_id": "18969070",
+      "song_name": "I Wonder",
+      "artist": "Kanye West",
+      "unique_words": 5,
+      "total_hits": 5,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 5,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "hop",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "intuition",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "issue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "spouse",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "tissue",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "hop",
+        "intuition",
+        "issue",
+        "spouse",
+        "tissue"
+      ],
+      "score": 5005
+    },
+    {
+      "rank": 21,
+      "song_id": "18969210",
+      "song_name": "Runaway",
+      "artist": "Kanye West, Pusha T",
+      "unique_words": 4,
+      "total_hits": 7,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 7,
+      "hit_line_count": 7,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "jerk",
+          "hits": 3,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "dean",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "admit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "advantage",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "admit",
+        "advantage",
+        "dean",
+        "jerk"
+      ],
+      "score": 4007
+    },
+    {
+      "rank": 22,
+      "song_id": "3364284328",
+      "song_name": "FATHER (feat. Travis Scott)",
+      "artist": "Kanye West, Ye, Travis Scott",
+      "unique_words": 4,
+      "total_hits": 6,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "chorus",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "verse",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "security",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "vision",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "chorus",
+        "security",
+        "verse",
+        "vision"
+      ],
+      "score": 4006
+    },
+    {
+      "rank": 23,
+      "song_id": "18969075",
+      "song_name": "Flashing Lights",
+      "artist": "Kanye West, Dwele",
+      "unique_words": 4,
+      "total_hits": 6,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "recall",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "author",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "foul",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "visa",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "author",
+        "foul",
+        "recall",
+        "visa"
+      ],
+      "score": 4006
+    },
+    {
+      "rank": 24,
+      "song_id": "5249233",
+      "song_name": "FLASHING LIGHTS",
+      "artist": "Kanye West",
+      "unique_words": 4,
+      "total_hits": 6,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 6,
+      "hit_line_count": 6,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "recall",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "author",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "foul",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "visa",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "author",
+        "foul",
+        "recall",
+        "visa"
+      ],
+      "score": 4006
+    },
+    {
+      "rank": 25,
+      "song_id": "1880803043",
+      "song_name": "Hurricane",
+      "artist": "Kanye West, The Weeknd, Lil Baby",
+      "unique_words": 4,
+      "total_hits": 5,
+      "cet4_unique_words": 4,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "digest",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "alcohol",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "anonymous",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "float",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "alcohol",
+        "anonymous",
+        "digest",
+        "float"
+      ],
+      "score": 4005
+    },
+    {
+      "rank": 26,
+      "song_id": "3395923832",
+      "song_name": "I CAN’T WAIT (feat. Ms. Lauryn Hill)",
+      "artist": "Kanye West, Ye, Lauryn Hill",
+      "unique_words": 4,
+      "total_hits": 5,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "impatient",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "consecutive",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "executive",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "focus",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "consecutive",
+        "executive",
+        "focus",
+        "impatient"
+      ],
+      "score": 4005
+    },
+    {
+      "rank": 27,
+      "song_id": "570350027",
+      "song_name": "No Mistakes",
+      "artist": "Kanye West",
+      "unique_words": 4,
+      "total_hits": 5,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "slick",
+          "hits": 2,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "bump",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dean",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "pope",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bump",
+        "dean",
+        "pope",
+        "slick"
+      ],
+      "score": 4005
+    },
+    {
+      "rank": 28,
+      "song_id": "1873876300",
+      "song_name": "Come to Life",
+      "artist": "Kanye West",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "beam",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "define",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "deny",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "purify",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "beam",
+        "define",
+        "deny",
+        "purify"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 29,
+      "song_id": "2614013001",
+      "song_name": "FIELD TRIP",
+      "artist": "¥$, Kanye West, Ty Dolla $ign",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 3,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "criminal",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "dismiss",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mental",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "yacht",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "criminal",
+        "dismiss",
+        "mental",
+        "yacht"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 30,
+      "song_id": "2614013006",
+      "song_name": "SKY CITY",
+      "artist": "¥$, Kanye West, Ty Dolla $ign",
+      "unique_words": 4,
+      "total_hits": 4,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 4,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "attitude",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "hop",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "mansion",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "trial",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "attitude",
+        "hop",
+        "mansion",
+        "trial"
+      ],
+      "score": 4004
+    },
+    {
+      "rank": 31,
+      "song_id": "1951144886",
+      "song_name": "True Love",
+      "artist": "Kanye West, XXXTENTACION",
+      "unique_words": 3,
+      "total_hits": 8,
+      "cet4_unique_words": 3,
+      "cet6_unique_words": 3,
+      "cet4_total_hits": 8,
+      "cet6_total_hits": 8,
+      "hit_line_count": 8,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "complicated",
+          "hits": 6,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "scan",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "tunnel",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "complicated",
+        "scan",
+        "tunnel"
+      ],
+      "score": 3008
+    },
+    {
+      "rank": 32,
+      "song_id": "3395921363",
+      "song_name": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
+      "artist": "Kanye West, Ye, The WRLDFMS Tony Williams",
+      "unique_words": 2,
+      "total_hits": 5,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bound",
+          "hits": 3,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mission",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bound",
+        "mission"
+      ],
+      "score": 2005
+    },
+    {
+      "rank": 33,
+      "song_id": "18969206",
+      "song_name": "All Of The Lights",
+      "artist": "Kanye West, Rihanna, Kid Cudi, Fergie",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 2,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 2,
+      "top_words": [
+        {
+          "word": "credit",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "unemployment",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "credit",
+        "unemployment"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 34,
+      "song_id": "18969071",
+      "song_name": "Good Life",
+      "artist": "Kanye West, T-Pain",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "champagne",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        },
+        {
+          "word": "passion",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "champagne",
+        "passion"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 35,
+      "song_id": "3395921357",
+      "song_name": "KING",
+      "artist": "Kanye West, Ye",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "guarantee",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "mild",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "guarantee",
+        "mild"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 36,
+      "song_id": "1340015126",
+      "song_name": "Mixed Personalities (feat. Kanye West)",
+      "artist": "YNW Melly, Kanye West",
+      "unique_words": 2,
+      "total_hits": 2,
+      "cet4_unique_words": 2,
+      "cet6_unique_words": 2,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "boom",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        },
+        {
+          "word": "ignore",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "boom",
+        "ignore"
+      ],
+      "score": 2002
+    },
+    {
+      "rank": 37,
+      "song_id": "18969185",
+      "song_name": "Street Lights",
+      "artist": "Kanye West",
+      "unique_words": 1,
+      "total_hits": 5,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 5,
+      "cet6_total_hits": 5,
+      "hit_line_count": 5,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "destination",
+          "hits": 5,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "destination"
+      ],
+      "score": 1005
+    },
+    {
+      "rank": 38,
+      "song_id": "570350028",
+      "song_name": "Ghost Town",
+      "artist": "Kanye West, PARTYNEXTDOOR",
+      "unique_words": 1,
+      "total_hits": 4,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 4,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "bleed",
+          "hits": 4,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "bleed"
+      ],
+      "score": 1004
+    },
+    {
+      "rank": 39,
+      "song_id": "3364284335",
+      "song_name": "THIS ONE HERE",
+      "artist": "Kanye West, Ye",
+      "unique_words": 1,
+      "total_hits": 4,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "ego",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "ego"
+      ],
+      "score": 1004
+    },
+    {
+      "rank": 40,
+      "song_id": "3395923837",
+      "song_name": "THIS ONE HERE",
+      "artist": "Kanye West, Ye",
+      "unique_words": 1,
+      "total_hits": 4,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 4,
+      "hit_line_count": 4,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "ego",
+          "hits": 4,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "ego"
+      ],
+      "score": 1004
+    },
+    {
+      "rank": 41,
+      "song_id": "3391432536",
+      "song_name": "GEMINI SEASON",
+      "artist": "Kanye West, Ye",
+      "unique_words": 1,
+      "total_hits": 2,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 2,
+      "cet6_total_hits": 2,
+      "hit_line_count": 2,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "pose",
+          "hits": 2,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "pose"
+      ],
+      "score": 1002
+    },
+    {
+      "rank": 42,
+      "song_id": "3364284329",
+      "song_name": "ALL THE LOVE (feat. Andre Troutman)",
+      "artist": "Kanye West, Ye, Andre Troutman",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "deserve",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "deserve"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 43,
+      "song_id": "3395923826",
+      "song_name": "ALL THE LOVE (feat. Andre Troutman)",
+      "artist": "Kanye West, Ye, Andre Troutman",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "deserve",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "deserve"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 44,
+      "song_id": "3395921358",
+      "song_name": "FATHER (feat. Travis Scott)",
+      "artist": "Kanye West, Ye, Travis Scott",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "vision",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "vision"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 45,
+      "song_id": "1873876997",
+      "song_name": "Moon",
+      "artist": "Kanye West",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "sip",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "sip"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 46,
+      "song_id": "29850762",
+      "song_name": "Only One",
+      "artist": "Kanye West, Paul McCartney",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 1,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 1,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "shed",
+          "hits": 1,
+          "in_cet4": true,
+          "in_cet6": true,
+          "tags": [
+            "cet4",
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "shed"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 47,
+      "song_id": "18969069",
+      "song_name": "Stronger",
+      "artist": "Kanye West, Daft Punk",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "fake",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "fake"
+      ],
+      "score": 1001
+    },
+    {
+      "rank": 48,
+      "song_id": "3364286177",
+      "song_name": "WHITE LINES (feat. Andre Troutman)",
+      "artist": "Kanye West, Ye, Andre Troutman",
+      "unique_words": 1,
+      "total_hits": 1,
+      "cet4_unique_words": 0,
+      "cet6_unique_words": 1,
+      "cet4_total_hits": 0,
+      "cet6_total_hits": 1,
+      "hit_line_count": 1,
+      "hits_per_hit_line": 1,
+      "top_words": [
+        {
+          "word": "clone",
+          "hits": 1,
+          "in_cet4": false,
+          "in_cet6": true,
+          "tags": [
+            "cet6"
+          ]
+        }
+      ],
+      "example_words": [
+        "clone"
+      ],
+      "score": 1001
+    }
+  ],
+  "top": 50,
+  "source_index": "kanye_west_cet6_index.json"
+}

@@ -24,11 +24,19 @@ import {
   deckFromIndex,
   availableLevels,
 } from "./lib/vocabLevel.js";
+import {
+  DEFAULT_ARTISTS,
+  rankSongsByVocab,
+  compareArtistRankings,
+  writeRanking,
+  writeSummary,
+} from "./lib/rank.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = __dirname;
 const DATA = path.join(ROOT, "data");
 const OUT = path.join(ROOT, "out");
+const RANKINGS_DIR = path.join(OUT, "rankings");
 const CET4_PATH = path.join(DATA, "cet4_words.txt");
 const CET6_PATH = path.join(DATA, "cet6_words.txt");
 const KNOWN_PATH = path.join(OUT, "known_words.json");
@@ -288,11 +296,13 @@ async function cmdServe(args) {
       level,
       port: Number(args.port || 8787),
       startIndex: 0,
+      rankingsDir: RANKINGS_DIR,
     });
 
   console.log(`Learn server: ${url}`);
   console.log(`Level: ${lvLabel} · deck ${deckCount} / index ${wordCount}（页内可切换四级/六级/全部）`);
   console.log(`Mode A /api/search · Mode B /api/chat (find_word_in_songs tool)`);
+  console.log(`Rankings: GET /api/rankings · /api/ranking · /api/ranking/summary`);
   console.log(`LLM: ${llmConfigured ? `ok (${cfg.model})` : "NOT configured — Mode B needs .env"}`);
   console.log("Press Ctrl+C to stop.");
 
@@ -306,6 +316,117 @@ async function cmdServe(args) {
   }
 }
 
+function printRankingPreview(ranking, limit = 20) {
+  console.log(
+    `\n${ranking.artist} · ${ranking.level_label} · ` +
+      `歌手唯一词 ${ranking.artist_unique_words} · 总命中 ${ranking.artist_total_hits} · ` +
+      `有词歌曲 ${ranking.ranked_song_count}/${ranking.song_count}`
+  );
+  if (ranking.hardest_song) {
+    console.log(
+      `最难歌: ${ranking.hardest_song.song_name} ` +
+        `(${ranking.hardest_song.unique_words} unique / ${ranking.hardest_song.total_hits} hits)`
+    );
+  }
+  const rows = (ranking.songs || []).slice(0, limit);
+  for (const s of rows) {
+    const sample = (s.example_words || []).slice(0, 5).join(", ");
+    console.log(
+      `  ${String(s.rank).padStart(2)}. ${String(s.unique_words).padStart(3)}u ` +
+        `${String(s.total_hits).padStart(4)}h  ${s.song_name}` +
+        (sample ? `  [${sample}]` : "")
+    );
+  }
+  if ((ranking.songs || []).length > limit) {
+    console.log(`  ... and ${ranking.songs.length - limit} more`);
+  }
+}
+
+async function ensureIndex(artist, { top, autoBuild, demo }) {
+  const file = indexPath(artist, demo);
+  if (fs.existsSync(file)) return file;
+  if (!autoBuild) {
+    console.error(`Index not found: ${file}`);
+    console.error(
+      `Run: node cli.js build --artist "${artist}" --limit ${top}\n` +
+        `Or:  node cli.js rank --artist "${artist}" --top ${top} --build`
+    );
+    process.exit(1);
+  }
+  console.log(`[rank] index missing, building hot top ${top} for "${artist}"...`);
+  await cmdBuild({ artist, limit: top, demo: Boolean(demo) });
+  if (!fs.existsSync(file)) {
+    console.error(`Build finished but index still missing: ${file}`);
+    process.exit(1);
+  }
+  return file;
+}
+
+async function cmdRank(args) {
+  const artist = args.artist || "Kanye West";
+  const top = Number(args.top || args.limit || 50);
+  const level = normalizeLevel(args.level || "both");
+  const demo = Boolean(args.demo);
+  const autoBuild = Boolean(args.build);
+  const file = await ensureIndex(artist, { top, autoBuild, demo });
+  const fullIndex = JSON.parse(fs.readFileSync(file, "utf8"));
+  const ranking = rankSongsByVocab(fullIndex, level);
+  ranking.top = top;
+  ranking.source_index = path.basename(file);
+  const outFile = writeRanking(RANKINGS_DIR, ranking, top);
+  printRankingPreview(ranking, 20);
+  console.log(`\nWrote ${outFile}`);
+  return ranking;
+}
+
+async function cmdRankAll(args) {
+  const top = Number(args.top || args.limit || 50);
+  const level = normalizeLevel(args.level || "both");
+  const demo = Boolean(args.demo);
+  // rank-all defaults to auto-building missing indexes; pass --no-build to skip.
+  const autoBuild = !Boolean(args["no-build"]);
+  const artists = DEFAULT_ARTISTS;
+  const rankings = [];
+
+  console.log(
+    `Rank-all: ${artists.join(" · ")} · top ${top} · ${level}` +
+      (autoBuild ? " · auto-build if missing" : " · no-build")
+  );
+
+  for (const artist of artists) {
+    console.log(`\n=== ${artist} ===`);
+    try {
+      const ranking = await cmdRank({
+        artist,
+        top,
+        level,
+        demo,
+        build: autoBuild,
+      });
+      rankings.push(ranking);
+    } catch (e) {
+      console.error(`[rank-all] ${artist} failed: ${e.message || e}`);
+    }
+  }
+
+  if (!rankings.length) {
+    console.error("No rankings produced.");
+    process.exit(1);
+  }
+
+  const summary = compareArtistRankings(rankings);
+  summary.top = top;
+  const summaryFile = writeSummary(RANKINGS_DIR, summary, top);
+  console.log(`\n=== Artist summary (${summary.level_label}) ===`);
+  for (const a of summary.artists) {
+    console.log(
+      `  #${a.rank} ${a.artist.padEnd(16)}  unique=${String(a.artist_unique_words).padStart(4)}  ` +
+        `hits=${String(a.artist_total_hits).padStart(5)}  hardest=${a.hardest_song?.song_name || "-"}`
+    );
+  }
+  console.log(`\nWrote ${summaryFile}`);
+}
+
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
@@ -316,11 +437,17 @@ async function main() {
   if (cmd === "build") return cmdBuild(args);
   if (cmd === "learn") return cmdLearn(args);
   if (cmd === "serve") return cmdServe(args);
+  if (cmd === "rank") return cmdRank(args);
+  if (cmd === "rank-all") return cmdRankAll(args);
   console.log(`Song Vocab Agent (v1)
 
 Usage:
   node cli.js build --demo --artist "Kanye West"
   node cli.js build --artist "Kanye West" --songs-file data/playlists/kanye_v1.txt
+  node cli.js build --artist "Taylor Swift" --limit 50
+  node cli.js rank --artist "Kanye West" --top 50 --level cet6
+  node cli.js rank --artist "J. Cole" --top 50 --level both --build
+  node cli.js rank-all --top 50 --level both          # Kanye / Taylor / J. Cole
   node cli.js serve --artist "Kanye West"                  # 默认四级+六级，页内可切换
   node cli.js serve --artist "Kanye West" --level cet4     # 只学四级
   node cli.js serve --artist "Kanye West" --level cet6     # 只学六级
@@ -328,6 +455,7 @@ Usage:
 
 Mode A: 网页搜词框 → GET /api/search?word=bound（不经模型）
 Mode B: AI 聊天框 → POST /api/chat（模型调用 find_word_in_songs）
+Rank:   热门歌曲四六级词汇排行榜（确定性统计，不经模型）
 Level:  页内「四级 / 六级 / 四级+六级」或 --level cet4|cet6|both
 
 Env (.env):

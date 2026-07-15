@@ -41,8 +41,32 @@ node cli.js serve --artist "Kanye West" --level cet6
 - **词表等级**：顶部切换「四级 / 六级 / 四级+六级」（基于同一歌单词库过滤，不必重建）  
 - **方式 A · 网页搜词**：输入生词 → 直接查当前等级下的索引（不经模型）  
 - **方式 B · AI 聊天**：人话提问 → 模型调用 tool `find_word_in_songs` → 用人话回答（练 Ch.01）  
+- **排行榜**：Kanye West / Taylor Swift / J. Cole 热门 50 首的四六级词汇对比（确定性统计）  
 - 学习卡片：词典释义、中英歌词、「在这首歌里」（enrich 缓存）、上一个/下一个  
 - 同一核心函数：`lib/findWord.js` → `findWordInSongs`  
+
+## 排行榜（Kanye · Taylor · J. Cole）
+
+统计逻辑在 `lib/rank.js`：从歌词索引数**唯一词**与**命中次数**，不经 LLM。
+
+```bash
+# 先确保 api-enhanced 在 3000 端口；缺索引时会自动 build 热门 50
+node cli.js rank-all --top 50 --level both
+
+# 或单歌手
+node cli.js build --artist "Taylor Swift" --limit 50
+node cli.js rank --artist "Taylor Swift" --top 50 --level cet6
+
+node cli.js rank --artist "J. Cole" --top 50 --level both --build
+```
+
+产物写入 `out/rankings/`，学习页打开「排行榜」Tab，或：
+
+- `GET /api/rankings`
+- `GET /api/ranking?artist=Kanye%20West&level=both&top=50`
+- `GET /api/ranking/summary?level=both`
+
+玩法创意见 [`docs/playability-agent-ideas.md`](docs/playability-agent-ideas.md)。
 
 ## Demo（不连网易云 / 可不配 Key）
 
@@ -56,6 +80,7 @@ node cli.js learn --demo
 - `data/cet4_words.txt` / `cet6_words.txt` — 四、六级词表（建库取并集；学习时按等级过滤）  
 - `data/cet46_glossary.json` — 四六级合并释义（另有分册 `cet4_glossary.json` / `cet6_glossary.json`）  
 - `out/kanye_west_cet6_index.json` — 歌单词库索引（含四级+六级命中；文件名沿用旧后缀）  
+- `out/rankings/*_top50_*.json` — 歌手热门歌曲词汇排行榜  
 - `out/enrich/*.json` — 深度语义缓存  
 - `out/player/learn.html` — 静态页备份  
 
@@ -63,10 +88,11 @@ node cli.js learn --demo
 
 | 概念 | 这里落在哪 |
 |------|------------|
-| Ch.01–03 tools | build / enrich / play |
+| Ch.01–03 tools | build / enrich / play / rank |
 | Ch.04 context | enrich prompt：词+行+歌名+词典义 → story |
 | Ch.13 connectors | api-enhanced、DeepSeek |
-| Ch.22 canvas | `docs/song-vocab-agent-canvas.md` |
+| Ch.16/17 | 排行榜用确定性统计，不做模型算词 |
+| Ch.22 canvas | `docs/song-vocab-agent-canvas.md` / `docs/playability-agent-ideas.md` |
 
 ## 自用与版权
 
