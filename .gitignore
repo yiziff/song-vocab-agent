@@ -6,6 +6,7 @@
 out/player/
 out/enrich/
 out/known_words.json
+out/plans/
 
 # local scratch from debugging
 _test.html

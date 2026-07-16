@@ -1,0 +1,29 @@
+{
+  "emotion": [
+    "lonely", "loneliness", "heart", "pain", "love", "tears", "feel", "feeling",
+    "sad", "hurt", "cry", "afraid", "fear", "hope", "dream", "hate", "anger",
+    "guilt", "shame", "pride", "joy", "sorrow", "grief", "desire", "passion",
+    "lonely", "broken", "empty", "numb", "anxious", "peace", "calm"
+  ],
+  "abstract": [
+    "concept", "conscious", "consciousness", "dimension", "paradox", "faith",
+    "truth", "reality", "illusion", "existence", "identity", "soul", "spirit",
+    "destiny", "fate", "purpose", "meaning", "freedom", "power", "control",
+    "ego", "self", "universe", "infinite", "eternal", "philosophy", "wisdom"
+  ],
+  "narrative": [
+    "story", "memory", "remember", "forget", "past", "future", "yesterday",
+    "tomorrow", "chapter", "journey", "road", "home", "leave", "return",
+    "promise", "betray", "forgive", "apology", "letter", "goodbye", "hello"
+  ],
+  "relationship": [
+    "relationship", "friend", "lover", "family", "mother", "father", "brother",
+    "sister", "wife", "husband", "girlfriend", "boyfriend", "stranger", "enemy",
+    "trust", "loyal", "loyalty", "commit", "marriage", "divorce", "together"
+  ],
+  "daily": [
+    "money", "work", "job", "school", "city", "street", "night", "morning",
+    "phone", "drive", "car", "food", "drink", "party", "club", "sleep",
+    "wake", "clothes", "fashion", "famous", "fame", "camera"
+  ]
+}

@@ -440,15 +440,17 @@ out/
 
 ## 建议新增的 Agent Tools
 
-| Tool | 是否确定性 | 作用 |
-|------|------------|------|
-| `get_artist_ranking` | 是 | 读取歌手排行榜 |
-| `compare_artist_vocab` | 是 | 对比两个歌手统计 |
-| `sample_evidence_lines` | 是 | 按词/主题抽歌词证据 |
-| `draft_debate_round` | 否 | 生成一回合切磋文本 |
-| `judge_battle` | 否 | 裁判总结 |
-| `recommend_learning_path` | 否 | 生成学习路线 |
-| `save_user_progress` | 是，有副作用 | 保存认识/不认识 |
+| Tool | 是否确定性 | 作用 | 状态 |
+|------|------------|------|------|
+| `find_word_in_songs` | 是 | 查词定位 | 已有 |
+| `learn_song` | 是 | 按歌学：抽词表 + 首词时间戳 | **已有** |
+| `get_artist_ranking` | 是 | 读取歌手排行榜 | 待做 |
+| `compare_artist_vocab` | 是 | 对比两个歌手统计 | 待做 |
+| `sample_evidence_lines` | 是 | 按词/主题抽歌词证据 | 待做 |
+| `draft_debate_round` | 否 | 生成一回合切磋文本 | 延后（battle） |
+| `judge_battle` | 否 | 裁判总结 | 延后（battle） |
+| `recommend_learning_path` | 否 | 生成学习路线 | 延后 |
+| `save_user_progress` | 是，有副作用 | 保存认识/不认识 | **已用 `/api/known`** |
 
 工具设计原则：
 
@@ -509,46 +511,56 @@ out/
 - 切磋输出聚焦语言学习，不做人身攻击。
 - 分享内容只包含统计、短引用、学习建议。
 
-## 推荐实施顺序
+## 推荐实施顺序（已按痛点重排）
 
-1. `rank.js`：先做歌手热门歌六级排行榜。
-2. Web 新增 `排行榜` Tab。
-3. `compare` 命令：两个歌手统计对比。
-4. `battle.js`：基于统计和证据生成三回合切磋。
-5. Web 新增 `切磋` Tab。
-6. 保存 battle 结果到 `out/battles/`。
-7. 从 battle 结果跳转到学习路线。
-8. 再做每日挑战、Boss Rush、学习教练。
+> **优先级说明（2026-07）**：双面释义 / `learn_song` / 进度持久化 / 生成式小测 **优先于** battle 切磋与向量检索。排行榜已落地；battle 仍有价值，但应排在学习闭环之后。
+
+### 第一期（痛点闭环 · 已实现 / 进行中）
+
+1. **双面释义 enrich**：`gloss_academic`（词典）+ `gloss_slang`（歌里义）+ `artist_note`（歌手口吻）— `lib/enrich.js` + 学习页双栏。
+2. **`learn_song`**：按歌抽难点词 → API `/api/learn-song` + Agent tool；前端切 deck；seek 降级为醒目时间戳（网易云 iframe 无法可靠 auto-seek）。
+3. **进度持久化**：`POST /api/known` → `out/known_words.json`（兼容旧版纯数组）；「认识」落盘。
+4. **生成式小测**：`POST /api/quiz` + `/api/quiz/grade`；本地判分；打卡文案用确定性计数。
+5. **学习教练 + 歌曲标签（2026-07）**：`tag-songs`（Spotify+Last.fm → `data/song_tags/`）+ `/api/coach/plan` + 学习页「学习教练」Tab；主题种子 `data/theme_seeds.json`；计划落盘 `out/plans/`。
+
+演示路径：
+
+```txt
+学 Runaway → 揭开双面释义 → 点认识落盘 → 点「小测」填空
+或 AI 聊天：「我要学 Runaway」→ learn_song tool
+```
+
+### 第二期（展示与对比）
+
+5. 按歌「词汇能量图」v0（复用 `rank.js` 聚合，纯前端）。
+6. `compare` 命令 / 歌手对比页。
+7. Hip-hop 特征种子库（`data/hiphop_senses.json` 注入 enrich，非向量）。
+
+### 第三期（延后）
+
+8. `battle.js` 三回合切磋 + Web Tab。
+9. 每日挑战、Boss Rush、学习教练。
+10. **向量检索**（「我想学关于失败的词」）— 等进度与双面释义验证后；主题检索可先用种子词表近似。
 
 ## 最推荐先做的 Demo
 
-先做这个，最容易让人觉得项目突然有意思：
+学习闭环（优先）：
+
+```bash
+node cli.js serve --artist "Kanye West"
+# 浏览器：输入 Runaway →「学这首」→ 认识 →「小测」
+```
+
+排行榜（已有）：
 
 ```bash
 node cli.js rank --artist "Kanye West" --top 50 --level cet6
 node cli.js rank --artist "Taylor Swift" --top 50 --level cet6
+```
+
+切磋（第三期，未实现）：
+
+```bash
 node cli.js battle --left "Kanye West" --right "Taylor Swift" --level cet6
 ```
-
-输出一份：
-
-```txt
-Kanye vs Taylor：六级词汇切磋
-
-Round 1：词汇密度
-Round 2：表达风格
-Round 3：学习价值
-
-Winner: ...
-学习建议: ...
-推荐歌单: ...
-```
-
-这个 Demo 同时满足：
-
-- 有数据。
-- 有梗。
-- 有 agent。
-- 有课程映射。
-- 最后能回到学英语。
 

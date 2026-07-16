@@ -30,7 +30,10 @@ import {
   compareArtistRankings,
   writeRanking,
   writeSummary,
+  loadRankingByArtist,
 } from "./lib/rank.js";
+import { loadKnown } from "./lib/progress.js";
+import { tagSongsForArtist } from "./lib/tagSongs.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = __dirname;
@@ -39,7 +42,6 @@ const OUT = path.join(ROOT, "out");
 const RANKINGS_DIR = path.join(OUT, "rankings");
 const CET4_PATH = path.join(DATA, "cet4_words.txt");
 const CET6_PATH = path.join(DATA, "cet6_words.txt");
-const KNOWN_PATH = path.join(OUT, "known_words.json");
 
 function parseArgs(argv) {
   const args = { _: [] };
@@ -70,21 +72,6 @@ function slug(s) {
 
 function indexPath(artist, demo) {
   return path.join(OUT, `${slug(artist)}${demo ? "_demo" : ""}_cet6_index.json`);
-}
-
-function loadKnown() {
-  if (!fs.existsSync(KNOWN_PATH)) return new Set();
-  try {
-    const arr = JSON.parse(fs.readFileSync(KNOWN_PATH, "utf8"));
-    return new Set(arr);
-  } catch {
-    return new Set();
-  }
-}
-
-function saveKnown(set) {
-  fs.mkdirSync(OUT, { recursive: true });
-  fs.writeFileSync(KNOWN_PATH, JSON.stringify([...set].sort(), null, 2));
 }
 
 async function enrichWithLyrics(client, songs) {
@@ -301,9 +288,9 @@ async function cmdServe(args) {
 
   console.log(`Learn server: ${url}`);
   console.log(`Level: ${lvLabel} · deck ${deckCount} / index ${wordCount}（页内可切换四级/六级/全部）`);
-  console.log(`Mode A /api/search · Mode B /api/chat (find_word_in_songs tool)`);
+  console.log(`Mode A /api/search · Mode B /api/chat · Coach /api/coach/plan`);
   console.log(`Rankings: GET /api/rankings · /api/ranking · /api/ranking/summary`);
-  console.log(`LLM: ${llmConfigured ? `ok (${cfg.model})` : "NOT configured — Mode B needs .env"}`);
+  console.log(`LLM: ${llmConfigured ? `ok (${cfg.model})` : "NOT configured — Mode B / Coach need .env"}`);
   console.log("Press Ctrl+C to stop.");
 
   // open browser
@@ -427,6 +414,57 @@ async function cmdRankAll(args) {
   console.log(`\nWrote ${summaryFile}`);
 }
 
+async function cmdTagSongs(args) {
+  loadEnv();
+  const artist = args.artist || "Kanye West";
+  const top = Number(args.top || args.limit || 50);
+  const level = normalizeLevel(args.level || "both");
+  const force = Boolean(args.force);
+  const demo = Boolean(args.demo);
+
+  let ranking = loadRankingByArtist(RANKINGS_DIR, artist, level, top);
+  if (!ranking?.songs?.length) {
+    console.log(`[tag-songs] ranking missing, computing from index...`);
+    const file = await ensureIndex(artist, {
+      top,
+      autoBuild: Boolean(args.build),
+      demo,
+    });
+    const fullIndex = JSON.parse(fs.readFileSync(file, "utf8"));
+    ranking = rankSongsByVocab(fullIndex, level);
+    ranking.top = top;
+    writeRanking(RANKINGS_DIR, ranking, top);
+  }
+
+  console.log(
+    `Tag-songs: ${artist} · top ${top} · ${force ? "force" : "skip high-confidence"}`
+  );
+
+  const { doc, outFile } = await tagSongsForArtist({
+    artist,
+    songs: ranking.songs,
+    top,
+    force,
+    delayMs: 200,
+    onProgress: ({ i, total, songName, status, error }) => {
+      const n = String(i + 1).padStart(2);
+      if (status === "skip") {
+        process.stdout.write(`  ${n}/${total} skip ${songName}\n`);
+      } else if (error) {
+        process.stdout.write(`  ${n}/${total} ${status} ${songName}: ${error}\n`);
+      } else {
+        process.stdout.write(`  ${n}/${total} ${status} ${songName}\n`);
+      }
+    },
+  });
+
+  console.log(
+    `\nStats: matched=${doc.stats.matched} low=${doc.stats.low_confidence} ` +
+      `failed=${doc.stats.failed} skipped=${doc.stats.skipped}`
+  );
+  console.log(`Wrote ${outFile}`);
+}
+
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
@@ -439,6 +477,7 @@ async function main() {
   if (cmd === "serve") return cmdServe(args);
   if (cmd === "rank") return cmdRank(args);
   if (cmd === "rank-all") return cmdRankAll(args);
+  if (cmd === "tag-songs") return cmdTagSongs(args);
   console.log(`Song Vocab Agent (v1)
 
 Usage:
@@ -448,6 +487,8 @@ Usage:
   node cli.js rank --artist "Kanye West" --top 50 --level cet6
   node cli.js rank --artist "J. Cole" --top 50 --level both --build
   node cli.js rank-all --top 50 --level both          # Kanye / Taylor / J. Cole
+  node cli.js tag-songs --artist "Kanye West" --top 50   # Spotify+Last.fm → song_tags JSON
+  node cli.js tag-songs --artist "Kanye West" --top 50 --force
   node cli.js serve --artist "Kanye West"                  # 默认四级+六级，页内可切换
   node cli.js serve --artist "Kanye West" --level cet4     # 只学四级
   node cli.js serve --artist "Kanye West" --level cet6     # 只学六级
@@ -455,12 +496,16 @@ Usage:
 
 Mode A: 网页搜词框 → GET /api/search?word=bound（不经模型）
 Mode B: AI 聊天框 → POST /api/chat（模型调用 find_word_in_songs）
+Coach:  学习页「学习教练」→ POST /api/coach/plan（周计划）
 Rank:   热门歌曲四六级词汇排行榜（确定性统计，不经模型）
+Tags:   tag-songs 离线写 data/song_tags/（教练读 JSON，不实时联网）
 Level:  页内「四级 / 六级 / 四级+六级」或 --level cet4|cet6|both
 
 Env (.env):
   OPENAI_API_KEY / OPENAI_BASE_URL / OPENAI_MODEL
   NETEASE_API_BASE   default http://127.0.0.1:3000
+  SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET   # tag-songs
+  LASTFM_API_KEY                              # tag-songs
 `);
 }
 
