@@ -55,10 +55,11 @@ node cli.js serve --artist "Kanye West" --level cet6
 - **双面释义**：词典义（学术）+ 歌里义（街头）+ 歌手口吻点评（enrich）  
 - **认识落盘**：写入 `out/known_words.json`；**小测**：歌词填空（本地判分）  
 - **方式 A · 网页搜词**：输入生词 → 直接查当前等级下的索引（不经模型）  
-- **方式 B · AI 聊天**：`find_word_in_songs` / `learn_song`（如「我要学 Runaway」）  
+- **方式 B · AI 聊天**：与「学词助手」同一后端（搜词 / 学歌 / 计划）  
+- **学词助手**：自然语言统一入口（见下）  
 - **学习教练**：自然语言描述周目标 / 舒缓旋律 / 主题词 → 7 天 checklist（`POST /api/coach/plan`）  
 - **排行榜**：Kanye West / Taylor Swift / J. Cole 热门 50 首的四六级词汇对比（确定性统计）  
-- 同一核心：`lib/findWord.js`、`lib/learnSong.js`、`lib/enrich.js`、`lib/coachAgent.js`  
+- 同一核心：`lib/findWord.js`、`lib/learnSong.js`、`lib/enrich.js`、`lib/learnAssistant.js`  
 
 ## 歌曲标签（离线 · Spotify + Last.fm）
 
@@ -76,22 +77,39 @@ node cli.js tag-songs --artist "Kanye West" --top 50 --force
 
 未跑 `tag-songs` 时，教练仍可出计划，但会提示「已忽略舒缓/旋律筛选」。
 
-## 学习教练（Ch.02 + Ch.09）
+## 学词助手（统一入口 · Ch.02 + Ch.04 + Ch.09）
 
 ```bash
 node cli.js serve --artist "Kanye West" --level cet6
-# 浏览器打开「学习教练」Tab，例如输入：
-# 这周学 30 个六级词，要舒缓旋律好听一点，偏情绪和抽象词
+# 浏览器打开「学词助手」Tab，例如：
+# 今晚 15 分钟，舒缓一点
+# 这周学 30 个六级词，偏 emotion
+# 我要学 Runaway
+# bound 在哪首
+# （出周计划后）改成 20 个，去掉太燥的
 ```
 
-流程：解析自然语言 → `get_learning_progress` → `get_song_candidates`（读 ranking + song_tags + `theme_seeds.json`）→ `build_week_plan` → 落盘 `out/plans/week_current.json`。  
-点击计划中的歌名会跳回学习页并调用 `learn_song`。
+实现：`lib/learnAssistant.js` 合并工具 + 多轮 `history`（浏览器内存，刷新即丢）。
+
+| Tool | 用途 |
+|------|------|
+| `find_word_in_songs` | 查词在歌里的位置 |
+| `learn_song` | 按歌名开词卡 |
+| `get_learning_progress` | 已认识 / 今日进度 |
+| `get_song_candidates` | 按偏好筛真实候选歌 |
+| `build_week_plan` / `save_week_plan` | 7 天 checklist → `out/plans/week_current.json` |
+| `build_session_plan` | 今晚一场 → `out/plans/session_current.json` |
+| `revise_week_plan` | 改口重排已有周计划 |
+| `get_current_plans` | 查看当前 week / session 摘要 |
 
 API：
 
-- `POST /api/coach/plan` `{ message }`
-- `GET /api/coach/plan` 当前计划
+- `POST /api/assistant/chat` `{ message, history? }`（主入口）
+- `POST /api/chat`、`POST /api/coach/plan` → 转发到同一助手（兼容）
+- `GET /api/coach/plan` → `{ plan, session_plan }`
 - `POST /api/coach/plan/accept` `{ plan_id? }`
+
+点击计划中的歌名会跳回学习页并调用 `learn_song`。
 
 ## 排行榜（Kanye · Taylor · J. Cole）
 
@@ -132,6 +150,7 @@ node cli.js learn --demo
 - `data/song_tags/*_top50.json` — Spotify+Last.fm 离线标签  
 - `data/theme_seeds.json` — 主题种子词（emotion / abstract / …）  
 - `out/plans/week_current.json` — 当前周学习计划  
+- `out/plans/session_current.json` — 今晚一场短计划  
 - `out/enrich/*.json` — 深度语义缓存  
 - `out/player/learn.html` — 静态页备份  
 
@@ -139,10 +158,10 @@ node cli.js learn --demo
 
 | 概念 | 这里落在哪 |
 |------|------------|
-| Ch.01–03 tools | build / enrich / play / rank / coach tools |
-| Ch.02 loop | `lib/coachAgent.js`（MAX_STEPS=6） |
-| Ch.04 context | enrich / coach system + 易变用户消息 |
-| Ch.09 checklist | `lib/coachPlan.js` 7 天计划 |
+| Ch.01–03 tools | build / enrich / play / rank / assistant tools |
+| Ch.02 loop | `lib/learnAssistant.js`（MAX_STEPS=8） |
+| Ch.04 prompt builder | `lib/assistantPrompt.js`（稳定前缀 + history 尾） |
+| Ch.09 checklist | `lib/coachPlan.js` 周计划 / 今晚一场 / revise |
 | Ch.13 connectors | api-enhanced、DeepSeek、Spotify、Last.fm |
 | Ch.16/17 | 排行榜与过滤用确定性统计；标签离线写入 |
 | Ch.22 canvas | `docs/song-vocab-agent-canvas.md` / `docs/playability-agent-ideas.md` |
