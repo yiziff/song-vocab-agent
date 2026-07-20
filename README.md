@@ -1,6 +1,6 @@
 # Song Vocab Agent（最小可跑原型）
 ![Song Vocab 学习界面](learn-ui.png)
-
+ 
 用喜欢的欧美歌手歌词 ∩ 四级/六级词表（可切换），点生词跳到歌曲时间点学习。  
 设计说明见 [`docs/song-vocab-agent-canvas.md`](../../docs/song-vocab-agent-canvas.md)。
 
