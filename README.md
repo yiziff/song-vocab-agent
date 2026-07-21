@@ -8,7 +8,7 @@
 
 - **Node.js 18+**
 - Live 建库：本机 [api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced)（`http://127.0.0.1:3000`）
-- 深度语义：项目根目录 `.env`（DeepSeek，勿提交、勿发到聊天）
+- 深度语义：项目根目录 `.env`（DeepSeek，勿提交、勿   发到聊天）
 
 本项目本身无需 `npm install`（零依赖）。
 
